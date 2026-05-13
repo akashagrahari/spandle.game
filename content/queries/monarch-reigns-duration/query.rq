@@ -1,0 +1,120 @@
+SELECT DISTINCT ?item ?itemLabel ?positionLabel ?sexLabel ?startYear ?endYear ?sitelinks WHERE {
+  VALUES ?position {
+    # British Isles
+    wd:Q18810062  # monarch of England / UK
+    wd:Q110324075 # British monarch (alt)
+    wd:Q111722535 # British monarch (alt)
+    wd:Q9134365   # British monarch (alt)
+    wd:Q12716207  # king of Scotland
+    wd:Q21715287  # king of Wessex
+    wd:Q21013651  # king of Mercia
+    wd:Q21162517  # king of Northumbria
+
+    # France & Franks
+    wd:Q18384454  # king of France
+    wd:Q3439798   # monarch of France
+    wd:Q22923081  # king of the Franks
+    wd:Q16145107  # duke of Burgundy
+
+    # Iberia
+    wd:Q170467    # king of Castile
+    wd:Q32500     # king of Aragon
+    wd:Q34417     # king of León
+    wd:Q34464     # king of Navarre
+    wd:Q36174     # king of Portugal
+    wd:Q691402    # king of Castile and León
+    wd:Q3847454   # king of Spain
+    wd:Q29166132  # king of Navarre (alt)
+
+    # Italy
+    wd:Q3930923   # king of Sicily
+
+    # Holy Roman Empire & German states
+    wd:Q181765    # Holy Roman Emperor
+    wd:Q4389210   # king of Bavaria
+    wd:Q3240735   # king of Prussia
+
+    # Central / Eastern Europe
+    wd:Q3273712   # king of Poland
+    wd:Q6412254   # king of Hungary
+    wd:Q45341328  # king of Bohemia
+
+    # Nordic
+    wd:Q1294765   # king of Norway
+    wd:Q18341329  # king of Denmark
+    wd:Q1268572   # king of Sweden
+    wd:Q2045066   # king of the Netherlands
+    wd:Q13592862  # king of the Belgians
+
+    # Russia
+    wd:Q2618625   # emperor of Russia
+
+    # Roman / Byzantine
+    wd:Q842606    # Roman emperor
+    wd:Q18577504  # Byzantine emperor
+    wd:Q28150764  # emperor of Trebizond
+
+    # Hellenistic
+    wd:Q622602    # king of Macedon
+
+    # Middle East — ancient
+    wd:Q28124026  # king of Assyria
+    wd:Q28132899  # king of Babylon
+    wd:Q37110     # pharaoh of Egypt
+
+    # Middle East — Islamic
+    wd:Q28541943  # Abbasid caliph
+    wd:Q14979753  # Fatimid caliph
+    wd:Q67497236  # Umayyad caliph
+    wd:Q4115925   # Ayyubid / Mamluk sultan
+    wd:Q15315411  # Ottoman sultan
+    wd:Q184299    # shah of Iran / Persia
+    wd:Q20110796  # Safavid shah
+    wd:Q14566713  # sultan of Morocco
+    wd:Q693614    # king of Jerusalem
+
+    # Middle East — modern
+    wd:Q850168    # king of Saudi Arabia
+    wd:Q14625123  # king of Jordan
+
+    # Africa
+    wd:Q10962705  # emperor of Ethiopia
+
+    # South Asia
+    wd:Q15390704  # Mughal emperor
+    wd:Q122790558 # sultan of Delhi
+    wd:Q27582039  # Mauryan emperor
+    wd:Q27596022  # Gupta emperor
+
+    # East / Southeast Asia
+    wd:Q268218    # emperor of China
+    wd:Q208233    # emperor of Japan
+    wd:Q22304810  # king of Joseon (Korea)
+    wd:Q27330121  # king of Thailand
+
+    # Americas
+    wd:Q165948    # Sapa Inca
+  }
+  ?item
+    wdt:P31 wd:Q5;
+    p:P39 ?statement;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  ?statement
+    ps:P39 ?position;
+    pq:P580 ?startDate.
+  OPTIONAL { ?statement pq:P582 ?endDate. }
+  ?position rdfs:label ?positionLabel.
+  OPTIONAL {
+    ?item wdt:P21 ?sex.
+    ?sex rdfs:label ?sexLabel.
+    FILTER(LANG(?sexLabel) = "en")
+  }
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(LANG(?positionLabel) = "en")
+  FILTER(?sitelinks >= 25)
+  BIND(YEAR(?startDate) AS ?startYear)
+  BIND(IF(BOUND(?endDate), STR(YEAR(?endDate)), "") AS ?endYear)
+}
+ORDER BY DESC(?sitelinks)
+LIMIT 800

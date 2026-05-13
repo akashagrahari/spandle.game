@@ -1,0 +1,30 @@
+SELECT ?item ?itemLabel ?startYear ?endYear ?sitelinks WHERE {
+  VALUES ?type {
+    wd:Q2977    # cathedral
+    wd:Q16560   # palace
+    wd:Q12280   # bridge
+    wd:Q11303   # skyscraper
+    wd:Q4989906 # monument
+    wd:Q1141518 # castle (fortified residence)
+    wd:Q23413   # castle (general)
+    wd:Q14752   # parish church
+    wd:Q160742  # abbey
+    wd:Q44539   # temple
+    wd:Q133215  # mosque
+    wd:Q200334  # tomb
+    wd:Q24398318 # religious building
+  }
+  ?item
+    wdt:P31 ?type;
+    wdt:P571 ?startDate;
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  OPTIONAL { ?item wdt:P1619 ?endDate. } # date of official opening
+  OPTIONAL { ?item wdt:P729 ?serviceEntryDate. } # service entry / completion
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 30)
+  BIND(YEAR(?startDate) AS ?startYear)
+  BIND(IF(BOUND(?endDate), STR(YEAR(?endDate)), IF(BOUND(?serviceEntryDate), STR(YEAR(?serviceEntryDate)), "")) AS ?endYear)
+}
+ORDER BY DESC(?sitelinks)
+LIMIT 500

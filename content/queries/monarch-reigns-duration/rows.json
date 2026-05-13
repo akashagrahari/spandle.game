@@ -1,0 +1,7202 @@
+[
+  {
+    "item": "http://www.wikidata.org/entity/Q8409",
+    "itemLabel": "Alexander the Great",
+    "positionLabel": "king of Macedonia",
+    "sexLabel": "male",
+    "startYear": "-335",
+    "endYear": "-322",
+    "sitelinks": "259"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8409",
+    "itemLabel": "Alexander the Great",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-329",
+    "endYear": "-322",
+    "sitelinks": "259"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9682",
+    "itemLabel": "Elizabeth II",
+    "positionLabel": "monarch of the United Kingdom",
+    "sexLabel": "female",
+    "startYear": "1952",
+    "endYear": "2022",
+    "sitelinks": "253"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1405",
+    "itemLabel": "Augustus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "-26",
+    "endYear": "14",
+    "sitelinks": "246"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7192",
+    "itemLabel": "Qin Shi Huang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "-220",
+    "endYear": "-209",
+    "sitelinks": "196"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q217096",
+    "itemLabel": "Naruhito",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "startYear": "2019",
+    "endYear": "",
+    "sitelinks": "189"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3044",
+    "itemLabel": "Charlemagne",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "768",
+    "endYear": "814",
+    "sitelinks": "186"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3044",
+    "itemLabel": "Charlemagne",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "800",
+    "endYear": "814",
+    "sitelinks": "186"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7207",
+    "itemLabel": "Elizabeth I of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "female",
+    "startYear": "1558",
+    "endYear": "1603",
+    "sitelinks": "185"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7742",
+    "itemLabel": "Louis XIV of France",
+    "positionLabel": "King of France and Navarre",
+    "sexLabel": "male",
+    "startYear": "1643",
+    "endYear": "1715",
+    "sitelinks": "184"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8479",
+    "itemLabel": "Peter the Great",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "male",
+    "startYear": "1721",
+    "endYear": "1725",
+    "sitelinks": "180"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1430",
+    "itemLabel": "Marcus Aurelius",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "161",
+    "endYear": "180",
+    "sitelinks": "176"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8589",
+    "itemLabel": "Ashoka",
+    "positionLabel": "Mauryan Emperor",
+    "sexLabel": "male",
+    "startYear": "-267",
+    "endYear": "-231",
+    "sitelinks": "176"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43274",
+    "itemLabel": "Charles III",
+    "positionLabel": "monarch of the United Kingdom",
+    "sexLabel": "male",
+    "startYear": "2022",
+    "endYear": "",
+    "sitelinks": "174"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9439",
+    "itemLabel": "Victoria",
+    "positionLabel": "monarch of the United Kingdom of Great Britain and Ireland",
+    "sexLabel": "female",
+    "startYear": "1837",
+    "endYear": "1901",
+    "sitelinks": "173"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q635",
+    "itemLabel": "Cleopatra",
+    "positionLabel": "pharaoh",
+    "sexLabel": "female",
+    "startYear": "-50",
+    "endYear": "-29",
+    "sitelinks": "169"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8597",
+    "itemLabel": "Akbar",
+    "positionLabel": "Mughal emperor",
+    "sexLabel": "male",
+    "startYear": "1556",
+    "endYear": "1605",
+    "sitelinks": "166"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8413",
+    "itemLabel": "Constantine the Great",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "306",
+    "endYear": "337",
+    "sitelinks": "156"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34479",
+    "itemLabel": "Hirohito",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "startYear": "1926",
+    "endYear": "1989",
+    "sitelinks": "156"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8581",
+    "itemLabel": "Saladin",
+    "positionLabel": "Sultan of Egypt",
+    "sexLabel": "male",
+    "startYear": "1169",
+    "endYear": "1193",
+    "sitelinks": "155"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8474",
+    "itemLabel": "Suleiman the Magnificent",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1520",
+    "endYear": "1566",
+    "sitelinks": "154"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q36450",
+    "itemLabel": "Catherine II of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "female",
+    "startYear": "1762",
+    "endYear": "1796",
+    "sitelinks": "151"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q855252",
+    "itemLabel": "Bhumibol Adulyadej",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "startYear": "1946",
+    "endYear": "2016",
+    "sitelinks": "142"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1413",
+    "itemLabel": "Nero",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "54",
+    "endYear": "68",
+    "sitelinks": "135"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40787",
+    "itemLabel": "Nicholas II of Russia",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1894",
+    "endYear": "1916",
+    "sitelinks": "135"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40787",
+    "itemLabel": "Nicholas II of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "male",
+    "startYear": "1894",
+    "endYear": "1917",
+    "sitelinks": "135"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1409",
+    "itemLabel": "Caligula",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "37",
+    "endYear": "41",
+    "sitelinks": "129"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2677",
+    "itemLabel": "Wilhelm II",
+    "positionLabel": "King of Prussia",
+    "sexLabel": "male",
+    "startYear": "1888",
+    "endYear": "1918",
+    "sitelinks": "129"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37979",
+    "itemLabel": "Akihito",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "startYear": "1989",
+    "endYear": "2019",
+    "sitelinks": "129"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7732",
+    "itemLabel": "Louis XVI of France",
+    "positionLabel": "King of France and Navarre",
+    "sexLabel": "male",
+    "startYear": "1774",
+    "endYear": "1791",
+    "sitelinks": "126"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19943",
+    "itemLabel": "Juan Carlos I of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1975",
+    "endYear": "2014",
+    "sitelinks": "126"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q32500",
+    "itemLabel": "Charles V",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1519",
+    "endYear": "1556",
+    "sitelinks": "125"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q36359",
+    "itemLabel": "Hammurabi",
+    "positionLabel": "King of Babylon",
+    "sexLabel": "male",
+    "startYear": "-1791",
+    "endYear": "-1749",
+    "sitelinks": "124"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q33550",
+    "itemLabel": "Frederick II of Prussia",
+    "positionLabel": "King of Prussia",
+    "sexLabel": "male",
+    "startYear": "1740",
+    "endYear": "1786",
+    "sitelinks": "123"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q280856",
+    "itemLabel": "George VI",
+    "positionLabel": "monarch of the United Kingdom",
+    "sexLabel": "male",
+    "startYear": "1936",
+    "endYear": "1952",
+    "sitelinks": "121"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34503",
+    "itemLabel": "Mehmed II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1451",
+    "endYear": "1481",
+    "sitelinks": "121"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34503",
+    "itemLabel": "Mehmed II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1444",
+    "endYear": "1446",
+    "sitelinks": "121"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q191045",
+    "itemLabel": "Felipe VI of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "2014",
+    "endYear": "",
+    "sitelinks": "119"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41866",
+    "itemLabel": "Justinian I",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "527",
+    "endYear": "565",
+    "sitelinks": "119"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1407",
+    "itemLabel": "Tiberius",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "14",
+    "endYear": "37",
+    "sitelinks": "118"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q38370",
+    "itemLabel": "Henry VIII of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1509",
+    "endYear": "1547",
+    "sitelinks": "118"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41178",
+    "itemLabel": "Haile Selassie I",
+    "positionLabel": "Emperor of Ethiopia",
+    "sexLabel": "male",
+    "startYear": "1930",
+    "endYear": "1974",
+    "sitelinks": "116"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1425",
+    "itemLabel": "Trajan",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "98",
+    "endYear": "117",
+    "sitelinks": "115"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12154",
+    "itemLabel": "TutanKhamun",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1332",
+    "endYear": "-1323",
+    "sitelinks": "113"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37594",
+    "itemLabel": "William the Conqueror",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1066",
+    "endYear": "1087",
+    "sitelinks": "112"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57464",
+    "itemLabel": "Abdullah II of Jordan",
+    "positionLabel": "King of Jordan",
+    "sexLabel": "male",
+    "startYear": "1999",
+    "endYear": "",
+    "sitelinks": "112"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q102139",
+    "itemLabel": "Margrethe II of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "female",
+    "startYear": "1972",
+    "endYear": "2024",
+    "sitelinks": "111"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q128245",
+    "itemLabel": "Mohammad Reza I of Iran",
+    "positionLabel": "shah",
+    "sexLabel": "male",
+    "startYear": "1941",
+    "endYear": "1979",
+    "sitelinks": "111"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1419",
+    "itemLabel": "Vespasian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "69",
+    "endYear": "79",
+    "sitelinks": "111"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1427",
+    "itemLabel": "Hadrian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "117",
+    "endYear": "138",
+    "sitelinks": "111"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q42305",
+    "itemLabel": "Richard I of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1189",
+    "endYear": "1199",
+    "sitelinks": "111"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7523",
+    "itemLabel": "Kublai Khan",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1271",
+    "endYear": "1294",
+    "sitelinks": "110"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q269412",
+    "itemLabel": "George V",
+    "positionLabel": "monarch of the United Kingdom of Great Britain and Ireland",
+    "sexLabel": "male",
+    "startYear": "1910",
+    "endYear": "1927",
+    "sitelinks": "109"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q269412",
+    "itemLabel": "George V",
+    "positionLabel": "monarch of the United Kingdom",
+    "sexLabel": "male",
+    "startYear": "1927",
+    "endYear": "1936",
+    "sitelinks": "109"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81506",
+    "itemLabel": "Charles I of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1625",
+    "endYear": "1649",
+    "sitelinks": "109"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81506",
+    "itemLabel": "Charles I of England",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1625",
+    "endYear": "1649",
+    "sitelinks": "109"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q590227",
+    "itemLabel": "Edward VIII",
+    "positionLabel": "monarch of the United Kingdom",
+    "sexLabel": "male",
+    "startYear": "1936",
+    "endYear": "1936",
+    "sitelinks": "109"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1411",
+    "itemLabel": "Claudius",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "41",
+    "endYear": "54",
+    "sitelinks": "109"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15193",
+    "itemLabel": "Alexander I of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "male",
+    "startYear": "1801",
+    "endYear": "1825",
+    "sitelinks": "109"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131412",
+    "itemLabel": "Mary, Queen of Scots",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "female",
+    "startYear": "1542",
+    "endYear": "1567",
+    "sitelinks": "108"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57298",
+    "itemLabel": "Abdullah of Saudi Arabia",
+    "positionLabel": "King of Saudi Arabia",
+    "sexLabel": "male",
+    "startYear": "2005",
+    "endYear": "2015",
+    "sitelinks": "108"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44387",
+    "itemLabel": "Darius I",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-521",
+    "endYear": "-485",
+    "sitelinks": "108"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154952",
+    "itemLabel": "William Alexander of the Netherlands",
+    "positionLabel": "King of the Netherlands",
+    "sexLabel": "male",
+    "startYear": "2013",
+    "endYear": "",
+    "sitelinks": "107"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q127318",
+    "itemLabel": "George III of Great Britain",
+    "positionLabel": "monarch of the United Kingdom of Great Britain and Ireland",
+    "sexLabel": "male",
+    "startYear": "1801",
+    "endYear": "1820",
+    "sitelinks": "107"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q127318",
+    "itemLabel": "George III of Great Britain",
+    "positionLabel": "Monarch of Great Britain",
+    "sexLabel": "male",
+    "startYear": "1760",
+    "endYear": "1801",
+    "sitelinks": "107"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q797848",
+    "itemLabel": "Babur",
+    "positionLabel": "Mughal emperor",
+    "sexLabel": "male",
+    "startYear": "1526",
+    "endYear": "1531",
+    "sitelinks": "107"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q20875",
+    "itemLabel": "Edward VII",
+    "positionLabel": "monarch of the United Kingdom of Great Britain and Ireland",
+    "sexLabel": "male",
+    "startYear": "1901",
+    "endYear": "1910",
+    "sitelinks": "107"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131706",
+    "itemLabel": "Maria Theresa of Austria",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "female",
+    "startYear": "1740",
+    "endYear": "1780",
+    "sitelinks": "106"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131706",
+    "itemLabel": "Maria Theresa of Austria",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "female",
+    "startYear": "1740",
+    "endYear": "1780",
+    "sitelinks": "106"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81794",
+    "itemLabel": "Akhenaten",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1351",
+    "endYear": "-1334",
+    "sitelinks": "106"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q548733",
+    "itemLabel": "Vajiralongkorn",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "startYear": "2016",
+    "endYear": "",
+    "sitelinks": "105"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7738",
+    "itemLabel": "Louis XV of France",
+    "positionLabel": "King of France and Navarre",
+    "sexLabel": "male",
+    "startYear": "1715",
+    "endYear": "1774",
+    "sitelinks": "105"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130734",
+    "itemLabel": "Nicholas I of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "male",
+    "startYear": "1825",
+    "endYear": "1855",
+    "sitelinks": "104"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83100",
+    "itemLabel": "Osman I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1299",
+    "endYear": "1324",
+    "sitelinks": "104"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q936976",
+    "itemLabel": "Henry IV of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1589",
+    "endYear": "1610",
+    "sitelinks": "104"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83171",
+    "itemLabel": "Alexander II of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "male",
+    "startYear": "1855",
+    "endYear": "1881",
+    "sitelinks": "103"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1523",
+    "itemLabel": "Ramesses II",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1278",
+    "endYear": "-1212",
+    "sitelinks": "103"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83476",
+    "itemLabel": "Alfred the Great",
+    "positionLabel": "King of Wessex",
+    "sexLabel": "male",
+    "startYear": "871",
+    "endYear": "899",
+    "sitelinks": "102"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83476",
+    "itemLabel": "Alfred the Great",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "871",
+    "endYear": "899",
+    "sitelinks": "102"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q367825",
+    "itemLabel": "Salman bin Abdulaziz Al Saud",
+    "positionLabel": "King of Saudi Arabia",
+    "sexLabel": "male",
+    "startYear": "2015",
+    "endYear": "",
+    "sitelinks": "102"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q45068",
+    "itemLabel": "Carl XVI Gustaf of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1973",
+    "endYear": "",
+    "sitelinks": "102"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q82674",
+    "itemLabel": "Mary I",
+    "positionLabel": "monarch of England",
+    "sexLabel": "female",
+    "startYear": "1553",
+    "endYear": "1558",
+    "sitelinks": "101"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134817",
+    "itemLabel": "Abdul Hamid II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1876",
+    "endYear": "1909",
+    "sitelinks": "101"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q79789",
+    "itemLabel": "Frederick Barbarossa",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1155",
+    "endYear": "1190",
+    "sitelinks": "101"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1421",
+    "itemLabel": "Titus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "79",
+    "endYear": "81",
+    "sitelinks": "101"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q29574",
+    "itemLabel": "Beatrix of the Netherlands",
+    "positionLabel": "King of the Netherlands",
+    "sexLabel": "female",
+    "startYear": "1980",
+    "endYear": "2013",
+    "sitelinks": "101"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57287",
+    "itemLabel": "Harald V of Norway",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1991",
+    "endYear": "",
+    "sitelinks": "101"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83672",
+    "itemLabel": "Shah Jahan",
+    "positionLabel": "Mughal emperor",
+    "sexLabel": "male",
+    "startYear": "1628",
+    "endYear": "1658",
+    "sitelinks": "100"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q120180",
+    "itemLabel": "Alexander III of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "male",
+    "startYear": "1881",
+    "endYear": "1894",
+    "sitelinks": "98"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q122553",
+    "itemLabel": "Charles II of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1660",
+    "endYear": "1685",
+    "sitelinks": "98"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q122553",
+    "itemLabel": "Charles II of England",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1660",
+    "endYear": "1685",
+    "sitelinks": "98"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51056",
+    "itemLabel": "Franz Joseph I of Austria",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1848",
+    "endYear": "1916",
+    "sitelinks": "98"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51056",
+    "itemLabel": "Franz Joseph I of Austria",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1848",
+    "endYear": "1916",
+    "sitelinks": "98"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130822",
+    "itemLabel": "William IV",
+    "positionLabel": "monarch of the United Kingdom of Great Britain and Ireland",
+    "sexLabel": "male",
+    "startYear": "1830",
+    "endYear": "1837",
+    "sitelinks": "97"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131002",
+    "itemLabel": "Harun al-Rashid",
+    "positionLabel": "Abbasid caliph",
+    "sexLabel": "male",
+    "startYear": "786",
+    "endYear": "809",
+    "sitelinks": "97"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1423",
+    "itemLabel": "Domitian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "81",
+    "endYear": "96",
+    "sitelinks": "96"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12591",
+    "itemLabel": "Nebuchadnezzar II",
+    "positionLabel": "King of Babylon",
+    "sexLabel": "male",
+    "startYear": "-604",
+    "endYear": "-561",
+    "sitelinks": "96"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12967",
+    "itemLabel": "Leopold II of Belgium",
+    "positionLabel": "King of the Belgians",
+    "sexLabel": "male",
+    "startYear": "1865",
+    "endYear": "1909",
+    "sitelinks": "96"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q129234",
+    "itemLabel": "Hatshepsut",
+    "positionLabel": "pharaoh",
+    "sexLabel": "female",
+    "startYear": "-1478",
+    "endYear": "-1457",
+    "sitelinks": "95"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151509",
+    "itemLabel": "Ibn Saud",
+    "positionLabel": "King of Saudi Arabia",
+    "sexLabel": "male",
+    "startYear": "1932",
+    "endYear": "1953",
+    "sitelinks": "95"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q79972",
+    "itemLabel": "James VI and I",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1603",
+    "endYear": "1625",
+    "sitelinks": "95"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q79972",
+    "itemLabel": "James VI and I",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1587",
+    "endYear": "1625",
+    "sitelinks": "95"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43107",
+    "itemLabel": "Diocletian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "284",
+    "endYear": "305",
+    "sitelinks": "95"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q119702",
+    "itemLabel": "Anne of Great Britain",
+    "positionLabel": "Monarch of Great Britain",
+    "sexLabel": "female",
+    "startYear": "1707",
+    "endYear": "1714",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q119702",
+    "itemLabel": "Anne of Great Britain",
+    "positionLabel": "monarch of England",
+    "sexLabel": "female",
+    "startYear": "1702",
+    "endYear": "1707",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q119702",
+    "itemLabel": "Anne of Great Britain",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "female",
+    "startYear": "1702",
+    "endYear": "1707",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174231",
+    "itemLabel": "Emperor Meiji",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "startYear": "1867",
+    "endYear": "1912",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130586",
+    "itemLabel": "George IV of the United Kingdom",
+    "positionLabel": "monarch of the United Kingdom of Great Britain and Ireland",
+    "sexLabel": "male",
+    "startYear": "1820",
+    "endYear": "1830",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q737533",
+    "itemLabel": "Louis XIII of France",
+    "positionLabel": "King of France and Navarre",
+    "sexLabel": "male",
+    "startYear": "1617",
+    "endYear": "1643",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q737533",
+    "itemLabel": "Louis XIII of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1610",
+    "endYear": "1617",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q346",
+    "itemLabel": "Louis IX of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1226",
+    "endYear": "1270",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15189",
+    "itemLabel": "Paul I of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "male",
+    "startYear": "1796",
+    "endYear": "1801",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q33941",
+    "itemLabel": "Julian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "360",
+    "endYear": "363",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46696",
+    "itemLabel": "Theodosius I",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "379",
+    "endYear": "395",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46696",
+    "itemLabel": "Theodosius I",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "379",
+    "endYear": "395",
+    "sitelinks": "94"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155004",
+    "itemLabel": "Philippe of Belgium",
+    "positionLabel": "King of the Belgians",
+    "sexLabel": "male",
+    "startYear": "2013",
+    "endYear": "",
+    "sitelinks": "93"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q129308",
+    "itemLabel": "John, King of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1199",
+    "endYear": "1216",
+    "sitelinks": "93"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83229",
+    "itemLabel": "Edward VI of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1547",
+    "endYear": "1553",
+    "sitelinks": "93"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q485547",
+    "itemLabel": "Aurangzeb",
+    "positionLabel": "Mughal emperor",
+    "sexLabel": "male",
+    "startYear": "1658",
+    "endYear": "1707",
+    "sitelinks": "93"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q129857",
+    "itemLabel": "Francis I of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1515",
+    "endYear": "1547",
+    "sitelinks": "92"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1414",
+    "itemLabel": "Galba",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "68",
+    "endYear": "69",
+    "sitelinks": "92"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1429",
+    "itemLabel": "Antoninus Pius",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "138",
+    "endYear": "161",
+    "sitelinks": "92"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130221",
+    "itemLabel": "Frederick II, Holy Roman Emperor",
+    "positionLabel": "King of Sicily",
+    "sexLabel": "male",
+    "startYear": "1198",
+    "endYear": "",
+    "sitelinks": "91"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130221",
+    "itemLabel": "Frederick II, Holy Roman Emperor",
+    "positionLabel": "King of Jerusalem",
+    "sexLabel": "male",
+    "startYear": "1225",
+    "endYear": "1228",
+    "sitelinks": "91"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130221",
+    "itemLabel": "Frederick II, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1220",
+    "endYear": "1250",
+    "sitelinks": "91"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130650",
+    "itemLabel": "Philip II of Macedon",
+    "positionLabel": "king of Macedonia",
+    "sexLabel": "male",
+    "startYear": "-358",
+    "endYear": "-335",
+    "sitelinks": "91"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150652",
+    "itemLabel": "Wilhelm I",
+    "positionLabel": "King of Prussia",
+    "sexLabel": "male",
+    "startYear": "1861",
+    "endYear": "1888",
+    "sitelinks": "90"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q181154",
+    "itemLabel": "Mu'awiya I",
+    "positionLabel": "Umayyad Caliph",
+    "sexLabel": "male",
+    "startYear": "661",
+    "endYear": "680",
+    "sitelinks": "90"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q129987",
+    "itemLabel": "William III of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1694",
+    "endYear": "1702",
+    "sitelinks": "90"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q129987",
+    "itemLabel": "William III of England",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1694",
+    "endYear": "1702",
+    "sitelinks": "90"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q82339",
+    "itemLabel": "Clovis I",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "481",
+    "endYear": "511",
+    "sitelinks": "90"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q494660",
+    "itemLabel": "Selim I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1512",
+    "endYear": "1520",
+    "sitelinks": "90"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1442",
+    "itemLabel": "Septimius Severus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "193",
+    "endYear": "211",
+    "sitelinks": "90"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43915",
+    "itemLabel": "Otto I the Great",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "962",
+    "endYear": "973",
+    "sitelinks": "90"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130834",
+    "itemLabel": "Francis II, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1792",
+    "endYear": "1835",
+    "sitelinks": "89"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130834",
+    "itemLabel": "Francis II, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1792",
+    "endYear": "1835",
+    "sitelinks": "89"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130834",
+    "itemLabel": "Francis II, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1792",
+    "endYear": "1806",
+    "sitelinks": "89"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131981",
+    "itemLabel": "George II of Great Britain",
+    "positionLabel": "Monarch of Great Britain",
+    "sexLabel": "male",
+    "startYear": "1727",
+    "endYear": "1760",
+    "sitelinks": "88"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q133028",
+    "itemLabel": "Richard III of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1483",
+    "endYear": "1485",
+    "sitelinks": "88"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q126188",
+    "itemLabel": "James II of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1685",
+    "endYear": "1688",
+    "sitelinks": "88"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q126188",
+    "itemLabel": "James II of England",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1685",
+    "endYear": "1688",
+    "sitelinks": "88"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1446",
+    "itemLabel": "Caracalla",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "198",
+    "endYear": "217",
+    "sitelinks": "88"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41852",
+    "itemLabel": "Heraclius",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "610",
+    "endYear": "641",
+    "sitelinks": "88"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57798",
+    "itemLabel": "Edward I of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1272",
+    "endYear": "1307",
+    "sitelinks": "88"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1416",
+    "itemLabel": "Otho",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "69",
+    "endYear": "69",
+    "sitelinks": "87"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131581",
+    "itemLabel": "Henry V of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1413",
+    "endYear": "1422",
+    "sitelinks": "86"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52937",
+    "itemLabel": "Christina of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "female",
+    "startYear": "1632",
+    "endYear": "1654",
+    "sitelinks": "86"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130752",
+    "itemLabel": "Elizabeth I of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "female",
+    "startYear": "1741",
+    "endYear": "1762",
+    "sitelinks": "85"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151789",
+    "itemLabel": "Peter III of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "male",
+    "startYear": "1762",
+    "endYear": "1762",
+    "sitelinks": "85"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130805",
+    "itemLabel": "George I of Great Britain",
+    "positionLabel": "Monarch of Great Britain",
+    "sexLabel": "male",
+    "startYear": "1714",
+    "endYear": "1727",
+    "sitelinks": "85"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q102140",
+    "itemLabel": "Henry II of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1154",
+    "endYear": "1189",
+    "sitelinks": "85"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1434",
+    "itemLabel": "Commodus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "177",
+    "endYear": "192",
+    "sitelinks": "85"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q43974",
+    "itemLabel": "Louis the Pious",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "814",
+    "endYear": "840",
+    "sitelinks": "85"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46780",
+    "itemLabel": "Aurelian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "270",
+    "endYear": "275",
+    "sitelinks": "85"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185152",
+    "itemLabel": "Puyi",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1908",
+    "endYear": "1912",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185152",
+    "itemLabel": "Puyi",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1917",
+    "endYear": "1917",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188541",
+    "itemLabel": "Chandragupta Maurya",
+    "positionLabel": "Mauryan Emperor",
+    "sexLabel": "male",
+    "startYear": "-320",
+    "endYear": "-296",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q128358",
+    "itemLabel": "Bayezid I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1389",
+    "endYear": "1402",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q129247",
+    "itemLabel": "Edward III of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1327",
+    "endYear": "1377",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130969",
+    "itemLabel": "Philip IV of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1285",
+    "endYear": "1314",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q133168",
+    "itemLabel": "Orhan",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1326",
+    "endYear": "1362",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q71231",
+    "itemLabel": "Charles the Bald",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "875",
+    "endYear": "877",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1417",
+    "itemLabel": "Vitellius",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "69",
+    "endYear": "69",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1762",
+    "itemLabel": "Elagabalus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "218",
+    "endYear": "222",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3911",
+    "itemLabel": "Albert II of Belgium",
+    "positionLabel": "King of the Belgians",
+    "sexLabel": "male",
+    "startYear": "1993",
+    "endYear": "2013",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8058",
+    "itemLabel": "Louis XI of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1461",
+    "endYear": "1483",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52938",
+    "itemLabel": "Gustavus Adolphus of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1611",
+    "endYear": "1632",
+    "sitelinks": "84"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q171349",
+    "itemLabel": "Abbas the Great",
+    "positionLabel": "list of Safavid monarchs",
+    "sexLabel": "male",
+    "startYear": "1588",
+    "endYear": "1629",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q76555",
+    "itemLabel": "Joseph II, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1780",
+    "endYear": "1790",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q76555",
+    "itemLabel": "Joseph II, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1780",
+    "endYear": "1790",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q76555",
+    "itemLabel": "Joseph II, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1765",
+    "endYear": "1790",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81212",
+    "itemLabel": "Pepin the Short",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "751",
+    "endYear": "768",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q214559",
+    "itemLabel": "Ismail I",
+    "positionLabel": "list of Safavid monarchs",
+    "sexLabel": "male",
+    "startYear": "1502",
+    "endYear": "1524",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q675493",
+    "itemLabel": "Henry VII of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1485",
+    "endYear": "1509",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53454",
+    "itemLabel": "John III Sobieski",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1674",
+    "endYear": "1696",
+    "sitelinks": "83"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172353",
+    "itemLabel": "Pyrrhus",
+    "positionLabel": "king of Macedonia",
+    "sexLabel": "male",
+    "startYear": "-273",
+    "endYear": "-271",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172353",
+    "itemLabel": "Pyrrhus",
+    "positionLabel": "king of Macedonia",
+    "sexLabel": "male",
+    "startYear": "-287",
+    "endYear": "-284",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155669",
+    "itemLabel": "Charles IV",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1346",
+    "endYear": "1378",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155669",
+    "itemLabel": "Charles IV",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1355",
+    "endYear": "1378",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q217167",
+    "itemLabel": "King Faisal bin Abdulaziz Al Saud",
+    "positionLabel": "King of Saudi Arabia",
+    "sexLabel": "male",
+    "startYear": "1964",
+    "endYear": "1975",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1424",
+    "itemLabel": "Nerva",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "96",
+    "endYear": "98",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7758",
+    "itemLabel": "Charles X of France",
+    "positionLabel": "King of France and Navarre",
+    "sexLabel": "male",
+    "startYear": "1824",
+    "endYear": "1830",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58514",
+    "itemLabel": "Louis XII of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1498",
+    "endYear": "1515",
+    "sitelinks": "82"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q162543",
+    "itemLabel": "Mehmed VI",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1918",
+    "endYear": "1922",
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q168261",
+    "itemLabel": "Ptolemy I Soter",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-304",
+    "endYear": "-282",
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150726",
+    "itemLabel": "Maximilian I",
+    "positionLabel": "Duke of Burgundy",
+    "sexLabel": "male",
+    "startYear": "1477",
+    "endYear": "1519",
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150726",
+    "itemLabel": "Maximilian I",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1508",
+    "endYear": "1519",
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q182921",
+    "itemLabel": "Reza Shah",
+    "positionLabel": "shah",
+    "sexLabel": "male",
+    "startYear": "1925",
+    "endYear": "1941",
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131394",
+    "itemLabel": "Murad II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1421",
+    "endYear": "1444",
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131394",
+    "itemLabel": "Murad II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1446",
+    "endYear": "1451",
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18363",
+    "itemLabel": "Alfonso XIII",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1886",
+    "endYear": "1931",
+    "sitelinks": "81"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q162356",
+    "itemLabel": "Lady Jane Grey",
+    "positionLabel": "monarch of England",
+    "sexLabel": "female",
+    "startYear": "1553",
+    "endYear": "1553",
+    "sitelinks": "80"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q159575",
+    "itemLabel": "Hugh Capet of France",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "987",
+    "endYear": "996",
+    "sitelinks": "80"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q101384",
+    "itemLabel": "Henry I of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1100",
+    "endYear": "1135",
+    "sitelinks": "80"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1769",
+    "itemLabel": "Severus Alexander",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "222",
+    "endYear": "235",
+    "sitelinks": "80"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130812",
+    "itemLabel": "Mary II of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "female",
+    "startYear": "1689",
+    "endYear": "1694",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130812",
+    "itemLabel": "Mary II of England",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "female",
+    "startYear": "1689",
+    "endYear": "1694",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160349",
+    "itemLabel": "Charles VI of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1380",
+    "endYear": "1422",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q170467",
+    "itemLabel": "Philip V of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1714",
+    "endYear": "1724",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q170467",
+    "itemLabel": "Philip V of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1724",
+    "endYear": "1746",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q146906",
+    "itemLabel": "Hussein I of Jordan",
+    "positionLabel": "King of Jordan",
+    "sexLabel": "male",
+    "startYear": "1952",
+    "endYear": "1999",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174791",
+    "itemLabel": "Mahmud II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1808",
+    "endYear": "1839",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183187",
+    "itemLabel": "Fahd bin Abdulaziz Al Saud",
+    "positionLabel": "King of Saudi Arabia",
+    "sexLabel": "male",
+    "startYear": "1982",
+    "endYear": "2005",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q83653",
+    "itemLabel": "Jahangir I",
+    "positionLabel": "Mughal emperor",
+    "sexLabel": "male",
+    "startYear": "1605",
+    "endYear": "1627",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192868",
+    "itemLabel": "Nader Shah",
+    "positionLabel": "shah",
+    "sexLabel": "male",
+    "startYear": "1736",
+    "endYear": "1747",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q486188",
+    "itemLabel": "Humayun",
+    "positionLabel": "Mughal emperor",
+    "sexLabel": "male",
+    "startYear": "1531",
+    "endYear": "1540",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q486188",
+    "itemLabel": "Humayun",
+    "positionLabel": "Mughal emperor",
+    "sexLabel": "male",
+    "startYear": "1555",
+    "endYear": "1556",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1440",
+    "itemLabel": "Didius Julianus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "193",
+    "endYear": "193",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1752",
+    "itemLabel": "Macrinus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "217",
+    "endYear": "218",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1830",
+    "itemLabel": "Decius",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "249",
+    "endYear": "251",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12971",
+    "itemLabel": "Leopold I of Belgium",
+    "positionLabel": "King of the Belgians",
+    "sexLabel": "male",
+    "startYear": "1831",
+    "endYear": "1865",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15208",
+    "itemLabel": "Catherine I of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "female",
+    "startYear": "1725",
+    "endYear": "1727",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34428",
+    "itemLabel": "Philip II of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1180",
+    "endYear": "1223",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52934",
+    "itemLabel": "Carl XII of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1697",
+    "endYear": "1718",
+    "sitelinks": "79"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183085",
+    "itemLabel": "Isabella II of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "female",
+    "startYear": "1833",
+    "endYear": "1868",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150747",
+    "itemLabel": "Wilhelmina of the Netherlands",
+    "positionLabel": "King of the Netherlands",
+    "sexLabel": "female",
+    "startYear": "1890",
+    "endYear": "1948",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q165983",
+    "itemLabel": "Bayezid II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1481",
+    "endYear": "1512",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q159934",
+    "itemLabel": "Murad III",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1574",
+    "endYear": "1595",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150611",
+    "itemLabel": "Ferdinand I, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1526",
+    "endYear": "1564",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150611",
+    "itemLabel": "Ferdinand I, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1526",
+    "endYear": "1564",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150611",
+    "itemLabel": "Ferdinand I, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1556",
+    "endYear": "1564",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134128",
+    "itemLabel": "Cnut the Great",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1016",
+    "endYear": "1035",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134128",
+    "itemLabel": "Cnut the Great",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1028",
+    "endYear": "1035",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134128",
+    "itemLabel": "Cnut the Great",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1018",
+    "endYear": "1035",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1436",
+    "itemLabel": "Pertinax",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "192",
+    "endYear": "193",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52927",
+    "itemLabel": "Charles XIV John of Sweden",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1818",
+    "endYear": "1844",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52927",
+    "itemLabel": "Charles XIV John of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1818",
+    "endYear": "1844",
+    "sitelinks": "78"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161872",
+    "itemLabel": "Selim II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1566",
+    "endYear": "1574",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150665",
+    "itemLabel": "Charles VI, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1711",
+    "endYear": "1740",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150665",
+    "itemLabel": "Charles VI, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1711",
+    "endYear": "1740",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150665",
+    "itemLabel": "Charles VI, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1711",
+    "endYear": "1740",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q133372",
+    "itemLabel": "Charles VII of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1422",
+    "endYear": "1461",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q96261",
+    "itemLabel": "Murad I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1362",
+    "endYear": "1389",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q102865",
+    "itemLabel": "Darius III",
+    "positionLabel": "shah",
+    "sexLabel": "male",
+    "startYear": "-335",
+    "endYear": "-329",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q102865",
+    "itemLabel": "Darius III",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-335",
+    "endYear": "-331",
+    "sitelinks": "77"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160311",
+    "itemLabel": "Henry III of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1216",
+    "endYear": "1272",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160337",
+    "itemLabel": "Henry VI of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1422",
+    "endYear": "1461",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160337",
+    "itemLabel": "Henry VI of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1470",
+    "endYear": "1471",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160341",
+    "itemLabel": "Edward IV of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1471",
+    "endYear": "1483",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160341",
+    "itemLabel": "Edward IV of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1461",
+    "endYear": "1470",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157899",
+    "itemLabel": "Thutmose III",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1478",
+    "endYear": "-1424",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q159597",
+    "itemLabel": "Harold Godwinson",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1066",
+    "endYear": "1066",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150642",
+    "itemLabel": "Victor Emmanuel III of Italy",
+    "positionLabel": "Emperor of Ethiopia",
+    "sexLabel": "male",
+    "startYear": "1936",
+    "endYear": "1941",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q186256",
+    "itemLabel": "Ferdinand VII of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1814",
+    "endYear": "1833",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q186256",
+    "itemLabel": "Ferdinand VII of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1808",
+    "endYear": "1808",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1817",
+    "itemLabel": "Philip the Arab",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "244",
+    "endYear": "249",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q5236",
+    "itemLabel": "Edward II of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1307",
+    "endYear": "1327",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46418",
+    "itemLabel": "Constantius II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "337",
+    "endYear": "361",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46418",
+    "itemLabel": "Constantius II",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "337",
+    "endYear": "361",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58600",
+    "itemLabel": "Frederick III, German Emperor",
+    "positionLabel": "King of Prussia",
+    "sexLabel": "male",
+    "startYear": "1888",
+    "endYear": "1888",
+    "sitelinks": "76"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160165",
+    "itemLabel": "Anna I of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "female",
+    "startYear": "1730",
+    "endYear": "1740",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q171191",
+    "itemLabel": "Ashurbanipal",
+    "positionLabel": "King of Assyria",
+    "sexLabel": "male",
+    "startYear": "-668",
+    "endYear": "-630",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172056",
+    "itemLabel": "Osman II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1618",
+    "endYear": "1622",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q187312",
+    "itemLabel": "Robert I of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1306",
+    "endYear": "1329",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q131195",
+    "itemLabel": "Constantius Chlorus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "305",
+    "endYear": "306",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134259",
+    "itemLabel": "Louis VII of France",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "1137",
+    "endYear": "1180",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q81000",
+    "itemLabel": "Richard II of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1377",
+    "endYear": "1399",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q114749",
+    "itemLabel": "Ahmed I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1603",
+    "endYear": "1617",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199633",
+    "itemLabel": "Selim III",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1789",
+    "endYear": "1807",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1004037",
+    "itemLabel": "Frederik X of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "2024",
+    "endYear": "",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37142",
+    "itemLabel": "Konstantinos XI Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1449",
+    "endYear": "1453",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54049",
+    "itemLabel": "Władysław II Jagiełło",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1386",
+    "endYear": "1434",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53448",
+    "itemLabel": "Henry III of France",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1573",
+    "endYear": "1574",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53448",
+    "itemLabel": "Henry III of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1574",
+    "endYear": "1589",
+    "sitelinks": "75"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160353",
+    "itemLabel": "Theodosius II",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "402",
+    "endYear": "450",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160353",
+    "itemLabel": "Theodosius II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "408",
+    "endYear": "450",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161866",
+    "itemLabel": "Henry IV of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1399",
+    "endYear": "1413",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q167782",
+    "itemLabel": "Charles V of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1364",
+    "endYear": "1380",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q168769",
+    "itemLabel": "Mehmed I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1413",
+    "endYear": "1421",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q168776",
+    "itemLabel": "Ibrahim I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1640",
+    "endYear": "1648",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q170017",
+    "itemLabel": "Æthelstan",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "927",
+    "endYear": "939",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q171465",
+    "itemLabel": "Mehmed III",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1595",
+    "endYear": "1603",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157052",
+    "itemLabel": "Emperor Taishō",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "startYear": "1912",
+    "endYear": "1926",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151500",
+    "itemLabel": "Abdülaziz",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1861",
+    "endYear": "1876",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174762",
+    "itemLabel": "Murad IV",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1623",
+    "endYear": "1640",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134452",
+    "itemLabel": "Charles VIII of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1483",
+    "endYear": "1498",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1433",
+    "itemLabel": "Lucius Verus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "161",
+    "endYear": "169",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q36234",
+    "itemLabel": "Charles III of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1759",
+    "endYear": "1788",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q36234",
+    "itemLabel": "Charles III of Spain",
+    "positionLabel": "King of Sicily",
+    "sexLabel": "male",
+    "startYear": "1734",
+    "endYear": "1759",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46750",
+    "itemLabel": "Valerian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "253",
+    "endYear": "260",
+    "sitelinks": "74"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q159369",
+    "itemLabel": "Arcadius",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "395",
+    "endYear": "408",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q160227",
+    "itemLabel": "Peter II of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "male",
+    "startYear": "1727",
+    "endYear": "1730",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151494",
+    "itemLabel": "Mehmed V",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1909",
+    "endYear": "1918",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174772",
+    "itemLabel": "Abdülmecid I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1839",
+    "endYear": "1861",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q134309",
+    "itemLabel": "Charles IX of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1560",
+    "endYear": "1574",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q36788",
+    "itemLabel": "Abd al-Malik ibn Marwan",
+    "positionLabel": "Umayyad Caliph",
+    "sexLabel": "male",
+    "startYear": "685",
+    "endYear": "705",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37682",
+    "itemLabel": "Sejong the Great",
+    "positionLabel": "king of Joseon Dynasty",
+    "sexLabel": "male",
+    "startYear": "1418",
+    "endYear": "1450",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57124",
+    "itemLabel": "Sigismund",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1387",
+    "endYear": "1437",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57124",
+    "itemLabel": "Sigismund",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1419",
+    "endYear": "1437",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57124",
+    "itemLabel": "Sigismund",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1433",
+    "endYear": "1437",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46720",
+    "itemLabel": "Valentinian I",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "364",
+    "endYear": "375",
+    "sitelinks": "73"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q165284",
+    "itemLabel": "Louis VIII of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1223",
+    "endYear": "1226",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q170514",
+    "itemLabel": "Mehmed IV",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1648",
+    "endYear": "1687",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q170707",
+    "itemLabel": "Abdul Hamid I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1774",
+    "endYear": "1789",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172061",
+    "itemLabel": "Suleiman II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1687",
+    "endYear": "1691",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150494",
+    "itemLabel": "Leopold I, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1657",
+    "endYear": "1705",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150494",
+    "itemLabel": "Leopold I, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1657",
+    "endYear": "1705",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150494",
+    "itemLabel": "Leopold I, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1658",
+    "endYear": "1705",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174798",
+    "itemLabel": "Mustafa I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1622",
+    "endYear": "1623",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174798",
+    "itemLabel": "Mustafa I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1617",
+    "endYear": "1618",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q132545",
+    "itemLabel": "Henry II of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1547",
+    "endYear": "1559",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199482",
+    "itemLabel": "Ahmed III",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1703",
+    "endYear": "1730",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1777",
+    "itemLabel": "Maximinus Thrax",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "235",
+    "endYear": "238",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7225",
+    "itemLabel": "Emperor Wu of Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "-140",
+    "endYear": "-86",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9738",
+    "itemLabel": "Wu Zetian",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "female",
+    "startYear": "690",
+    "endYear": "705",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44039",
+    "itemLabel": "Ludwig II of Bavaria",
+    "positionLabel": "King of Bavaria",
+    "sexLabel": "male",
+    "startYear": "1864",
+    "endYear": "1886",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51068",
+    "itemLabel": "Charles I of Austria",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1916",
+    "endYear": "1918",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51068",
+    "itemLabel": "Charles I of Austria",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1916",
+    "endYear": "1918",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52947",
+    "itemLabel": "Gustav I of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1523",
+    "endYear": "1560",
+    "sitelinks": "72"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150586",
+    "itemLabel": "Emperor Rudolf II",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1576",
+    "endYear": "1611",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150586",
+    "itemLabel": "Emperor Rudolf II",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1576",
+    "endYear": "1608",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150586",
+    "itemLabel": "Emperor Rudolf II",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1576",
+    "endYear": "1612",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150599",
+    "itemLabel": "Ferdinand II, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1619",
+    "endYear": "1637",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150599",
+    "itemLabel": "Ferdinand II, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1619",
+    "endYear": "1637",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150599",
+    "itemLabel": "Ferdinand II, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1619",
+    "endYear": "1637",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151321",
+    "itemLabel": "Leopold II, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1790",
+    "endYear": "1792",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151321",
+    "itemLabel": "Leopold II, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1790",
+    "endYear": "1792",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151321",
+    "itemLabel": "Leopold II, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1790",
+    "endYear": "1792",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q177903",
+    "itemLabel": "Stephen I of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1000",
+    "endYear": "1038",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q179577",
+    "itemLabel": "Atahualpa",
+    "positionLabel": "Sapa Inca",
+    "sexLabel": "male",
+    "startYear": "1532",
+    "endYear": "1533",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q102005",
+    "itemLabel": "William II of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1087",
+    "endYear": "1100",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q55008046",
+    "itemLabel": "Albert I of Belgium",
+    "positionLabel": "King of the Belgians",
+    "sexLabel": "male",
+    "startYear": "1909",
+    "endYear": "1934",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7210",
+    "itemLabel": "Emperor Gaozu of Han",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "-201",
+    "endYear": "-194",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12973",
+    "itemLabel": "Leopold III of Belgium",
+    "positionLabel": "King of the Belgians",
+    "sexLabel": "male",
+    "startYear": "1934",
+    "endYear": "1951",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41610",
+    "itemLabel": "Manuel I Komnenos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1143",
+    "endYear": "1180",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52940",
+    "itemLabel": "Sigismund III Vasa",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1587",
+    "endYear": "1632",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52940",
+    "itemLabel": "Sigismund III Vasa",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1592",
+    "endYear": "1599",
+    "sitelinks": "71"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172471",
+    "itemLabel": "Valens",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "364",
+    "endYear": "378",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172471",
+    "itemLabel": "Valens",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "364",
+    "endYear": "378",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q158861",
+    "itemLabel": "Chulalongkorn",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "startYear": "1868",
+    "endYear": "1910",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154927",
+    "itemLabel": "Haakon VII of Norway",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1905",
+    "endYear": "1957",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188634",
+    "itemLabel": "Matthias Corvinus",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1478",
+    "endYear": "1490",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188634",
+    "itemLabel": "Matthias Corvinus",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1458",
+    "endYear": "1490",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192780",
+    "itemLabel": "Abdullah I of Jordan",
+    "positionLabel": "King of Jordan",
+    "sexLabel": "male",
+    "startYear": "1946",
+    "endYear": "1951",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31755",
+    "itemLabel": "Leo III the Syrian",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "717",
+    "endYear": "741",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41600",
+    "itemLabel": "Alexios I Komnenos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1081",
+    "endYear": "1118",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41833",
+    "itemLabel": "Basil II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "976",
+    "endYear": "1025",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46762",
+    "itemLabel": "Claudius Gothicus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "268",
+    "endYear": "270",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60094",
+    "itemLabel": "Henry IV",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1084",
+    "endYear": "1106",
+    "sitelinks": "70"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q298403",
+    "itemLabel": "Umar II",
+    "positionLabel": "Umayyad Caliph",
+    "sexLabel": "male",
+    "startYear": "717",
+    "endYear": "720",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q170586",
+    "itemLabel": "Philip VI of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1328",
+    "endYear": "1350",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151075",
+    "itemLabel": "Francis I, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1745",
+    "endYear": "1765",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q182483",
+    "itemLabel": "Cambyses II",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-524",
+    "endYear": "-521",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q184549",
+    "itemLabel": "Licinius",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "308",
+    "endYear": "324",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q130005",
+    "itemLabel": "Edward the Confessor",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1042",
+    "endYear": "1066",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q132548",
+    "itemLabel": "Francis II of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1559",
+    "endYear": "1560",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199484",
+    "itemLabel": "Mustafa III",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1757",
+    "endYear": "1774",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1812",
+    "itemLabel": "Gordian III",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "238",
+    "endYear": "244",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q12976",
+    "itemLabel": "Baudouin I of Belgium",
+    "positionLabel": "King of the Belgians",
+    "sexLabel": "male",
+    "startYear": "1951",
+    "endYear": "1993",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7726",
+    "itemLabel": "Joseph Bonaparte",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1808",
+    "endYear": "1813",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52890",
+    "itemLabel": "Gustaf V of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1907",
+    "endYear": "1950",
+    "sitelinks": "69"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q170470",
+    "itemLabel": "Edward V of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1483",
+    "endYear": "1483",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172203",
+    "itemLabel": "Philip III of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1270",
+    "endYear": "1285",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q181764",
+    "itemLabel": "Maurice",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "582",
+    "endYear": "602",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q104475",
+    "itemLabel": "Gallienus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "253",
+    "endYear": "268",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199481",
+    "itemLabel": "Mahmud I",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1730",
+    "endYear": "1754",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199659",
+    "itemLabel": "Mustafa II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1695",
+    "endYear": "1703",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q244206",
+    "itemLabel": "Saud of Saudi Arabia",
+    "positionLabel": "King of Saudi Arabia",
+    "sexLabel": "male",
+    "startYear": "1953",
+    "endYear": "1964",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1782",
+    "itemLabel": "Gordian I",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "238",
+    "endYear": "238",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41608",
+    "itemLabel": "Konstantinos VII",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "913",
+    "endYear": "959",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46734",
+    "itemLabel": "Constantine II",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "337",
+    "endYear": "340",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52925",
+    "itemLabel": "Carl XV of Sweden",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1859",
+    "endYear": "1872",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52925",
+    "itemLabel": "Carl XV of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1859",
+    "endYear": "1872",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60849",
+    "itemLabel": "Stephen, King of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1141",
+    "endYear": "1154",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60849",
+    "itemLabel": "Stephen, King of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1135",
+    "endYear": "1141",
+    "sitelinks": "68"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q137814",
+    "itemLabel": "James V of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1513",
+    "endYear": "1542",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183089",
+    "itemLabel": "Geta",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "209",
+    "endYear": "211",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183579",
+    "itemLabel": "Ferdinand I of Austria",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1835",
+    "endYear": "1848",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183579",
+    "itemLabel": "Ferdinand I of Austria",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1835",
+    "endYear": "1848",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q127369",
+    "itemLabel": "Bahadur Shah Zafar",
+    "positionLabel": "Mughal emperor",
+    "sexLabel": "male",
+    "startYear": "1837",
+    "endYear": "1857",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199660",
+    "itemLabel": "Ahmed II",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1691",
+    "endYear": "1695",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199827",
+    "itemLabel": "Murad V",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1876",
+    "endYear": "1876",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9957",
+    "itemLabel": "Hongwu Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1368",
+    "endYear": "1398",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53436",
+    "itemLabel": "Bolesław I the Brave",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1025",
+    "endYear": "1025",
+    "sitelinks": "67"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q169992",
+    "itemLabel": "John II of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1350",
+    "endYear": "1364",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157918",
+    "itemLabel": "Seti I",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1289",
+    "endYear": "-1278",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157918",
+    "itemLabel": "Seti I",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1293",
+    "endYear": "-1278",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150966",
+    "itemLabel": "Frederick III, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1458",
+    "endYear": "1463",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150966",
+    "itemLabel": "Frederick III, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1452",
+    "endYear": "1493",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154912",
+    "itemLabel": "Olav V of Norway",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1957",
+    "endYear": "1991",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208301",
+    "itemLabel": "Khalid of Saudi Arabia",
+    "positionLabel": "King of Saudi Arabia",
+    "sexLabel": "male",
+    "startYear": "1975",
+    "endYear": "1982",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8384",
+    "itemLabel": "Louis X of France",
+    "positionLabel": "sovereign of Navarre",
+    "sexLabel": "male",
+    "startYear": "1305",
+    "endYear": "1316",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8384",
+    "itemLabel": "Louis X of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1314",
+    "endYear": "1316",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57180",
+    "itemLabel": "Frederick William IV of Prussia",
+    "positionLabel": "King of Prussia",
+    "sexLabel": "male",
+    "startYear": "1840",
+    "endYear": "1861",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46768",
+    "itemLabel": "Maximian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "286",
+    "endYear": "305",
+    "sitelinks": "66"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154946",
+    "itemLabel": "Juliana of the Netherlands",
+    "positionLabel": "King of the Netherlands",
+    "sexLabel": "female",
+    "startYear": "1948",
+    "endYear": "1980",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q165883",
+    "itemLabel": "Louis VI of France",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "1108",
+    "endYear": "1137",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q172168",
+    "itemLabel": "Galerius",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "305",
+    "endYear": "311",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q156617",
+    "itemLabel": "Christian X of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1912",
+    "endYear": "1947",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150575",
+    "itemLabel": "Ferdinand III, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1637",
+    "endYear": "1657",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150575",
+    "itemLabel": "Ferdinand III, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1637",
+    "endYear": "1657",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150575",
+    "itemLabel": "Ferdinand III, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1637",
+    "endYear": "1657",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150862",
+    "itemLabel": "Maximilian II, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1564",
+    "endYear": "1576",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150862",
+    "itemLabel": "Maximilian II, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1564",
+    "endYear": "1576",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150862",
+    "itemLabel": "Maximilian II, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1564",
+    "endYear": "1576",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151305",
+    "itemLabel": "Christian IX of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1863",
+    "endYear": "1906",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151781",
+    "itemLabel": "Ivan VI of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "male",
+    "startYear": "1740",
+    "endYear": "1741",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152480",
+    "itemLabel": "Joseph I, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1705",
+    "endYear": "1711",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152480",
+    "itemLabel": "Joseph I, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1705",
+    "endYear": "1711",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152480",
+    "itemLabel": "Joseph I, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1705",
+    "endYear": "1711",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q153586",
+    "itemLabel": "Christian IV of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1588",
+    "endYear": "1648",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q153586",
+    "itemLabel": "Christian IV of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1588",
+    "endYear": "1648",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q177980",
+    "itemLabel": "Aemilian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "253",
+    "endYear": "253",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183452",
+    "itemLabel": "Zeno",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "476",
+    "endYear": "491",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183452",
+    "itemLabel": "Zeno",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "474",
+    "endYear": "475",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q187068",
+    "itemLabel": "Probus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "276",
+    "endYear": "282",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q76736",
+    "itemLabel": "Charles VII, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1742",
+    "endYear": "1745",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199825",
+    "itemLabel": "Osman III",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1754",
+    "endYear": "1757",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199830",
+    "itemLabel": "Mustafa IV",
+    "positionLabel": "sultan of the Ottoman Empire",
+    "sexLabel": "male",
+    "startYear": "1807",
+    "endYear": "1808",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199861",
+    "itemLabel": "Khafra",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-2569",
+    "endYear": "-2529",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q217442",
+    "itemLabel": "Yazid I",
+    "positionLabel": "Umayyad Caliph",
+    "sexLabel": "male",
+    "startYear": "680",
+    "endYear": "683",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1797",
+    "itemLabel": "Pupienus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "238",
+    "endYear": "238",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19133",
+    "itemLabel": "Qianlong Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1735",
+    "endYear": "1796",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52878",
+    "itemLabel": "Gustaf VI Adolf of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1950",
+    "endYear": "1973",
+    "sitelinks": "65"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q171023",
+    "itemLabel": "Trebonianus Gallus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "251",
+    "endYear": "253",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151090",
+    "itemLabel": "Otto III",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "996",
+    "endYear": "1002",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151312",
+    "itemLabel": "Frederik IX of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1947",
+    "endYear": "1972",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151826",
+    "itemLabel": "Frederick I of Prussia",
+    "positionLabel": "King of Prussia",
+    "sexLabel": "male",
+    "startYear": "1701",
+    "endYear": "1713",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174964",
+    "itemLabel": "Charles IV of France",
+    "positionLabel": "sovereign of Navarre",
+    "sexLabel": "male",
+    "startYear": "1322",
+    "endYear": "1328",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q174964",
+    "itemLabel": "Charles IV of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1322",
+    "endYear": "1328",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q177988",
+    "itemLabel": "Tacitus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "275",
+    "endYear": "276",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q178908",
+    "itemLabel": "Henry I of France",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "1031",
+    "endYear": "1060",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q182070",
+    "itemLabel": "Maxentius",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "306",
+    "endYear": "312",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183445",
+    "itemLabel": "Justin I",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "518",
+    "endYear": "527",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185844",
+    "itemLabel": "Quintillus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "270",
+    "endYear": "270",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q103556",
+    "itemLabel": "Henry II, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1014",
+    "endYear": "1024",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q206737",
+    "itemLabel": "Irene of Athens",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "female",
+    "startYear": "797",
+    "endYear": "802",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q207140",
+    "itemLabel": "Sennacherib",
+    "positionLabel": "King of Assyria",
+    "sexLabel": "male",
+    "startYear": "-704",
+    "endYear": "-680",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q207140",
+    "itemLabel": "Sennacherib",
+    "positionLabel": "King of Babylon",
+    "sexLabel": "male",
+    "startYear": "-688",
+    "endYear": "-680",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q207140",
+    "itemLabel": "Sennacherib",
+    "positionLabel": "King of Babylon",
+    "sexLabel": "male",
+    "startYear": "-704",
+    "endYear": "-702",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1805",
+    "itemLabel": "Balbinus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "238",
+    "endYear": "238",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17790",
+    "itemLabel": "Kangxi Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1661",
+    "endYear": "1722",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34074",
+    "itemLabel": "Jovian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "363",
+    "endYear": "364",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q34074",
+    "itemLabel": "Jovian",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "363",
+    "endYear": "364",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52924",
+    "itemLabel": "Oscar II of Sweden",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1872",
+    "endYear": "1905",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52924",
+    "itemLabel": "Oscar II of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1872",
+    "endYear": "1907",
+    "sitelinks": "64"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150512",
+    "itemLabel": "Otto II",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "973",
+    "endYear": "983",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q178004",
+    "itemLabel": "Marcian",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "450",
+    "endYear": "457",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183226",
+    "itemLabel": "Charles IV of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1808",
+    "endYear": "1808",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183226",
+    "itemLabel": "Charles IV of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1788",
+    "endYear": "1808",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q202266",
+    "itemLabel": "Margaret I of Denmark",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "female",
+    "startYear": "1389",
+    "endYear": "1412",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q202266",
+    "itemLabel": "Margaret I of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "female",
+    "startYear": "1388",
+    "endYear": "1412",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q202266",
+    "itemLabel": "Margaret I of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "female",
+    "startYear": "1387",
+    "endYear": "1412",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q204843",
+    "itemLabel": "Theodora",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "female",
+    "startYear": "527",
+    "endYear": "548",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1803",
+    "itemLabel": "Gordian II",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "238",
+    "endYear": "238",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q32347",
+    "itemLabel": "Alfonso XII of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1874",
+    "endYear": "1885",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q32432",
+    "itemLabel": "Amadeo I of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1870",
+    "endYear": "1873",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q42021",
+    "itemLabel": "Justinian II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "705",
+    "endYear": "711",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q42021",
+    "itemLabel": "Justinian II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "685",
+    "endYear": "695",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54019",
+    "itemLabel": "Stanisław August Poniatowski",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1764",
+    "endYear": "1795",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q58907",
+    "itemLabel": "Philip I of France",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "1060",
+    "endYear": "1108",
+    "sitelinks": "63"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q173470",
+    "itemLabel": "Anastasius I",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "491",
+    "endYear": "518",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q178918",
+    "itemLabel": "Robert II of France",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "996",
+    "endYear": "1031",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q189574",
+    "itemLabel": "Menes",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-3199",
+    "endYear": "-3124",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193157",
+    "itemLabel": "Ferdinand VI of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1746",
+    "endYear": "1759",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q210329",
+    "itemLabel": "Yuan Shikai",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1915",
+    "endYear": "1916",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q235234",
+    "itemLabel": "James I of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1406",
+    "endYear": "1437",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52926",
+    "itemLabel": "Oscar I of Sweden",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1844",
+    "endYear": "1859",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52926",
+    "itemLabel": "Oscar I of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1844",
+    "endYear": "1859",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52939",
+    "itemLabel": "Charles IX of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1604",
+    "endYear": "1611",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53437",
+    "itemLabel": "Augustus II the Strong",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1709",
+    "endYear": "1733",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53437",
+    "itemLabel": "Augustus II the Strong",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1697",
+    "endYear": "1706",
+    "sitelinks": "62"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q137906",
+    "itemLabel": "James IV of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1488",
+    "endYear": "1513",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q190166",
+    "itemLabel": "Edmund I",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "939",
+    "endYear": "946",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q105013",
+    "itemLabel": "Friedrich Wilhelm I of Prussia",
+    "positionLabel": "King of Prussia",
+    "sexLabel": "male",
+    "startYear": "1713",
+    "endYear": "1740",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q200188",
+    "itemLabel": "Jimmu",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "startYear": "-659",
+    "endYear": "-584",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37097",
+    "itemLabel": "Manuel II Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1391",
+    "endYear": "1425",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37134",
+    "itemLabel": "Frederick William III of Prussia",
+    "positionLabel": "King of Prussia",
+    "sexLabel": "male",
+    "startYear": "1797",
+    "endYear": "1840",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41613",
+    "itemLabel": "Constans II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "641",
+    "endYear": "668",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41618",
+    "itemLabel": "Leo VI the Wise",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "886",
+    "endYear": "912",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q49765",
+    "itemLabel": "Louis XVII of France",
+    "positionLabel": "King of France and Navarre",
+    "sexLabel": "male",
+    "startYear": "1793",
+    "endYear": "1795",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52930",
+    "itemLabel": "Gustav III of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1771",
+    "endYear": "1792",
+    "sitelinks": "61"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q248893",
+    "itemLabel": "Ananda Mahidol",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "startYear": "1935",
+    "endYear": "1946",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152157",
+    "itemLabel": "Matthias, Holy Roman Emperor",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1611",
+    "endYear": "1619",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152157",
+    "itemLabel": "Matthias, Holy Roman Emperor",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1608",
+    "endYear": "1619",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152157",
+    "itemLabel": "Matthias, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1612",
+    "endYear": "1619",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q153940",
+    "itemLabel": "Christian I of Denmark",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1457",
+    "endYear": "1464",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q153940",
+    "itemLabel": "Christian I of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1450",
+    "endYear": "1481",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q153940",
+    "itemLabel": "Christian I of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1448",
+    "endYear": "1481",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q175299",
+    "itemLabel": "Fath-Ali Shah Qajar",
+    "positionLabel": "shah",
+    "sexLabel": "male",
+    "startYear": "1797",
+    "endYear": "1834",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183499",
+    "itemLabel": "Æthelred the Unready",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1014",
+    "endYear": "1016",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183499",
+    "itemLabel": "Æthelred the Unready",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "978",
+    "endYear": "1013",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183776",
+    "itemLabel": "Leo I",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "457",
+    "endYear": "474",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q187004",
+    "itemLabel": "Carus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "282",
+    "endYear": "283",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q187114",
+    "itemLabel": "Edward the Elder",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "899",
+    "endYear": "924",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q189108",
+    "itemLabel": "Gratian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "367",
+    "endYear": "383",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q39589",
+    "itemLabel": "Caesarion",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-43",
+    "endYear": "-29",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41592",
+    "itemLabel": "Basil I",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "867",
+    "endYear": "886",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53449",
+    "itemLabel": "Jadwiga I of Poland",
+    "positionLabel": "King of Poland",
+    "sexLabel": "female",
+    "startYear": "1384",
+    "endYear": "1399",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46840",
+    "itemLabel": "Diadumenian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "218",
+    "endYear": "218",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53457",
+    "itemLabel": "Casimir III the Great",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1333",
+    "endYear": "1370",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q61056",
+    "itemLabel": "al-Maʾmun",
+    "positionLabel": "Abbasid caliph",
+    "sexLabel": "male",
+    "startYear": "813",
+    "endYear": "833",
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q298410",
+    "itemLabel": "Tahmasp I",
+    "positionLabel": "list of Safavid monarchs",
+    "sexLabel": "male",
+    "startYear": "1524",
+    "endYear": "1576",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q153023",
+    "itemLabel": "Henry III",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1046",
+    "endYear": "1056",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q181896",
+    "itemLabel": "Sweyn I of Denmark",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1013",
+    "endYear": "1014",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q181896",
+    "itemLabel": "Sweyn I of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1000",
+    "endYear": "1014",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q181896",
+    "itemLabel": "Sweyn I of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "986",
+    "endYear": "995",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q181896",
+    "itemLabel": "Sweyn I of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "986",
+    "endYear": "1014",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q183813",
+    "itemLabel": "Justin II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "565",
+    "endYear": "574",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188684",
+    "itemLabel": "Edmund II of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1016",
+    "endYear": "1016",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192925",
+    "itemLabel": "Edgar of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "959",
+    "endYear": "975",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192925",
+    "itemLabel": "Edgar of England",
+    "positionLabel": "King of Mercia",
+    "sexLabel": "male",
+    "startYear": "957",
+    "endYear": "959",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q199946",
+    "itemLabel": "Florian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "276",
+    "endYear": "276",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208754",
+    "itemLabel": "Nikephoros I",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "802",
+    "endYear": "811",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q212457",
+    "itemLabel": "Louis I of Spain",
+    "positionLabel": "monarch of Spain",
+    "sexLabel": "male",
+    "startYear": "1724",
+    "endYear": "1724",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q239486",
+    "itemLabel": "David II of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1329",
+    "endYear": "1371",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2079957",
+    "itemLabel": "William I of the Netherlands",
+    "positionLabel": "King of the Netherlands",
+    "sexLabel": "male",
+    "startYear": "1815",
+    "endYear": "1840",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8433",
+    "itemLabel": "Philip V of France",
+    "positionLabel": "sovereign of Navarre",
+    "sexLabel": "male",
+    "startYear": "1316",
+    "endYear": "1322",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8433",
+    "itemLabel": "Philip V of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1316",
+    "endYear": "1322",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31556",
+    "itemLabel": "Phocas",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "602",
+    "endYear": "610",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41635",
+    "itemLabel": "Konstantinos V",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "741",
+    "endYear": "775",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54030",
+    "itemLabel": "Stephen Báthory",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1576",
+    "endYear": "1586",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q299710",
+    "itemLabel": "Guangxu Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1875",
+    "endYear": "1908",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q272864",
+    "itemLabel": "James II of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1437",
+    "endYear": "1460",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q159416",
+    "itemLabel": "Naser al-Din Shah Qajar",
+    "positionLabel": "shah",
+    "sexLabel": "male",
+    "startYear": "1848",
+    "endYear": "1896",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150953",
+    "itemLabel": "Henry VI",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1191",
+    "endYear": "1197",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151457",
+    "itemLabel": "Otto IV, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1209",
+    "endYear": "1218",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152756",
+    "itemLabel": "Frederik VIII of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1906",
+    "endYear": "1912",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185538",
+    "itemLabel": "Constans",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "337",
+    "endYear": "350",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q185538",
+    "itemLabel": "Constans",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "337",
+    "endYear": "350",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q190097",
+    "itemLabel": "Carinus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "283",
+    "endYear": "285",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q191203",
+    "itemLabel": "Eadwig",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "955",
+    "endYear": "959",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q191767",
+    "itemLabel": "Edred of England",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "946",
+    "endYear": "955",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8404",
+    "itemLabel": "John I of France",
+    "positionLabel": "sovereign of Navarre",
+    "sexLabel": "male",
+    "startYear": "1316",
+    "endYear": "1316",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8404",
+    "itemLabel": "John I of France",
+    "positionLabel": "king of France",
+    "sexLabel": "male",
+    "startYear": "1316",
+    "endYear": "1316",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41605",
+    "itemLabel": "Constantine IV",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "654",
+    "endYear": "685",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q57161",
+    "itemLabel": "Louis IV of Bavaria",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1328",
+    "endYear": "1347",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44361",
+    "itemLabel": "Ludwig I of Bavaria",
+    "positionLabel": "King of Bavaria",
+    "sexLabel": "male",
+    "startYear": "1825",
+    "endYear": "1848",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46814",
+    "itemLabel": "Severus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "306",
+    "endYear": "307",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312849",
+    "itemLabel": "Mongkut",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "startYear": "1851",
+    "endYear": "1868",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154287",
+    "itemLabel": "William II of the Netherlands",
+    "positionLabel": "King of the Netherlands",
+    "sexLabel": "male",
+    "startYear": "1840",
+    "endYear": "1849",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154460",
+    "itemLabel": "Christian II of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1513",
+    "endYear": "1523",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154460",
+    "itemLabel": "Christian II of Denmark",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1520",
+    "endYear": "1521",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154460",
+    "itemLabel": "Christian II of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1513",
+    "endYear": "1523",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154934",
+    "itemLabel": "Ecgberht",
+    "positionLabel": "King of Mercia",
+    "sexLabel": "male",
+    "startYear": "829",
+    "endYear": "830",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154934",
+    "itemLabel": "Ecgberht",
+    "positionLabel": "King of Wessex",
+    "sexLabel": "male",
+    "startYear": "802",
+    "endYear": "839",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q188627",
+    "itemLabel": "Harold Harefoot",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1037",
+    "endYear": "1040",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q189095",
+    "itemLabel": "Maximinus Daza",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "311",
+    "endYear": "313",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q201041",
+    "itemLabel": "Harald Bluetooth",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "962",
+    "endYear": "985",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q211109",
+    "itemLabel": "Alexander III of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1249",
+    "endYear": "1286",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q222616",
+    "itemLabel": "James III of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1460",
+    "endYear": "1488",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1528",
+    "itemLabel": "Ramesses III",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1185",
+    "endYear": "-1154",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31491",
+    "itemLabel": "Tiberius II Constantine",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "574",
+    "endYear": "582",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41603",
+    "itemLabel": "John I Tzimiskes",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "969",
+    "endYear": "976",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41615",
+    "itemLabel": "Heraclius Constantine",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "641",
+    "endYear": "641",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41628",
+    "itemLabel": "John II Komnenos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1118",
+    "endYear": "1143",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46837",
+    "itemLabel": "Hostilian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "251",
+    "endYear": "251",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52936",
+    "itemLabel": "Charles X Gustav of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1654",
+    "endYear": "1660",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52944",
+    "itemLabel": "John III of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1568",
+    "endYear": "1592",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53998",
+    "itemLabel": "Louis I of Hungary",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1370",
+    "endYear": "1382",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54022",
+    "itemLabel": "Stanisław Leszczyński",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1733",
+    "endYear": "1736",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54022",
+    "itemLabel": "Stanisław Leszczyński",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1704",
+    "endYear": "1709",
+    "sitelinks": "57"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q298577",
+    "itemLabel": "Marwan I",
+    "positionLabel": "Umayyad Caliph",
+    "sexLabel": "male",
+    "startYear": "684",
+    "endYear": "685",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q313124",
+    "itemLabel": "Prajadhipok",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "startYear": "1925",
+    "endYear": "1935",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161389",
+    "itemLabel": "Vajiravudh",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "startYear": "1910",
+    "endYear": "1925",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q156187",
+    "itemLabel": "Frederick V of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1746",
+    "endYear": "1766",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q156187",
+    "itemLabel": "Frederick V of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1746",
+    "endYear": "1766",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157812",
+    "itemLabel": "Frederick III of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1648",
+    "endYear": "1670",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157812",
+    "itemLabel": "Frederick III of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1648",
+    "endYear": "1670",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157962",
+    "itemLabel": "Thutmose I",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1517",
+    "endYear": "-1492",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157966",
+    "itemLabel": "Amenhotep I",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1525",
+    "endYear": "-1503",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q200033",
+    "itemLabel": "Michael VIII Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1261",
+    "endYear": "1282",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q237889",
+    "itemLabel": "Alexander II of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1214",
+    "endYear": "1249",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q244748",
+    "itemLabel": "Menilek II",
+    "positionLabel": "Emperor of Ethiopia",
+    "sexLabel": "male",
+    "startYear": "1889",
+    "endYear": "1913",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41830",
+    "itemLabel": "Andronikos I Komnenos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1183",
+    "endYear": "1185",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46846",
+    "itemLabel": "Valentinian II",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "375",
+    "endYear": "392",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52928",
+    "itemLabel": "Charles XIII of Sweden",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1814",
+    "endYear": "1818",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52928",
+    "itemLabel": "Charles XIII of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1809",
+    "endYear": "1818",
+    "sitelinks": "56"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q298263",
+    "itemLabel": "Kenneth MacAlpin",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "843",
+    "endYear": "858",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q156572",
+    "itemLabel": "Christian VII of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1766",
+    "endYear": "1808",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q156572",
+    "itemLabel": "Christian VII of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1766",
+    "endYear": "1808",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157781",
+    "itemLabel": "Christian VIII of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1814",
+    "endYear": "1814",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157781",
+    "itemLabel": "Christian VIII of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1839",
+    "endYear": "1848",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q151707",
+    "itemLabel": "Henry V",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1111",
+    "endYear": "1125",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152229",
+    "itemLabel": "Friedrich Wilhelm II of Prussia",
+    "positionLabel": "King of Prussia",
+    "sexLabel": "male",
+    "startYear": "1786",
+    "endYear": "1797",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q190091",
+    "itemLabel": "Harthacanute",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "1040",
+    "endYear": "1042",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q190091",
+    "itemLabel": "Harthacanute",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1035",
+    "endYear": "1042",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q125649",
+    "itemLabel": "William III of the Netherlands",
+    "positionLabel": "King of the Netherlands",
+    "sexLabel": "male",
+    "startYear": "1849",
+    "endYear": "1890",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q191707",
+    "itemLabel": "Leo II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "474",
+    "endYear": "474",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193056",
+    "itemLabel": "Basiliscus",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "475",
+    "endYear": "476",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193874",
+    "itemLabel": "Mohammed V of Morocco",
+    "positionLabel": "sultan of Morocco",
+    "sexLabel": "male",
+    "startYear": "1927",
+    "endYear": "1953",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193874",
+    "itemLabel": "Mohammed V of Morocco",
+    "positionLabel": "sultan of Morocco",
+    "sexLabel": "male",
+    "startYear": "1955",
+    "endYear": "1957",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q202222",
+    "itemLabel": "Volusian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "251",
+    "endYear": "253",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208336",
+    "itemLabel": "Sargon II",
+    "positionLabel": "King of Assyria",
+    "sexLabel": "male",
+    "startYear": "-721",
+    "endYear": "-704",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q210074",
+    "itemLabel": "Tiglath-Pileser III",
+    "positionLabel": "King of Assyria",
+    "sexLabel": "male",
+    "startYear": "-744",
+    "endYear": "-726",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q244403",
+    "itemLabel": "Macbeth",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1040",
+    "endYear": "1057",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1526",
+    "itemLabel": "Ramesses I",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1294",
+    "endYear": "-1289",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9701",
+    "itemLabel": "Emperor Taizong of Tang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "626",
+    "endYear": "649",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9965",
+    "itemLabel": "Yongle Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1402",
+    "endYear": "1424",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37067",
+    "itemLabel": "Andronikos II Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1282",
+    "endYear": "1328",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37070",
+    "itemLabel": "John V Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1379",
+    "endYear": "1390",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37070",
+    "itemLabel": "John V Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1390",
+    "endYear": "1391",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37070",
+    "itemLabel": "John V Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1341",
+    "endYear": "1376",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37084",
+    "itemLabel": "John VI Kantakouzenos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1347",
+    "endYear": "1354",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41622",
+    "itemLabel": "Michael III",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "842",
+    "endYear": "867",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54054",
+    "itemLabel": "Władysław IV Vasa",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1632",
+    "endYear": "1648",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54058",
+    "itemLabel": "Sigismund II Augustus",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1530",
+    "endYear": "1572",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53438",
+    "itemLabel": "Augustus III of Poland",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1733",
+    "endYear": "1763",
+    "sitelinks": "55"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q310992",
+    "itemLabel": "Phutthayotfa Chulalok",
+    "positionLabel": "King of Thailand",
+    "sexLabel": "male",
+    "startYear": "1782",
+    "endYear": "1809",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q94941",
+    "itemLabel": "Frederick VII of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1848",
+    "endYear": "1863",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q229189",
+    "itemLabel": "Joan I of Navarre",
+    "positionLabel": "sovereign of Navarre",
+    "sexLabel": "female",
+    "startYear": "1284",
+    "endYear": "1305",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192920",
+    "itemLabel": "Edward the Martyr",
+    "positionLabel": "monarch of England",
+    "sexLabel": "male",
+    "startYear": "975",
+    "endYear": "978",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193869",
+    "itemLabel": "Childeric I",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "458",
+    "endYear": "481",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q207847",
+    "itemLabel": "Alexandros IV of Macedon",
+    "positionLabel": "king of Macedonia",
+    "sexLabel": "male",
+    "startYear": "-321",
+    "endYear": "-308",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q207847",
+    "itemLabel": "Alexandros IV of Macedon",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-321",
+    "endYear": "-308",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q30594",
+    "itemLabel": "Konstantinos IX Monomachos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1042",
+    "endYear": "1055",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31066",
+    "itemLabel": "Al-Mansur",
+    "positionLabel": "Abbasid caliph",
+    "sexLabel": "male",
+    "startYear": "754",
+    "endYear": "775",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37063",
+    "itemLabel": "Andronikos III Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1328",
+    "endYear": "1341",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37069",
+    "itemLabel": "Alexios IV Angelos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1203",
+    "endYear": "1204",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41625",
+    "itemLabel": "Nikephoros II Phokas",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "963",
+    "endYear": "969",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41637",
+    "itemLabel": "Tiberios III",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "698",
+    "endYear": "705",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41641",
+    "itemLabel": "Leo V the Armenian",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "813",
+    "endYear": "820",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41652",
+    "itemLabel": "Michael I Rangabe",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "811",
+    "endYear": "813",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q46821",
+    "itemLabel": "Numerian",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "283",
+    "endYear": "284",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52935",
+    "itemLabel": "Charles XI of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1660",
+    "endYear": "1697",
+    "sitelinks": "54"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q315526",
+    "itemLabel": "Bindusara",
+    "positionLabel": "Mauryan Emperor",
+    "sexLabel": "male",
+    "startYear": "-296",
+    "endYear": "-272",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312592",
+    "itemLabel": "Robert II of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1371",
+    "endYear": "1390",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q271104",
+    "itemLabel": "Andrew II of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1205",
+    "endYear": "1235",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155002",
+    "itemLabel": "Frederick VI of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1808",
+    "endYear": "1814",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155002",
+    "itemLabel": "Frederick VI of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1808",
+    "endYear": "1839",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155167",
+    "itemLabel": "John of Bohemia",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1310",
+    "endYear": "1333",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155167",
+    "itemLabel": "John of Bohemia",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1310",
+    "endYear": "1346",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q264210",
+    "itemLabel": "Mu'awiya II",
+    "positionLabel": "Umayyad Caliph",
+    "sexLabel": "male",
+    "startYear": "683",
+    "endYear": "684",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152256",
+    "itemLabel": "Conrad II",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1027",
+    "endYear": "1039",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154041",
+    "itemLabel": "Frederick II of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1559",
+    "endYear": "1588",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154041",
+    "itemLabel": "Frederick II of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1559",
+    "endYear": "1588",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q191003",
+    "itemLabel": "Carloman I",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "768",
+    "endYear": "771",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q216787",
+    "itemLabel": "David I of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1124",
+    "endYear": "1153",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q324974",
+    "itemLabel": "Agha Mohammad Khan Qajar",
+    "positionLabel": "shah",
+    "sexLabel": "male",
+    "startYear": "1789",
+    "endYear": "1797",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41659",
+    "itemLabel": "Zoe Porphyrogenita",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "female",
+    "startYear": "1042",
+    "endYear": "1055",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41643",
+    "itemLabel": "Isaac I Komnenos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1057",
+    "endYear": "1059",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41645",
+    "itemLabel": "Leo IV the Khazar",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "775",
+    "endYear": "780",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41661",
+    "itemLabel": "Konstantinos VI",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "780",
+    "endYear": "797",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41834",
+    "itemLabel": "Romanos IV Diogenes",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1068",
+    "endYear": "1071",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44319",
+    "itemLabel": "Maximilian I Joseph of Bavaria",
+    "positionLabel": "King of Bavaria",
+    "sexLabel": "male",
+    "startYear": "1806",
+    "endYear": "1825",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52929",
+    "itemLabel": "Gustav IV Adolf of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1792",
+    "endYear": "1809",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53452",
+    "itemLabel": "John II Casimir Vasa",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1648",
+    "endYear": "1668",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q60199",
+    "itemLabel": "Theophilos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "829",
+    "endYear": "842",
+    "sitelinks": "53"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q294365",
+    "itemLabel": "Talal I of Jordan",
+    "positionLabel": "King of Jordan",
+    "sexLabel": "male",
+    "startYear": "1951",
+    "endYear": "1952",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q310453",
+    "itemLabel": "Shunzhi Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1644",
+    "endYear": "1661",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q273514",
+    "itemLabel": "Nabopolassar",
+    "positionLabel": "King of Babylon",
+    "sexLabel": "male",
+    "startYear": "-625",
+    "endYear": "-604",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q284003",
+    "itemLabel": "Al-Walid I",
+    "positionLabel": "Umayyad Caliph",
+    "sexLabel": "male",
+    "startYear": "705",
+    "endYear": "715",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q284233",
+    "itemLabel": "Sulayman ibn Abd al-Malik",
+    "positionLabel": "Umayyad Caliph",
+    "sexLabel": "male",
+    "startYear": "715",
+    "endYear": "717",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157092",
+    "itemLabel": "Louis II of Hungary",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1516",
+    "endYear": "1526",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157092",
+    "itemLabel": "Louis II of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1516",
+    "endYear": "1526",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157112",
+    "itemLabel": "Albert II of Germany",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1438",
+    "endYear": "1439",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157112",
+    "itemLabel": "Albert II of Germany",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1437",
+    "endYear": "1439",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q158025",
+    "itemLabel": "Thutmose II",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1481",
+    "endYear": "-1478",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q158043",
+    "itemLabel": "Merneptah",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1212",
+    "endYear": "-1201",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q252087",
+    "itemLabel": "As-Saffah",
+    "positionLabel": "Abbasid caliph",
+    "sexLabel": "male",
+    "startYear": "750",
+    "endYear": "754",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152148",
+    "itemLabel": "Wenceslaus IV of Bohemia",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1378",
+    "endYear": "1419",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152717",
+    "itemLabel": "Henry VII, Holy Roman Emperor",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1312",
+    "endYear": "1313",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q192960",
+    "itemLabel": "Baibars",
+    "positionLabel": "Sultan of Egypt",
+    "sexLabel": "male",
+    "startYear": "1260",
+    "endYear": "1277",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q237587",
+    "itemLabel": "Stauracius",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "811",
+    "endYear": "811",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q6198",
+    "itemLabel": "Pepi II",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-2244",
+    "endYear": "-2179",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9700",
+    "itemLabel": "Emperor Gaozu of Tang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "618",
+    "endYear": "626",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37062",
+    "itemLabel": "John VIII Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1425",
+    "endYear": "1448",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37072",
+    "itemLabel": "John III Doukas Vatatzes",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1221",
+    "endYear": "1254",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41640",
+    "itemLabel": "Michael II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "820",
+    "endYear": "829",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41646",
+    "itemLabel": "Romanos I Lekapenos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "920",
+    "endYear": "944",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41663",
+    "itemLabel": "Konstantinos VIII",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1025",
+    "endYear": "1028",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41660",
+    "itemLabel": "Konstantinos X Doukas",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1059",
+    "endYear": "1067",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52933",
+    "itemLabel": "Ulrika Eleonora I of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "female",
+    "startYear": "1718",
+    "endYear": "1720",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54053",
+    "itemLabel": "Władysław III of Poland",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1434",
+    "endYear": "1444",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54053",
+    "itemLabel": "Władysław III of Poland",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1440",
+    "endYear": "1444",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54056",
+    "itemLabel": "Sigismund I the Old",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1507",
+    "endYear": "1548",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44386",
+    "itemLabel": "Leontius",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "695",
+    "endYear": "698",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44560",
+    "itemLabel": "Philippikos Bardanes",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "711",
+    "endYear": "713",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52945",
+    "itemLabel": "Eric XIV of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1560",
+    "endYear": "1568",
+    "sitelinks": "52"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q294671",
+    "itemLabel": "Robert III of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1390",
+    "endYear": "1406",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312311",
+    "itemLabel": "Peter III of Aragon",
+    "positionLabel": "King of Sicily",
+    "sexLabel": "male",
+    "startYear": "1282",
+    "endYear": "1285",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q273253",
+    "itemLabel": "Herennius Etruscus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "251",
+    "endYear": "251",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154998",
+    "itemLabel": "Christian III of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1537",
+    "endYear": "1559",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154998",
+    "itemLabel": "Christian III of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1534",
+    "endYear": "1559",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q229159",
+    "itemLabel": "Margaret, Maid of Norway",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "female",
+    "startYear": "1286",
+    "endYear": "1290",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193912",
+    "itemLabel": "Esarhaddon",
+    "positionLabel": "King of Assyria",
+    "sexLabel": "male",
+    "startYear": "-680",
+    "endYear": "-668",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q206123",
+    "itemLabel": "Harald Fairhair",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "924",
+    "endYear": "930",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q209579",
+    "itemLabel": "Victor Amadeus II of Savoy",
+    "positionLabel": "King of Sicily",
+    "sexLabel": "male",
+    "startYear": "1713",
+    "endYear": "1720",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1133363",
+    "itemLabel": "Samudragupta",
+    "positionLabel": "Gupta emperor",
+    "sexLabel": "male",
+    "startYear": "335",
+    "endYear": "380",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q31513",
+    "itemLabel": "Heraklonas",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "641",
+    "endYear": "641",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37065",
+    "itemLabel": "Alexios III Angelos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1195",
+    "endYear": "1203",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41620",
+    "itemLabel": "Anastasios II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "713",
+    "endYear": "715",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41836",
+    "itemLabel": "Theodosios III",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "715",
+    "endYear": "717",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q53459",
+    "itemLabel": "Casimir IV Jagiellon",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1447",
+    "endYear": "1492",
+    "sitelinks": "51"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q296367",
+    "itemLabel": "Hong Taiji",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1636",
+    "endYear": "1643",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q299179",
+    "itemLabel": "Emperor Kōmei",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "startYear": "1846",
+    "endYear": "1867",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161059",
+    "itemLabel": "Frederik IV of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1699",
+    "endYear": "1730",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161059",
+    "itemLabel": "Frederik IV of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1699",
+    "endYear": "1730",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q287081",
+    "itemLabel": "Abbas II of Persia",
+    "positionLabel": "list of Safavid monarchs",
+    "sexLabel": "male",
+    "startYear": "1642",
+    "endYear": "1666",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157995",
+    "itemLabel": "Horemheb",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1305",
+    "endYear": "-1291",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157995",
+    "itemLabel": "Horemheb",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1318",
+    "endYear": "-1291",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q152370",
+    "itemLabel": "Béla IV of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1235",
+    "endYear": "1270",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41666",
+    "itemLabel": "Theodora Porphyrogenita",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "female",
+    "startYear": "1042",
+    "endYear": "1056",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q32133",
+    "itemLabel": "Lysimachus",
+    "positionLabel": "king of Macedonia",
+    "sexLabel": "male",
+    "startYear": "-287",
+    "endYear": "-280",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37074",
+    "itemLabel": "John VII Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1390",
+    "endYear": "1390",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37076",
+    "itemLabel": "Alexios V Doukas",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1204",
+    "endYear": "1204",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37088",
+    "itemLabel": "John IV Laskaris",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1259",
+    "endYear": "1262",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41657",
+    "itemLabel": "Romanos III Argyros",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1028",
+    "endYear": "1034",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54048",
+    "itemLabel": "Władysław I the Elbow-high",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1320",
+    "endYear": "1333",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44530",
+    "itemLabel": "Maximilian II of Bavaria",
+    "positionLabel": "King of Bavaria",
+    "sexLabel": "male",
+    "startYear": "1848",
+    "endYear": "1864",
+    "sitelinks": "50"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q295157",
+    "itemLabel": "Childeric III",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "743",
+    "endYear": "751",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312594",
+    "itemLabel": "William, king of Scotland (William the Lion)",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1165",
+    "endYear": "1214",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q313333",
+    "itemLabel": "Cao Pi",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "220",
+    "endYear": "226",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q272233",
+    "itemLabel": "Æthelred I",
+    "positionLabel": "King of Wessex",
+    "sexLabel": "male",
+    "startYear": "865",
+    "endYear": "871",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q284550",
+    "itemLabel": "Al-Mu'tasim",
+    "positionLabel": "Abbasid caliph",
+    "sexLabel": "male",
+    "startYear": "833",
+    "endYear": "842",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157776",
+    "itemLabel": "John, King of Denmark",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1497",
+    "endYear": "1501",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157776",
+    "itemLabel": "John, King of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1483",
+    "endYear": "1513",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157776",
+    "itemLabel": "John, King of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1481",
+    "endYear": "1513",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154444",
+    "itemLabel": "Grand Duke Michael Alexandrovich of Russia",
+    "positionLabel": "Emperor of all the Russias",
+    "sexLabel": "male",
+    "startYear": "1917",
+    "endYear": "1917",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q68508",
+    "itemLabel": "Malcolm III of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1058",
+    "endYear": "1093",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q77189",
+    "itemLabel": "Lothair III",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "1133",
+    "endYear": "1137",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q210564",
+    "itemLabel": "Michael VII Doukas",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1067",
+    "endYear": "1078",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q213061",
+    "itemLabel": "Charles I of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1308",
+    "endYear": "1342",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q233573",
+    "itemLabel": "Offa of Mercia",
+    "positionLabel": "King of Mercia",
+    "sexLabel": "male",
+    "startYear": "757",
+    "endYear": "796",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q334452",
+    "itemLabel": "Xianfeng Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1850",
+    "endYear": "1861",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7250",
+    "itemLabel": "Wang Mang",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "9",
+    "endYear": "23",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q19248",
+    "itemLabel": "Senusret III",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1871",
+    "endYear": "-1852",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26486",
+    "itemLabel": "Ladislaus I of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1077",
+    "endYear": "1095",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q32607",
+    "itemLabel": "John Zápolya",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1526",
+    "endYear": "1540",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37082",
+    "itemLabel": "Theodore II Laskaris",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1254",
+    "endYear": "1258",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37135",
+    "itemLabel": "Isaac II Angelos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1185",
+    "endYear": "1195",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37135",
+    "itemLabel": "Isaac II Angelos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1203",
+    "endYear": "1204",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41689",
+    "itemLabel": "Nikephoros III Botaneiates",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1078",
+    "endYear": "1081",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41847",
+    "itemLabel": "Romanos II",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "959",
+    "endYear": "963",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51717",
+    "itemLabel": "Baldwin I of Jerusalem",
+    "positionLabel": "King of Jerusalem",
+    "sexLabel": "male",
+    "startYear": "1100",
+    "endYear": "1118",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154412",
+    "itemLabel": "Mary I of Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "female",
+    "startYear": "1382",
+    "endYear": "1386",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q295530",
+    "itemLabel": "Philip III of Macedon",
+    "positionLabel": "king of Macedonia",
+    "sexLabel": "male",
+    "startYear": "-322",
+    "endYear": "-316",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q296295",
+    "itemLabel": "Tiglath-Pileser I",
+    "positionLabel": "King of Assyria",
+    "sexLabel": "male",
+    "startYear": "-1113",
+    "endYear": "-1075",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q310640",
+    "itemLabel": "Shalmaneser V",
+    "positionLabel": "King of Assyria",
+    "sexLabel": "male",
+    "startYear": "-726",
+    "endYear": "-721",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q272326",
+    "itemLabel": "Æthelwulf",
+    "positionLabel": "King of Wessex",
+    "sexLabel": "male",
+    "startYear": "839",
+    "endYear": "858",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q274606",
+    "itemLabel": "Berengar I of Italy",
+    "positionLabel": "Holy Roman Emperor",
+    "sexLabel": "male",
+    "startYear": "915",
+    "endYear": "924",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q293482",
+    "itemLabel": "Al-Mahdi",
+    "positionLabel": "Abbasid caliph",
+    "sexLabel": "male",
+    "startYear": "775",
+    "endYear": "785",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154993",
+    "itemLabel": "Christian VI of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1730",
+    "endYear": "1746",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q154993",
+    "itemLabel": "Christian VI of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1730",
+    "endYear": "1746",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155581",
+    "itemLabel": "Wenceslaus II of Bohemia",
+    "positionLabel": "King of Poland",
+    "sexLabel": "male",
+    "startYear": "1300",
+    "endYear": "1305",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155581",
+    "itemLabel": "Wenceslaus II of Bohemia",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1278",
+    "endYear": "1305",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155599",
+    "itemLabel": "Vladislaus II of Bohemia and Hungary",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1471",
+    "endYear": "1516",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q155599",
+    "itemLabel": "Vladislaus II of Bohemia and Hungary",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1490",
+    "endYear": "1516",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157789",
+    "itemLabel": "Frederick I of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1523",
+    "endYear": "1533",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157789",
+    "itemLabel": "Frederick I of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1523",
+    "endYear": "1533",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q150320",
+    "itemLabel": "Ottokar II of Bohemia",
+    "positionLabel": "King of Bohemia",
+    "sexLabel": "male",
+    "startYear": "1253",
+    "endYear": "1278",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q128307",
+    "itemLabel": "Al-Walid II",
+    "positionLabel": "Umayyad Caliph",
+    "sexLabel": "male",
+    "startYear": "743",
+    "endYear": "744",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q128371",
+    "itemLabel": "Marwan II",
+    "positionLabel": "Umayyad Caliph",
+    "sexLabel": "male",
+    "startYear": "744",
+    "endYear": "750",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111079",
+    "itemLabel": "Anedjib",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-3000",
+    "endYear": "",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q230548",
+    "itemLabel": "Merneith",
+    "positionLabel": "pharaoh",
+    "sexLabel": "female",
+    "startYear": "-2960",
+    "endYear": "-2960",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q208331",
+    "itemLabel": "Olaf II of Norway",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1015",
+    "endYear": "1028",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q317799",
+    "itemLabel": "Ahmad Shah Qajar",
+    "positionLabel": "shah",
+    "sexLabel": "male",
+    "startYear": "1909",
+    "endYear": "1925",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q317839",
+    "itemLabel": "Yongzheng Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1722",
+    "endYear": "1735",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q355603",
+    "itemLabel": "Mohammad Ali Shah Qajar",
+    "positionLabel": "shah",
+    "sexLabel": "male",
+    "startYear": "1907",
+    "endYear": "1909",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q544228",
+    "itemLabel": "Bahadur Shah I",
+    "positionLabel": "Mughal emperor",
+    "sexLabel": "male",
+    "startYear": "1707",
+    "endYear": "1712",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q18771",
+    "itemLabel": "Amenemhat I",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-1976",
+    "endYear": "-1946",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41838",
+    "itemLabel": "Michael V Kalaphates",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1041",
+    "endYear": "1042",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q41849",
+    "itemLabel": "Alexios II Komnenos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1180",
+    "endYear": "1183",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52931",
+    "itemLabel": "Adolf Fredrik of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1751",
+    "endYear": "1771",
+    "sitelinks": "48"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q148524",
+    "itemLabel": "Zewditu I of Ethiopia",
+    "positionLabel": "Emperor of Ethiopia",
+    "sexLabel": "female",
+    "startYear": "1916",
+    "endYear": "1930",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q294425",
+    "itemLabel": "Alexander",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "912",
+    "endYear": "913",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q297494",
+    "itemLabel": "Saloninus",
+    "positionLabel": "Roman emperor",
+    "sexLabel": "male",
+    "startYear": "260",
+    "endYear": "260",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q310433",
+    "itemLabel": "Karl Knutsson",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1464",
+    "endYear": "1465",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q310433",
+    "itemLabel": "Karl Knutsson",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1448",
+    "endYear": "1457",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q310433",
+    "itemLabel": "Karl Knutsson",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1449",
+    "endYear": "1450",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q313806",
+    "itemLabel": "Emperor Kōkaku",
+    "positionLabel": "Emperor of Japan",
+    "sexLabel": "male",
+    "startYear": "1779",
+    "endYear": "1817",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161958",
+    "itemLabel": "Eric of Pomerania",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1436",
+    "endYear": "1439",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161958",
+    "itemLabel": "Eric of Pomerania",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1435",
+    "endYear": "1436",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161958",
+    "itemLabel": "Eric of Pomerania",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1389",
+    "endYear": "1442",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161958",
+    "itemLabel": "Eric of Pomerania",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1396",
+    "endYear": "1434",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q161958",
+    "itemLabel": "Eric of Pomerania",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1396",
+    "endYear": "1439",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q269285",
+    "itemLabel": "Teti",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-2317",
+    "endYear": "-2299",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q245315",
+    "itemLabel": "Liu Bei",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "221",
+    "endYear": "223",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q257425",
+    "itemLabel": "Gojong of the Korean Empire",
+    "positionLabel": "king of Joseon Dynasty",
+    "sexLabel": "male",
+    "startYear": "1863",
+    "endYear": "1897",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109248",
+    "itemLabel": "Dagobert III",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "711",
+    "endYear": "715",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q209397",
+    "itemLabel": "Djedefre",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-2579",
+    "endYear": "-2569",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q244985",
+    "itemLabel": "Unas",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-2379",
+    "endYear": "-2349",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q328763",
+    "itemLabel": "Psamtik I",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-663",
+    "endYear": "-609",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q333730",
+    "itemLabel": "Malcolm I of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "943",
+    "endYear": "954",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q378483",
+    "itemLabel": "Taejo of Joseon",
+    "positionLabel": "king of Joseon Dynasty",
+    "sexLabel": "male",
+    "startYear": "1392",
+    "endYear": "1398",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q10069",
+    "itemLabel": "Chongzhen Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1627",
+    "endYear": "1644",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q9961",
+    "itemLabel": "Jianwen Emperor",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1398",
+    "endYear": "1402",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q26326",
+    "itemLabel": "Duncan I of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1034",
+    "endYear": "1040",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37078",
+    "itemLabel": "Andronikos IV Palaiologos",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1376",
+    "endYear": "1379",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q37086",
+    "itemLabel": "Theodore I Laskaris",
+    "positionLabel": "Byzantine emperor",
+    "sexLabel": "male",
+    "startYear": "1205",
+    "endYear": "1222",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q44393",
+    "itemLabel": "Ludwig III of Bavaria",
+    "positionLabel": "King of Bavaria",
+    "sexLabel": "male",
+    "startYear": "1913",
+    "endYear": "1918",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q52932",
+    "itemLabel": "Frederick I of Sweden",
+    "positionLabel": "Monarch of Sweden",
+    "sexLabel": "male",
+    "startYear": "1720",
+    "endYear": "1751",
+    "sitelinks": "47"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q296439",
+    "itemLabel": "Mentuhotep II",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-2054",
+    "endYear": "-2003",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q305341",
+    "itemLabel": "Áed mac Cináeda",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "877",
+    "endYear": "878",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q310065",
+    "itemLabel": "John of Scotland",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "1292",
+    "endYear": "1296",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312045",
+    "itemLabel": "Amasis II",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-569",
+    "endYear": "-525",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q312589",
+    "itemLabel": "Domnall mac Ailpín",
+    "positionLabel": "monarch of Scotland",
+    "sexLabel": "male",
+    "startYear": "858",
+    "endYear": "862",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q313327",
+    "itemLabel": "Sun Quan",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "229",
+    "endYear": "252",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157103",
+    "itemLabel": "Ferdinand IV, King of the Romans",
+    "positionLabel": "Apostolic King of Hungary",
+    "sexLabel": "male",
+    "startYear": "1647",
+    "endYear": "1654",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157793",
+    "itemLabel": "Christian V of Denmark",
+    "positionLabel": "Monarch of Norway",
+    "sexLabel": "male",
+    "startYear": "1670",
+    "endYear": "1699",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q157793",
+    "itemLabel": "Christian V of Denmark",
+    "positionLabel": "monarch of Denmark",
+    "sexLabel": "male",
+    "startYear": "1670",
+    "endYear": "1699",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q128332",
+    "itemLabel": "Hisham ibn Abd al-Malik",
+    "positionLabel": "Umayyad Caliph",
+    "sexLabel": "male",
+    "startYear": "724",
+    "endYear": "743",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q108331",
+    "itemLabel": "Theuderic IV",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "721",
+    "endYear": "737",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q109223",
+    "itemLabel": "Childebert III",
+    "positionLabel": "king of Franks",
+    "sexLabel": "male",
+    "startYear": "695",
+    "endYear": "711",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q123088",
+    "itemLabel": "Ismail II",
+    "positionLabel": "list of Safavid monarchs",
+    "sexLabel": "male",
+    "startYear": "1576",
+    "endYear": "1577",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q228951",
+    "itemLabel": "Sobekneferu",
+    "positionLabel": "pharaoh",
+    "sexLabel": "female",
+    "startYear": "-1797",
+    "endYear": "-1792",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q193290",
+    "itemLabel": "Ashurnasirpal II",
+    "positionLabel": "King of Assyria",
+    "sexLabel": "male",
+    "startYear": "-883",
+    "endYear": "-858",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q207183",
+    "itemLabel": "Cassander",
+    "positionLabel": "king of Macedonia",
+    "sexLabel": "male",
+    "startYear": "-304",
+    "endYear": "-296",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q213758",
+    "itemLabel": "Pachacútec",
+    "positionLabel": "Sapa Inca",
+    "sexLabel": "male",
+    "startYear": "1438",
+    "endYear": "1471",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q213791",
+    "itemLabel": "Eric Bloodaxe",
+    "positionLabel": "King of Northumbria",
+    "sexLabel": "male",
+    "startYear": "952",
+    "endYear": "954",
+    "sitelinks": "46"
+  }
+]

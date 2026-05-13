@@ -1,0 +1,118 @@
+{
+  "difficultyCounts": {
+    "easy": 879,
+    "normal": 1451,
+    "hard": 2315
+  },
+  "id": "all",
+  "minScore": 1000,
+  "slug": "all",
+  "themeHue": 0,
+  "title": "All",
+  "children": [
+    {
+      "difficultyCounts": {
+        "easy": 74,
+        "normal": 158,
+        "hard": 290
+      },
+      "id": "all-empires",
+      "minScore": 25,
+      "slug": "empires",
+      "themeHue": 30,
+      "title": "Empires, Kingdoms & Dynasties",
+      "frequency": 0.2
+    },
+    {
+      "difficultyCounts": {
+        "easy": 113,
+        "normal": 212,
+        "hard": 362
+      },
+      "id": "all-conflicts",
+      "minScore": 22,
+      "slug": "conflicts",
+      "themeHue": 10,
+      "title": "Wars & Conflicts",
+      "frequency": 0.2
+    },
+    {
+      "difficultyCounts": {
+        "easy": 238,
+        "normal": 428,
+        "hard": 614
+      },
+      "id": "all-monarchs",
+      "minScore": 30,
+      "slug": "monarchs",
+      "themeHue": 280,
+      "title": "Monarch Reigns",
+      "frequency": 0.2
+    },
+    {
+      "difficultyCounts": {
+        "easy": 15,
+        "normal": 38,
+        "hard": 195
+      },
+      "id": "all-popes",
+      "minScore": 20,
+      "slug": "popes",
+      "themeHue": 300,
+      "title": "Papal Reigns",
+      "frequency": 0.15
+    },
+    {
+      "difficultyCounts": {
+        "easy": 2,
+        "normal": 6,
+        "hard": 40
+      },
+      "id": "all-space",
+      "minScore": 15,
+      "slug": "space",
+      "themeHue": 220,
+      "title": "Space Missions",
+      "frequency": 0.15
+    },
+    {
+      "difficultyCounts": {
+        "easy": 22,
+        "normal": 74,
+        "hard": 227
+      },
+      "id": "all-construction",
+      "minScore": 25,
+      "slug": "construction",
+      "themeHue": 160,
+      "title": "Construction Projects",
+      "frequency": 0.15
+    },
+    {
+      "difficultyCounts": {
+        "easy": 175,
+        "normal": 231,
+        "hard": 265
+      },
+      "id": "all-companies",
+      "minScore": 40,
+      "slug": "companies",
+      "themeHue": 200,
+      "title": "Companies & Brands",
+      "frequency": 0.2
+    },
+    {
+      "difficultyCounts": {
+        "easy": 240,
+        "normal": 304,
+        "hard": 322
+      },
+      "id": "all-tv",
+      "minScore": 25,
+      "slug": "tv",
+      "themeHue": 60,
+      "title": "TV Series",
+      "frequency": 0.2
+    }
+  ]
+}

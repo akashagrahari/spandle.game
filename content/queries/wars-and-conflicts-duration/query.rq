@@ -1,0 +1,14 @@
+SELECT ?item ?itemLabel ?startYear ?endYear ?sitelinks WHERE {
+  ?item
+    wdt:P31/wdt:P279* wd:Q198; # instance of or subclass of "war"
+    wdt:P580 ?startDate; # start time
+    wikibase:sitelinks ?sitelinks;
+    rdfs:label ?itemLabel.
+  OPTIONAL { ?item wdt:P582 ?endDate. } # end time (optional => ongoing)
+  FILTER(LANG(?itemLabel) = "en")
+  FILTER(?sitelinks >= 22)
+  BIND(YEAR(?startDate) AS ?startYear)
+  BIND(IF(BOUND(?endDate), STR(YEAR(?endDate)), "") AS ?endYear)
+}
+ORDER BY DESC(?sitelinks)
+LIMIT 500

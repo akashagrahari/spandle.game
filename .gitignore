@@ -1,0 +1,9 @@
+node_modules/
+.env
+.next/
+out/
+tsconfig.tsbuildinfo
+.DS_Store
+*.log
+.cache/
+.turbo/
