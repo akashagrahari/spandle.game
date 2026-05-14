@@ -21,7 +21,7 @@ test("daily share text uses the Spandle brand and compact format", () => {
       "",
       "Score / 6 / Bronze",
       "",
-      "https://spandle.game/daily",
+      "https://spandle.akashagrahari.com/daily",
     ].join("\n"),
   );
 });
@@ -50,7 +50,7 @@ test("free play share text includes category, difficulty, score, and best", () =
       "Score / 6 / Bronze",
       "Best / 25 / Gold",
       "",
-      "https://spandle.game/play/conflicts",
+      "https://spandle.akashagrahari.com/play/conflicts",
     ].join("\n"),
   );
 });

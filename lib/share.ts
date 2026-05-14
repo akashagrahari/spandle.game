@@ -2,7 +2,7 @@ import { PlayedCard } from "../types/cards";
 import { GameDifficulty } from "../types/game";
 import { GameMode, SelectionRoute } from "../types/routes";
 import { getSelectionRouteShareLabel } from "./categories";
-const PRODUCTION_ORIGIN = "https://spandle.game";
+const PRODUCTION_ORIGIN = "https://spandle.akashagrahari.com";
 const SHARE_BRAND_LABEL = "#spandle";
 const SHARE_RESULT_CORRECT = "🟩";
 const SHARE_RESULT_INCORRECT = "🟥";
