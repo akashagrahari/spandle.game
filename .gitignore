@@ -7,3 +7,5 @@ tsconfig.tsbuildinfo
 *.log
 .cache/
 .turbo/
+game-prd.md
+next-env.d.ts

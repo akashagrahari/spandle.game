@@ -90,6 +90,7 @@ const rootDeckDefinition: DeckDefinition = {
       slug: "construction",
       title: "Construction Projects",
       frequency: 0.15,
+      rowFilter: (row) => !!row.endYear,
       themeHue: 160,
       sources: [famousBuildingsConstructionDuration],
     },

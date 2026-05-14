@@ -6,6 +6,12 @@ Forked from and inspired by [wikitrivia](https://wikitrivia.tomjwatson.com/) by 
 
 ## Setup
 
+Install bun
+
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+
 Install dependencies with Bun:
 
 ```bash
@@ -21,6 +27,8 @@ cp .env.example .env
 Edit `.env` and set `OUTLAST_CONTACT_EMAIL` to your email address. Wikimedia requires API requests to identify their operator.
 
 ## Development
+
+> You might need to run `xattr -dr com.apple.quarantine node_modules` before running
 
 Run the app locally:
 

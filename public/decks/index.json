@@ -1,8 +1,8 @@
 {
   "difficultyCounts": {
-    "easy": 879,
-    "normal": 1451,
-    "hard": 2315
+    "easy": 864,
+    "normal": 1394,
+    "hard": 2126
   },
   "id": "all",
   "minScore": 1000,
@@ -77,9 +77,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 22,
-        "normal": 74,
-        "hard": 227
+        "easy": 7,
+        "normal": 17,
+        "hard": 38
       },
       "id": "all-construction",
       "minScore": 25,
