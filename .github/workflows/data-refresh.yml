@@ -1,0 +1,45 @@
+name: Data Refresh
+
+on:
+  schedule:
+    - cron: "0 0 1 * *" # 1st of every month, midnight UTC
+  workflow_dispatch: # allow manual trigger from GitHub UI
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Create .env for Wikimedia API auth
+        run: echo "SPANDLE_CONTACT_EMAIL=${{ secrets.SPANDLE_CONTACT_EMAIL }}" > .env
+
+      - name: Fetch fresh SPARQL snapshots from Wikidata
+        run: bun run sparql:run
+
+      - name: Rebuild deck JSON files
+        run: bun run decks:build
+
+      - name: Open PR with updated data
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore: refresh Wikidata snapshots and rebuild decks"
+          branch: data-refresh/automated
+          delete-branch: true
+          title: "chore: monthly data refresh"
+          body: |
+            Automated monthly data refresh — re-fetched all SPARQL snapshots from Wikidata and rebuilt deck JSON files.
+
+            Review for unexpected card changes (new entries, removed cards, duration corrections) before merging.
+          labels: data-refresh

@@ -10,7 +10,7 @@ export default function HomeScreen() {
       <div className={styles.home}>
         <div className={styles.wrapper}>
           <div className={styles.stage}>
-            <SiteHero subtitle="Sort history by how long it lasted." />
+            <SiteHero subtitle="Rank the chapters of history by their span." />
             <div className={styles.actions}>
               <ButtonLink fullWidth href="/daily" text="Daily" />
               <ButtonLink fullWidth href="/play" minimal text="Free play" />

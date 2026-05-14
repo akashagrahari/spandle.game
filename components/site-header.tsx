@@ -5,8 +5,8 @@ export default function SiteHeader() {
   return (
     <header className={styles.header}>
       <div className={styles.inner}>
-        <Link aria-label="Outlast home" className={styles.wordmark} href="/">
-          Outlast!
+        <Link aria-label="Spandle home" className={styles.wordmark} href="/">
+          SPANDLE!
         </Link>
       </div>
     </header>

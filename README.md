@@ -1,6 +1,6 @@
-# Outlast!
+# SPANDLE!
 
-Outlast! is a daily browser puzzle game. Players see cards — empires, wars, monarch reigns, papal reigns, space missions, building construction, companies, TV series — each with a real Wikidata-sourced duration. Drag them into a timeline sorted by **how long each thing lasted** (shortest to longest). Three wrong placements ends the game.
+SPANDLE! is a daily browser puzzle game. Players see cards — empires, wars, monarch reigns, papal reigns, space missions, building construction, companies, TV series — each with a real Wikidata-sourced duration. Drag them into a timeline sorted by **how long each thing lasted** (shortest to longest). Three wrong placements ends the game.
 
 Forked from and inspired by [wikitrivia](https://wikitrivia.tomjwatson.com/) by Tom J. Watson.
 
@@ -24,7 +24,7 @@ Create a local env file before running scripts that contact Wikimedia APIs:
 cp .env.example .env
 ```
 
-Edit `.env` and set `OUTLAST_CONTACT_EMAIL` to your email address. Wikimedia requires API requests to identify their operator.
+Edit `.env` and set `SPANDLE_CONTACT_EMAIL` to your email address — Wikimedia requires API requests to identify their operator.
 
 ## Development
 

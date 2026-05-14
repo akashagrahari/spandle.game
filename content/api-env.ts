@@ -2,12 +2,12 @@ import { execFileSync } from "child_process";
 import { existsSync } from "fs";
 import path from "path";
 
-const CONTACT_EMAIL_ENV = "OUTLAST_CONTACT_EMAIL";
+const CONTACT_EMAIL_ENV = "SPANDLE_CONTACT_EMAIL";
 
 function requireEnvFile() {
   if (!existsSync(path.join(process.cwd(), ".env"))) {
     throw new Error(
-      "Wikimedia API scripts require a .env file. Copy .env.example to .env and fill in OUTLAST_CONTACT_EMAIL.",
+      "Wikimedia API scripts require a .env file. Copy .env.example to .env and fill in SPANDLE_CONTACT_EMAIL.",
     );
   }
 }
@@ -56,7 +56,7 @@ function getGitHubRepoSlug(): string {
     // fall through to local default
   }
 
-  return "local/outlast-dev";
+  return "local/spandle-dev";
 }
 
 export function getWikimediaUserAgent(): string {

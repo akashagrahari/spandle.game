@@ -8,7 +8,7 @@ The placement mechanic: append the new card to the played list, sort by a single
 
 - `lib/game-selection.ts:580` `checkCorrect` — sorts by `durationYears`, returns `{ correct, delta }` where `delta = correctIndex - playerIndex`.
 
-Works for any timeline-placement game; only the comparator changes. The original wikitrivia used `year`; Outlast! uses `durationYears`.
+Works for any timeline-placement game; only the comparator changes. The original wikitrivia used `year`; SPANDLE! uses `durationYears`.
 
 ## 2. Seeded RNG with resumable state
 

@@ -2,7 +2,7 @@
 
 ## What this is
 
-**Outlast!** is a daily browser puzzle game built on a fork of [wikitrivia](https://wikitrivia.tomjwatson.com/). Players see cards (empires, wars, monarch reigns, papal reigns, space missions, building construction projects), each with a real Wikidata-sourced duration, and drag them into an ascending-duration timeline. Wrong placement costs a life; 3 lives end the game.
+**SPANDLE!** is a daily browser puzzle game built on a fork of [wikitrivia](https://wikitrivia.tomjwatson.com/). Players see cards (empires, wars, monarch reigns, papal reigns, space missions, building construction projects), each with a real Wikidata-sourced duration, and drag them into an ascending-duration timeline. Wrong placement costs a life; 3 lives end the game.
 
 Same mechanic as the original wikitrivia, but the sort key is **how long things lasted** instead of **when they happened**.
 

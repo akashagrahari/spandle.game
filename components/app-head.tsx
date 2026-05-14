@@ -5,7 +5,7 @@ interface Props {
 }
 
 export default function AppHead(props: Props) {
-  const { title = "Outlast!" } = props;
+  const { title = "SPANDLE! - Rank the chapters of history by their span" } = props;
 
   return (
     <Head>
@@ -24,20 +24,7 @@ export default function AppHead(props: Props) {
         type="font/woff2"
         crossOrigin="anonymous"
       />
-      <link rel="icon" href="/favicon.svg" sizes="any" type="image/svg+xml" />
-      <link
-        rel="icon"
-        href="/favicon-light.png"
-        media="(prefers-color-scheme: light)"
-        type="image/png"
-      />
-      <link
-        rel="icon"
-        href="/favicon-dark.png"
-        media="(prefers-color-scheme: dark)"
-        type="image/png"
-      />
-      <link rel="icon" href="/favicon-light.png" type="image/png" />
+      <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     </Head>
   );
 }

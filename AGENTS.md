@@ -1,6 +1,6 @@
-# Outlast!
+# SPANDLE!
 
-Outlast! is a daily timeline-placement puzzle game where players sort cards by how long things lasted (duration), built on Wikimedia data. Forked from [wikitrivia](https://wikitrivia.tomjwatson.com/).
+SPANDLE! is a daily timeline-placement puzzle game where players sort cards by how long things lasted (duration), built on Wikimedia data. Forked from [wikitrivia](https://wikitrivia.tomjwatson.com/).
 
 ## Basics
 
@@ -23,6 +23,6 @@ Bad card data should usually be fixed directly on Wikidata.
 
 ## API Scripts
 
-Scripts that hit Wikimedia APIs require a local `.env` copied from `.env.example`. Set `OUTLAST_CONTACT_EMAIL` to your email so requests identify themselves correctly to Wikimedia.
+Scripts that hit Wikimedia APIs require a local `.env` copied from `.env.example`. Set `SPANDLE_CONTACT_EMAIL` to your email so requests identify themselves correctly to Wikimedia.
 
 Never run build-card or SPARQL query scripts inside the sandbox. Request escalation first.

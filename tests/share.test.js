@@ -2,7 +2,7 @@ import assert from "node:assert/strict";
 import { test } from "node:test";
 import { buildShareText, getShareResults } from "../lib/share";
 
-test("daily share text uses the Outlast brand and compact format", () => {
+test("daily share text uses the Spandle brand and compact format", () => {
   const shareText = buildShareText({
     dateKey: "2026-03-23",
     difficulty: "easy",
@@ -15,13 +15,13 @@ test("daily share text uses the Outlast brand and compact format", () => {
   assert.equal(
     shareText,
     [
-      "#outlast / Daily for Mar 23 2026",
+      "#spandle / Daily for Mar 23 2026",
       "",
       "🟩🟥🟩🟩🟩🟥🟩🟩",
       "",
       "Score / 6 / Bronze",
       "",
-      "https://outlast.game/daily",
+      "https://spandle.game/daily",
     ].join("\n"),
   );
 });
@@ -43,14 +43,14 @@ test("free play share text includes category, difficulty, score, and best", () =
   assert.equal(
     shareText,
     [
-      "#outlast / Wars & Conflicts / Normal",
+      "#spandle / Wars & Conflicts / Normal",
       "",
       "🟩🟥🟩🟩🟩🟥🟩🟩",
       "",
       "Score / 6 / Bronze",
       "Best / 25 / Gold",
       "",
-      "https://outlast.game/play/conflicts",
+      "https://spandle.game/play/conflicts",
     ].join("\n"),
   );
 });

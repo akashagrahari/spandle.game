@@ -316,16 +316,16 @@ export default function MenuFlowShell() {
     path === "/"
       ? undefined
       : path === "/daily"
-        ? "Daily | Wikitrivia"
+        ? "Daily | SPANDLE!"
         : activeSelectionRoute
-          ? `${getSelectionRouteShareLabel(activeSelectionRoute)} | Wikitrivia`
+          ? `${getSelectionRouteShareLabel(activeSelectionRoute)} | SPANDLE!`
           : group
-            ? `${group.title} | Wikitrivia`
+            ? `${group.title} | SPANDLE!`
             : currentPlayView === "featured"
-              ? "Featured | Wikitrivia"
+              ? "Featured | SPANDLE!"
               : currentPlayView === "browse"
-                ? "Browse | Wikitrivia"
-                : "Free Play | Wikitrivia";
+                ? "Browse | SPANDLE!"
+                : "Free Play | SPANDLE!";
   const freePlayItems = React.useMemo(() => {
     const visibleCategories = getCategoryDefinitions().filter((category) => {
       if (!deckNodes) {

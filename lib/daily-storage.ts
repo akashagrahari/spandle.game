@@ -1,6 +1,6 @@
 import { DailyGameSnapshot } from "../types/routes";
 
-const DAILY_SNAPSHOT_STORAGE_KEY = "outlast:daily:snapshot:v1";
+const DAILY_SNAPSHOT_STORAGE_KEY = "spandle:daily:snapshot:v1";
 
 export function loadDailyGameSnapshot(): DailyGameSnapshot | null {
   try {

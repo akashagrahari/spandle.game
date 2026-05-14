@@ -7,7 +7,7 @@ import * as layoutStyles from "../styles/game-route-screen.css";
 export default function NotFoundPage() {
   return (
     <>
-      <AppHead title="Page Not Found | Wikitrivia" />
+      <AppHead title="Page Not Found | SPANDLE!" />
       <div className={layoutStyles.page}>
         <SiteHeader />
         <div className={layoutStyles.boardFrame}>

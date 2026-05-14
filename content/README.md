@@ -1,6 +1,6 @@
 # Content Tooling
 
-Outlast! decks are generated from checked-in Wikidata Query Service results. The runtime app only reads the built artifacts under `public/decks/`; this folder holds the pipeline that produces them.
+SPANDLE! decks are generated from checked-in Wikidata Query Service results. The runtime app only reads the built artifacts under `public/decks/`; this folder holds the pipeline that produces them.
 
 Each source query lives in `content/queries/<query-id>/` with:
 
@@ -48,4 +48,4 @@ Scripts that contact Wikimedia APIs require a local `.env`. From the repo root:
 cp .env.example .env
 ```
 
-Fill in `OUTLAST_CONTACT_EMAIL` before running API-backed commands. The user-agent name is derived from the GitHub `origin` remote (e.g. `your-org/outlast`); falls back to `local/outlast-dev` if no git remote is set.
+Fill in `SPANDLE_CONTACT_EMAIL` before running API-backed commands. The user-agent name is derived from the GitHub `origin` remote (e.g. `your-org/spandle`); falls back to `local/spandle-dev` if no git remote is set.
