@@ -16,7 +16,7 @@ export default function RoomPage() {
   const { code } = router.query;
 
   const hostId = React.useMemo(() => {
-    if (typeof code !== "string") return null;
+    if (typeof code !== "string" || typeof window === "undefined") return null;
     return localStorage.getItem(`spandle:room:${code.toUpperCase()}:hostId`);
   }, [code]);
 
