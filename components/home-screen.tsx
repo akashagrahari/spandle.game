@@ -14,6 +14,7 @@ export default function HomeScreen() {
             <div className={styles.actions}>
               <ButtonLink fullWidth href="/daily" text="Daily" />
               <ButtonLink fullWidth href="/play" minimal text="Free play" />
+              <ButtonLink fullWidth href="/room" minimal text="Play with friends" />
             </div>
           </div>
           <SiteFooter className={styles.footer} />

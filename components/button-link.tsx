@@ -59,9 +59,8 @@ export default function ButtonLink(props: Props) {
 
   return (
     <Link
-      className={classNames(styles.button, {
+      className={classNames(minimal ? styles.minimal : styles.button, {
         [styles.fullWidth]: fullWidth,
-        [styles.minimal]: minimal,
         [styles.withTrailingIcon]: trailingIcon,
       })}
       href={href}

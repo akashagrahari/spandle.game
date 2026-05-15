@@ -362,6 +362,19 @@ export const action = recipe({
           },
         },
       },
+      outlined: {
+        background: "transparent",
+        borderColor: vars.color.border,
+        boxShadow: "none",
+        color: vars.color.text,
+        selectors: {
+          "&:hover": {
+            background: `color-mix(in srgb, ${vars.color.text} 3%, transparent)`,
+            borderColor: vars.color.border,
+            color: vars.color.text,
+          },
+        },
+      },
     },
     withIcon: {
       false: {},

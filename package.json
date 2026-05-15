@@ -16,7 +16,9 @@
     "decks:build": "bun run content/scripts/build-cards.ts",
     "sparql:list": "bun run content/scripts/run-sparql.ts --list",
     "sparql:run": "bun run content/scripts/run-sparql.ts",
-    "start": "serve out"
+    "start": "serve out",
+    "worker:dev": "wrangler dev workers/room.ts",
+    "worker:deploy": "wrangler deploy workers/room.ts"
   },
   "dependencies": {
     "classnames": "^2.5.1",
@@ -27,6 +29,7 @@
     "react-github-btn": "^1.4.0"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260515.1",
     "@types/node": "^25.5.0",
     "@types/react": "^19.2.14",
     "@types/react-no-ssr": "^1.1.8",
@@ -37,6 +40,7 @@
     "oxfmt": "^0.41.0",
     "oxlint": "^1.56.0",
     "serve": "^14.2.6",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "wrangler": "^4.91.0"
   }
 }

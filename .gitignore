@@ -1,5 +1,6 @@
 node_modules/
 .env
+.env.local
 .next/
 out/
 tsconfig.tsbuildinfo
@@ -7,5 +8,6 @@ tsconfig.tsbuildinfo
 *.log
 .cache/
 .turbo/
+.wrangler/
 game-prd.md
 next-env.d.ts
