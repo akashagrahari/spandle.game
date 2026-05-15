@@ -131,7 +131,14 @@ export function useRoom(code: string | null): UseRoomResult {
                 ),
               };
             }
-            return { ...prev, players: [...prev.players, msg.player] };
+            return {
+              ...prev,
+              players: [...prev.players, msg.player],
+              scores: [
+                ...prev.scores,
+                { playerId: msg.player.id, name: msg.player.name, score: 0 },
+              ],
+            };
           });
           break;
 

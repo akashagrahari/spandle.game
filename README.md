@@ -38,6 +38,37 @@ bun run dev
 
 Then visit [localhost:3000](http://localhost:3000).
 
+### Testing the multiplayer room locally
+
+The "Play with friends" feature requires the Cloudflare Worker running alongside the Next.js dev server.
+
+**1. Add the worker URL to your local env:**
+
+```bash
+# .env.local
+NEXT_PUBLIC_ROOM_WORKER_URL=http://localhost:8787
+```
+
+**2. Start the worker dev server** (in a separate terminal):
+
+```bash
+bunx wrangler dev
+```
+
+This starts the room worker at `http://localhost:8787` with a local Durable Object.
+
+**3. Start the Next.js dev server** (in another terminal):
+
+```bash
+bun run dev
+```
+
+**4. Test it:**
+- Go to [localhost:3000](http://localhost:3000), click "Play with friends", create a room
+- Copy the room link and open it in a second browser window or incognito tab to join as another player
+
+Note: the local worker uses an in-memory Durable Object — state is lost when `wrangler dev` restarts.
+
 Build the static site:
 
 ```bash
@@ -91,6 +122,24 @@ NEXT_PUBLIC_ROOM_WORKER_URL=https://spandle-room.akash-agrahari.workers.dev
 ```
 
 **Production** — Cloudflare dashboard → Workers & Pages → `outlast-game` → Settings → Environment variables → add `NEXT_PUBLIC_ROOM_WORKER_URL` with the same value. Then trigger a new Pages deployment (push a commit or click Retry) for the variable to take effect.
+
+### Preview deployments (feature branches)
+
+Every push to a non-`main` branch automatically gets a Cloudflare Pages preview URL:
+
+```
+https://<branch-name>.outlast-game.pages.dev
+```
+
+Preview branches use the same `NEXT_PUBLIC_ROOM_WORKER_URL` as production (set under the **Preview** environment in Pages settings), so room features work on preview URLs out of the box.
+
+To fully isolate a preview environment from production (e.g. to avoid test rooms polluting the production worker), deploy a separate staging worker and point the Preview env var at it:
+
+```bash
+bunx wrangler deploy --name spandle-room-staging
+```
+
+Then in Cloudflare dashboard → `outlast-game` → Settings → Environment variables → switch to **Preview** → set `NEXT_PUBLIC_ROOM_WORKER_URL` to the staging worker URL.
 
 ### Scaling
 
