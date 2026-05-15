@@ -1,4 +1,3 @@
-import { useRouter } from "next/router";
 import React from "react";
 import AppHead from "../../components/app-head";
 import RoomScreen from "../../components/room-screen";
@@ -12,22 +11,27 @@ export function getStaticProps() {
 }
 
 export default function RoomPage() {
-  const router = useRouter();
-  const { code } = router.query;
+  const [code, setCode] = React.useState<string | null>(null);
+
+  React.useEffect(() => {
+    const parts = window.location.pathname.split("/").filter(Boolean);
+    const roomCode = parts[1];
+    if (roomCode && roomCode !== "__shell__") {
+      setCode(roomCode.toUpperCase());
+    }
+  }, []);
 
   const hostId = React.useMemo(() => {
-    if (typeof code !== "string" || typeof window === "undefined") return null;
-    return localStorage.getItem(`spandle:room:${code.toUpperCase()}:hostId`);
+    if (!code) return null;
+    return localStorage.getItem(`spandle:room:${code}:hostId`);
   }, [code]);
 
-  if (!router.isReady || typeof code !== "string") {
-    return null;
-  }
+  if (!code) return null;
 
   return (
     <>
       <AppHead title={`Room ${code} | SPANDLE!`} />
-      <RoomScreen code={code.toUpperCase()} hostId={hostId} />
+      <RoomScreen code={code} hostId={hostId} />
     </>
   );
 }
