@@ -103,6 +103,19 @@ export default function Board(props: Props) {
   >(null);
   const boardRef = React.useRef<HTMLDivElement | null>(null);
   const bottomRef = React.useRef<HTMLDivElement | null>(null);
+
+  React.useEffect(() => {
+    const el = bottomRef.current;
+    if (!el) return;
+    function onWheel(e: WheelEvent) {
+      if (!el || el.scrollWidth <= el.clientWidth) return;
+      e.preventDefault();
+      el.scrollLeft += e.deltaY + e.deltaX;
+    }
+    el.addEventListener("wheel", onWheel, { passive: false });
+    return () => el.removeEventListener("wheel", onWheel);
+  }, []);
+
   const deckAnchorRef = React.useRef<HTMLDivElement | null>(null);
   const openingAnchorRef = React.useRef<HTMLDivElement | null>(null);
   const [anchorVersion, setAnchorVersion] = React.useState(0);

@@ -3,7 +3,10 @@ import AppHead from "../../components/app-head";
 import RoomScreen from "../../components/room-screen";
 
 export function getStaticPaths() {
-  return { paths: [{ params: { code: "__shell__" } }], fallback: false };
+  return {
+    paths: [{ params: { code: "__shell__" } }],
+    fallback: process.env.NODE_ENV === "development",
+  };
 }
 
 export function getStaticProps() {

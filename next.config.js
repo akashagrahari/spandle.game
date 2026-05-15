@@ -5,7 +5,7 @@ const { createVanillaExtractPlugin } = require("@vanilla-extract/next-plugin");
  */
 const nextConfig = {
   allowedDevOrigins: ["127.0.0.1"],
-  output: "export",
+  ...(process.env.NODE_ENV === "production" ? { output: "export" } : {}),
 
   // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
   // trailingSlash: true,

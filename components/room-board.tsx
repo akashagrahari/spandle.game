@@ -67,6 +67,19 @@ export default function RoomBoard({
 
   const boardRef = React.useRef<HTMLDivElement | null>(null);
   const bottomRef = React.useRef<HTMLDivElement | null>(null);
+
+  React.useEffect(() => {
+    const el = bottomRef.current;
+    if (!el) return;
+    function onWheel(e: WheelEvent) {
+      if (!el || el.scrollWidth <= el.clientWidth) return;
+      e.preventDefault();
+      el.scrollLeft += e.deltaY + e.deltaX;
+    }
+    el.addEventListener("wheel", onWheel, { passive: false });
+    return () => el.removeEventListener("wheel", onWheel);
+  }, []);
+
   const deckAnchorRef = React.useRef<HTMLDivElement | null>(null);
   const previewIndexRef = React.useRef<number | null>(null);
   const dragDirectionRef = React.useRef<-1 | 0 | 1>(0);
