@@ -59,6 +59,43 @@ bun run format:check
 bun test
 ```
 
+## Deployment
+
+The frontend is a static Next.js export hosted on Cloudflare Pages. The "Play with friends" multiplayer feature runs on a separate Cloudflare Worker with Durable Objects.
+
+### Frontend (Cloudflare Pages)
+
+The Pages project (`outlast-game`) is connected to this GitHub repo and deploys automatically on every push to `main`. No manual steps needed — just push.
+
+### Multiplayer worker (Cloudflare Worker)
+
+The room worker is deployed separately and must be re-deployed manually whenever `workers/room.ts` changes:
+
+```bash
+bunx wrangler login   # first time only — opens browser to authenticate
+bunx wrangler deploy
+```
+
+Wrangler will print the worker URL on success:
+```
+https://spandle-room.akash-agrahari.workers.dev
+```
+
+### Environment variable
+
+The frontend needs to know the worker URL. Set it in two places:
+
+**Locally** — add to `.env.local`:
+```
+NEXT_PUBLIC_ROOM_WORKER_URL=https://spandle-room.akash-agrahari.workers.dev
+```
+
+**Production** — Cloudflare dashboard → Workers & Pages → `outlast-game` → Settings → Environment variables → add `NEXT_PUBLIC_ROOM_WORKER_URL` with the same value. Then trigger a new Pages deployment (push a commit or click Retry) for the variable to take effect.
+
+### Scaling
+
+The free Cloudflare plan covers ~100,000 Worker requests/day and 1,000 concurrent WebSocket connections. For a friends game this is very generous (a 15-round game with 4 players uses ~200–300 messages total). If the app grows, upgrade to the **Workers Paid plan ($5/month)** — no code or config changes needed, just a billing upgrade in the Cloudflare dashboard. That raises limits to 10M requests/day with effectively unlimited concurrent rooms.
+
 ## Content
 
 Game content comes from Wikidata Query Service snapshots in `content/queries/` and is built into deck JSON under `public/decks/`.

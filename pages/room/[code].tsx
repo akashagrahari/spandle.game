@@ -3,6 +3,14 @@ import React from "react";
 import AppHead from "../../components/app-head";
 import RoomScreen from "../../components/room-screen";
 
+export function getStaticPaths() {
+  return { paths: [{ params: { code: "__shell__" } }], fallback: false };
+}
+
+export function getStaticProps() {
+  return { props: {} };
+}
+
 export default function RoomPage() {
   const router = useRouter();
   const { code } = router.query;
