@@ -327,29 +327,33 @@ export default function RoomBoard({
     <div className={roomStyles.boardPage}>
       <div className={roomStyles.boardTopBar}>
         <span className={roomStyles.boardTitle}>{roundLabel}</span>
-        {deadlineTs !== null && (
+        {deadlineTs !== null ? (
           <span
             className={roomStyles.timerChip}
             data-urgent={isUrgent ? "true" : "false"}
           >
             {secondsLeft}s
           </span>
+        ) : (
+          <span />
         )}
-        {isHost && phase === "playing" && (
-          <button
-            onClick={onEndGame}
-            style={{
-              background: "none",
-              border: "none",
-              color: "var(--wt-color-textMuted)",
-              cursor: "pointer",
-              fontSize: "0.8125rem",
-              fontWeight: 600,
-            }}
-          >
-            End game
-          </button>
-        )}
+        <div className={roomStyles.boardTopBarRight}>
+          {isHost && phase === "playing" && (
+            <button
+              onClick={onEndGame}
+              style={{
+                background: "none",
+                border: "none",
+                color: "var(--wt-color-textMuted)",
+                cursor: "pointer",
+                fontSize: "0.8125rem",
+                fontWeight: 600,
+              }}
+            >
+              End game
+            </button>
+          )}
+        </div>
       </div>
 
       <div className={roomStyles.boardContent}>

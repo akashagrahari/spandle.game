@@ -227,11 +227,15 @@ export const boardPage = style({
 export const boardTopBar = style({
   alignItems: "center",
   borderBottom: `${vars.size.borderWidth} solid ${vars.color.border}`,
-  display: "flex",
+  display: "grid",
   flexShrink: 0,
-  gap: vars.space.lg,
-  justifyContent: "space-between",
+  gridTemplateColumns: "1fr auto 1fr",
   padding: `${vars.space.md} ${vars.space.xl}`,
+});
+
+export const boardTopBarRight = style({
+  display: "flex",
+  justifyContent: "flex-end",
 });
 
 export const boardTitle = style({
