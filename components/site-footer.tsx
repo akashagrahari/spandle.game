@@ -41,7 +41,7 @@ export default function SiteFooter(props: Props) {
         </a>
         {" · "}
         <a
-          href="https://github.com/akashagrahari/outlast.game"
+          href="https://github.com/akashagrahari/spandle.game"
           target="_blank"
           rel="noopener noreferrer"
         >
