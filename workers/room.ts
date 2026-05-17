@@ -12,6 +12,7 @@ interface StoredRoomState {
   code: string;
   config: RoomConfig;
   currentRound: number;
+  deadlineTs: number | null;
   hostId: string;    // current WS playerId of the host — updated on each (re)connect
   hostToken: string; // static secret from room creation — used to verify reconnects
   pendingAlarm: "round-start" | "round-end" | null;
@@ -110,7 +111,7 @@ export class RoomDO {
       code: room.code,
       config: room.config,
       currentRound: room.currentRound,
-      deadlineTs: null,
+      deadlineTs: room.deadlineTs ?? null,
       deckId: room.phase !== "lobby" ? room.config.deckId : null,
       hostId: room.hostId,
       isHost: playerId === room.hostId,
@@ -142,6 +143,8 @@ export class RoomDO {
 
   private async endRound(): Promise<void> {
     if (!this.roomState || this.roomState.phase !== "playing") return;
+
+    this.roomState.deadlineTs = null;
 
     const scores: PlayerScore[] = this.roomState.players.map((p) => ({
       playerId: p.id,
@@ -208,6 +211,7 @@ export class RoomDO {
   private async startRound(): Promise<void> {
     if (!this.roomState) return;
     const deadlineTs = Date.now() + this.roomState.config.roundSeconds * 1000;
+    this.roomState.deadlineTs = deadlineTs;
     this.roomState.pendingAlarm = "round-end";
     await this.saveState();
     await this.state.storage.setAlarm(deadlineTs);
@@ -245,6 +249,7 @@ export class RoomDO {
         code: body.code,
         config: body.config,
         currentRound: 0,
+        deadlineTs: null,
         hostId: "",
         hostToken: body.hostId,
         pendingAlarm: null,
@@ -288,7 +293,11 @@ export class RoomDO {
       return new Response("Room has ended", { status: 410 });
     }
 
-    const playerId = crypto.randomUUID();
+    const rejoinId = url.searchParams.get("playerId");
+    const playerId =
+      rejoinId && this.roomState.players.some((p) => p.id === rejoinId)
+        ? rejoinId
+        : crypto.randomUUID();
     const pair = new WebSocketPair();
     const [client, server] = Object.values(pair) as [WebSocket, WebSocket];
     this.state.acceptWebSocket(server, [playerId]);

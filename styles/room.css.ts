@@ -283,9 +283,20 @@ export const boardContent = style({
 });
 
 export const boardMain = style({
+  display: "flex",
   flex: 1,
+  flexDirection: "column",
   minWidth: 0,
   position: "relative",
+});
+
+export const waitingCardSlot = style({
+  alignItems: "center",
+  display: "flex",
+  height: vars.size.cardHeight,
+  justifyContent: "center",
+  marginBottom: vars.space["3xl"],
+  marginTop: vars.space.xl,
 });
 
 export const lockedOverlay = style({

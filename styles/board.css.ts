@@ -1,4 +1,4 @@
-import { style } from "@vanilla-extract/css";
+import { keyframes, style } from "@vanilla-extract/css";
 import { vars } from "./theme.css";
 
 export const wrapper = style({
@@ -39,6 +39,21 @@ export const statusLayer = style({
   display: "flex",
   justifyContent: "center",
   width: "100%",
+});
+
+const gameOverFlashKf = keyframes({
+  "0%": { opacity: 0 },
+  "18%": { opacity: 0.22 },
+  "100%": { opacity: 0 },
+});
+
+export const gameOverFlash = style({
+  animation: `${gameOverFlashKf} 520ms ease-out forwards`,
+  background: "rgba(159, 104, 97, 1)",
+  inset: 0,
+  pointerEvents: "none",
+  position: "absolute",
+  zIndex: 10,
 });
 
 export const bottom = style({

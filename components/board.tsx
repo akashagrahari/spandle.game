@@ -11,6 +11,12 @@ import {
   PlacementAnimationState,
   PlacementRequest,
 } from "../lib/placement-animation";
+import {
+  playCorrect,
+  playGameOver,
+  playGameStart,
+  playWrong,
+} from "../lib/sound";
 import { GameDifficulty, GameState } from "../types/game";
 import { PreparedCard } from "../types/game";
 import { GameMode, SelectionRoute } from "../types/routes";
@@ -101,6 +107,11 @@ export default function Board(props: Props) {
   const [hiddenPlayedCardId, setHiddenPlayedCardId] = React.useState<
     null | string
   >(null);
+  const [justPlacedResult, setJustPlacedResult] = React.useState<{
+    id: string;
+    correct: boolean;
+  } | null>(null);
+  const lastPlacementCorrectRef = React.useRef<boolean>(false);
   const boardRef = React.useRef<HTMLDivElement | null>(null);
   const bottomRef = React.useRef<HTMLDivElement | null>(null);
 
@@ -359,6 +370,8 @@ export default function Board(props: Props) {
     const newPlayed = [...state.played];
     const { correct, delta } = checkCorrect(newPlayed, card, droppedIndex);
     const finalIndex = correct ? droppedIndex : droppedIndex + delta;
+    lastPlacementCorrectRef.current = correct;
+    correct ? playCorrect() : playWrong();
 
     newPlayed.splice(finalIndex, 0, {
       ...card,
@@ -529,6 +542,7 @@ export default function Board(props: Props) {
     }
 
     const timeoutId = window.setTimeout(() => {
+      playGameStart();
       setOpeningDealInFlight(true);
       setOpeningDeal({
         card: state.next!,
@@ -585,6 +599,7 @@ export default function Board(props: Props) {
         reserve: state.nextButOne,
       });
       setGameOverPhase("linger");
+      playGameOver();
       return;
     }
 
@@ -754,6 +769,8 @@ export default function Board(props: Props) {
           hiddenCardId={hiddenPlayedCardId}
           isDragging={isDragging}
           items={state.played}
+          justPlacedCardId={justPlacedResult?.id ?? null}
+          justPlacedCorrect={justPlacedResult?.correct}
           layoutAnimationsEnabled={timelineLayoutAnimationsEnabled}
           onOpeningAnchorChange={handleOpeningAnchorChange}
           openingAnchorRef={openingAnchorRef}
@@ -784,11 +801,20 @@ export default function Board(props: Props) {
               setState(pendingResolvedState);
               setPendingResolvedState(null);
             }
+            const placedId = placementAnimation?.card.id ?? null;
+            if (placedId) {
+              const correct = lastPlacementCorrectRef.current;
+              setJustPlacedResult({ id: placedId, correct });
+              window.setTimeout(() => setJustPlacedResult(null), 700);
+            }
             setHiddenPlayedCardId(null);
             setPlacementAnimation(null);
           }}
           scrollContainerRef={bottomRef}
         />
+      ) : null}
+      {gameOverPhase === "linger" ? (
+        <div aria-hidden="true" className={styles.gameOverFlash} />
       ) : null}
     </div>
   );

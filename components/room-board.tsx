@@ -1,5 +1,7 @@
 import React from "react";
 import { checkCorrect, drawNextCard } from "../lib/game-selection";
+import { createSeededRandom } from "../lib/seeded-random";
+import { playCorrect, playWrong } from "../lib/sound";
 import { GameState } from "../types/game";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
@@ -64,9 +66,14 @@ export default function RoomBoard({
   const [deckState, setDeckState] = React.useState<
     "hidden" | "ready" | "revealing"
   >("hidden");
+  const [justPlacedResult, setJustPlacedResult] = React.useState<{
+    id: string;
+    correct: boolean;
+  } | null>(null);
 
   const boardRef = React.useRef<HTMLDivElement | null>(null);
   const bottomRef = React.useRef<HTMLDivElement | null>(null);
+  const lockedRef = React.useRef(false);
 
   React.useEffect(() => {
     const el = bottomRef.current;
@@ -84,22 +91,25 @@ export default function RoomBoard({
   const previewIndexRef = React.useRef<number | null>(null);
   const dragDirectionRef = React.useRef<-1 | 0 | 1>(0);
   const lastDragCentreXRef = React.useRef<number | null>(null);
+  const currentRoundRef = React.useRef(currentRound);
+  currentRoundRef.current = currentRound;
 
   const secondsLeft = useRoundTimer(deadlineTs);
   const isUrgent = secondsLeft > 0 && secondsLeft <= 5;
 
   // when round advances (currentRound changes), unlock
   React.useEffect(() => {
+    lockedRef.current = false;
     setLocked(false);
     setDeckState("hidden");
   }, [currentRound]);
 
   // reveal deck when unlocked and ready
   React.useEffect(() => {
-    if (locked || gameState.next === null) return;
+    if (locked || gameState.next === null || deckState !== "hidden") return;
     const id = window.setTimeout(() => setDeckState("revealing"), 120);
     return () => window.clearTimeout(id);
-  }, [locked, gameState.next]);
+  }, [locked, gameState.next, deckState]);
 
   React.useEffect(() => {
     if (deckState !== "revealing") return;
@@ -110,12 +120,17 @@ export default function RoomBoard({
   // timer expiry — skip card
   React.useEffect(() => {
     if (locked || !deadlineTs) return;
+    const roundWhenScheduled = currentRound;
     const remaining = deadlineTs - Date.now();
-    if (remaining <= 0) {
+    const doSkip = () => {
+      if (currentRoundRef.current !== roundWhenScheduled) return;
       handleSkip();
+    };
+    if (remaining <= 0) {
+      doSkip();
       return;
     }
-    const id = window.setTimeout(handleSkip, remaining);
+    const id = window.setTimeout(doSkip, remaining);
     return () => window.clearTimeout(id);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [deadlineTs, locked]);
@@ -129,7 +144,8 @@ export default function RoomBoard({
   }, [gameState.played]);
 
   function handleSkip() {
-    if (locked) return;
+    if (lockedRef.current) return;
+    lockedRef.current = true;
     setLocked(true);
 
     const card = gameState.next;
@@ -166,7 +182,11 @@ export default function RoomBoard({
       usedDurations: new Set(gameState.usedDurations),
       usedQids: new Set(gameState.usedQids),
     };
-    const newNextButOne = drawNextCard(nextState);
+    const roundRandom = createSeededRandom(`${roomState.seed}:${nextState.played.length}`);
+    const newNextButOne = drawNextCard({ ...nextState, random: roundRandom });
+    playWrong();
+    setJustPlacedResult({ id: card.id, correct: false });
+    window.setTimeout(() => setJustPlacedResult(null), 700);
     onGameStateChange({ ...nextState, nextButOne: newNextButOne });
     onPlaceCard(false);
   }
@@ -263,7 +283,7 @@ export default function RoomBoard({
     point: { x: number; y: number },
     rect: DOMRect | null,
   ): boolean {
-    if (locked) {
+    if (lockedRef.current) {
       setIsDragging(false);
       return false;
     }
@@ -275,6 +295,8 @@ export default function RoomBoard({
     if (gameState.next === null || droppedIndex === null || rect === null) {
       return false;
     }
+
+    lockedRef.current = true;
 
     const card = gameState.next;
     const newPlayed = [...gameState.played];
@@ -303,8 +325,12 @@ export default function RoomBoard({
         ? null
         : { delta, index: finalIndex, rendered: false },
     };
-    const newNextButOne = drawNextCard(nextState);
+    const roundRandom = createSeededRandom(`${roomState.seed}:${nextState.played.length}`);
+    const newNextButOne = drawNextCard({ ...nextState, random: roundRandom });
 
+    correct ? playCorrect() : playWrong();
+    setJustPlacedResult({ id: card.id, correct });
+    window.setTimeout(() => setJustPlacedResult(null), 700);
     setLocked(true);
     onGameStateChange({ ...nextState, nextButOne: newNextButOne });
     onPlaceCard(correct);
@@ -376,7 +402,13 @@ export default function RoomBoard({
         >
           <div className={boardStyles.top}>
             <div className={boardStyles.statusArea} />
-            {gameState.next && !locked ? (
+            {locked ? (
+              <div className={roomStyles.waitingCardSlot}>
+                <span className={roomStyles.lockedBadge}>
+                  Waiting for next round...
+                </span>
+              </div>
+            ) : gameState.next ? (
               <NextItemList
                 deckAnchorRef={deckAnchorRef}
                 deckState={deckState}
@@ -413,6 +445,8 @@ export default function RoomBoard({
               hiddenCardId={null}
               isDragging={isDragging}
               items={gameState.played}
+              justPlacedCardId={justPlacedResult?.id ?? null}
+              justPlacedCorrect={justPlacedResult?.correct}
               layoutAnimationsEnabled={true}
               onOpeningAnchorChange={() => {}}
               openingAnchorRef={{ current: null }}
@@ -420,13 +454,6 @@ export default function RoomBoard({
             />
           </div>
 
-          {locked && phase === "playing" && (
-            <div className={roomStyles.lockedOverlay}>
-              <span className={roomStyles.lockedBadge}>
-                Waiting for next round...
-              </span>
-            </div>
-          )}
         </div>
 
         <RoomLeaderboard myPlayerId={playerId} scores={scores} />

@@ -4,6 +4,7 @@ import { PreparedCard } from "../types/game";
 import CardVisual from "./card-visual";
 
 type Props = {
+  flash?: "correct" | "wrong" | null;
   flippedId?: null | string;
   layout?: boolean | "position";
   item: PreparedCard | PlayedCard;
@@ -14,6 +15,7 @@ type Props = {
 
 export default function ItemCard(props: Props) {
   const {
+    flash,
     flippedId,
     layout = true,
     item,
@@ -29,6 +31,7 @@ export default function ItemCard(props: Props) {
     <motion.div layout={layout}>
       <CardVisual
         animateTransform={{ rotateY: flipped ? 180 : 0 }}
+        flash={flash}
         flipped={flipped}
         initialTransform={
           isJustPlacedCard

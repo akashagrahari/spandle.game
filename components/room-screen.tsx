@@ -1,11 +1,15 @@
 import React from "react";
 import { collectLeafDeckIds } from "../lib/deck-tree";
 import {
+  createDailyGameSnapshot,
+  createDailyGameStateFromSnapshot,
   createStateWithRetry,
   filterCardsBySelectionRoute,
   resolveSelectionDeck,
 } from "../lib/game-state";
 import { createSeededRandom } from "../lib/seeded-random";
+import type { DailyGameSnapshot } from "../types/routes";
+import { playGameStart, playRoomEnd } from "../lib/sound";
 import { useRoom } from "../lib/use-room";
 import type { GameState } from "../types/game";
 import { useDecks } from "./deck-provider";
@@ -20,14 +24,88 @@ interface Props {
   hostId: string | null;
 }
 
+function sessionKey(code: string) {
+  return `spandle:session:${code}`;
+}
+
+function gameSnapshotKey(code: string) {
+  return `spandle:gamestate:${code}`;
+}
+
+function saveRoomSnapshot(code: string, snapshot: DailyGameSnapshot) {
+  try {
+    sessionStorage.setItem(gameSnapshotKey(code), JSON.stringify(snapshot));
+  } catch { /* ignore */ }
+}
+
+function loadRoomSnapshot(code: string): DailyGameSnapshot | null {
+  try {
+    const raw = sessionStorage.getItem(gameSnapshotKey(code));
+    return raw ? (JSON.parse(raw) as DailyGameSnapshot) : null;
+  } catch { return null; }
+}
+
+function clearRoomSnapshot(code: string) {
+  try { sessionStorage.removeItem(gameSnapshotKey(code)); } catch { /* ignore */ }
+}
+
+function readSession(code: string): { name: string; playerId: string | null } | null {
+  try {
+    const raw = sessionStorage.getItem(sessionKey(code));
+    if (!raw) return null;
+    return JSON.parse(raw) as { name: string; playerId: string | null };
+  } catch {
+    return null;
+  }
+}
+
+function saveSession(code: string, name: string, playerId: string | null) {
+  try {
+    sessionStorage.setItem(sessionKey(code), JSON.stringify({ name, playerId }));
+  } catch {
+    // sessionStorage unavailable (private browsing edge cases)
+  }
+}
+
 export default function RoomScreen({ code, hostId }: Props) {
-  const { actions, roomState, status } = useRoom(code);
+  // Read sessionStorage synchronously so savedPlayerId is available before useRoom connects
+  const [savedSession] = React.useState<{ name: string; playerId: string | null } | null>(
+    () => readSession(code),
+  );
+  const [savedPlayerId, setSavedPlayerId] = React.useState<string | null>(
+    () => savedSession?.playerId ?? null,
+  );
+  const { actions, roomState, status } = useRoom(code, savedPlayerId);
   const { deckNodes, loadDecks, rootDeckId } = useDecks();
 
-  const [playerName, setPlayerName] = React.useState("");
-  const [nameSubmitted, setNameSubmitted] = React.useState(false);
+  const [playerName, setPlayerName] = React.useState(savedSession?.name ?? "");
+  const [nameSubmitted, setNameSubmitted] = React.useState(savedSession !== null);
   const [gameState, setGameState] = React.useState<GameState | null>(null);
   const [gameReady, setGameReady] = React.useState(false);
+  const prevPhaseRef = React.useRef<string | null>(null);
+
+  // once we have the authoritative playerId from the server, persist the full session
+  React.useEffect(() => {
+    if (roomState?.playerId && playerName) {
+      setSavedPlayerId(roomState.playerId);
+      saveSession(code, playerName, roomState.playerId);
+    }
+  }, [code, roomState?.playerId, playerName]);
+
+  // persist game state to sessionStorage on every change so refresh can restore it
+  React.useEffect(() => {
+    if (!gameState || !roomState?.seed) return;
+    saveRoomSnapshot(code, createDailyGameSnapshot(roomState.seed, gameState));
+  }, [code, gameState, roomState?.seed]);
+
+  React.useEffect(() => {
+    const phase = roomState?.phase ?? null;
+    if (phase === prevPhaseRef.current) return;
+    const prev = prevPhaseRef.current;
+    prevPhaseRef.current = phase;
+    if (prev === "lobby" && phase === "playing") playGameStart();
+    if (prev === "playing" && phase === "ended") playRoomEnd();
+  }, [roomState?.phase]);
 
   // join once we have a name and the WS is connected
   React.useEffect(() => {
@@ -64,6 +142,17 @@ export default function RoomScreen({ code, hostId }: Props) {
         resolveSelectionDeck(deckNodes, "free-play", { kind: "leaf", nodeId: deckId }, rootDeckId) ?? targetNode;
 
       const filtered = filterCardsBySelectionRoute(cardMap, null);
+
+      // restore from snapshot if available (page refresh mid-game)
+      const saved = loadRoomSnapshot(code);
+      if (saved && saved.dateKey === seed) {
+        if (!cancelled) {
+          setGameState(createDailyGameStateFromSnapshot(saved, selectionDeck, filtered));
+          setGameReady(true);
+        }
+        return;
+      }
+
       const random = createSeededRandom(seed);
 
       const state = await createStateWithRetry(selectionDeck, filtered, "easy", {
@@ -96,7 +185,8 @@ export default function RoomScreen({ code, hostId }: Props) {
         };
         // draw nextButOne
         const { drawNextCard } = await import("../lib/game-selection");
-        const nextButOne = drawNextCard(anchoredState);
+        const roundRandom = createSeededRandom(`${seed}:${anchoredState.played.length}`);
+        const nextButOne = drawNextCard({ ...anchoredState, random: roundRandom });
         setGameState({ ...anchoredState, nextButOne });
       } else {
         setGameState(state);
@@ -115,8 +205,9 @@ export default function RoomScreen({ code, hostId }: Props) {
     if (roomState?.phase === "lobby") {
       setGameReady(false);
       setGameState(null);
+      clearRoomSnapshot(code);
     }
-  }, [roomState?.phase]);
+  }, [roomState?.phase, code]);
 
   function handlePlaceCard(correct: boolean) {
     if (!roomState) return;
@@ -132,7 +223,10 @@ export default function RoomScreen({ code, hostId }: Props) {
           className={styles.card}
           onSubmit={(e) => {
             e.preventDefault();
-            if (playerName.trim()) setNameSubmitted(true);
+            if (playerName.trim()) {
+              saveSession(code, playerName.trim(), null);
+              setNameSubmitted(true);
+            }
           }}
         >
           <div className={styles.heading}>Join room {code}</div>

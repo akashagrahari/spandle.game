@@ -21,6 +21,7 @@ type Props = {
   animateTransform?: TransformValues;
   backVariant?: "deck" | "fact";
   className?: string;
+  flash?: "correct" | "wrong" | null;
   flipped?: boolean;
   initialTransform?: false | TransformValues;
   item: PreparedCard | PlayedCard;
@@ -45,6 +46,7 @@ export default function CardVisual(props: Props) {
     animateTransform,
     backVariant = "fact",
     className,
+    flash,
     flipped = false,
     initialTransform = false,
     item,
@@ -79,6 +81,8 @@ export default function CardVisual(props: Props) {
         [styles.deckCard]: surface === "deck",
         [styles.played]: "played" in item,
         [styles.flipped]: flipped,
+        [styles.flashCorrect]: flash === "correct",
+        [styles.flashWrong]: flash === "wrong",
       })}
       onClick={onClick}
       style={{

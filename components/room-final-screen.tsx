@@ -1,3 +1,4 @@
+import { motion } from "motion/react";
 import Link from "next/link";
 import type { PlayerScore } from "../types/room";
 import * as styles from "../styles/room.css";
@@ -17,7 +18,13 @@ export default function RoomFinalScreen({ myPlayerId, scores }: Props) {
       <div className={styles.finalCard}>
         <div className={styles.finalHeading}>Final scores</div>
         {sorted.map((entry, index) => (
-          <div key={entry.playerId} className={styles.finalEntry}>
+          <motion.div
+            key={entry.playerId}
+            animate={{ opacity: 1, y: 0 }}
+            className={styles.finalEntry}
+            initial={{ opacity: 0, y: 16 }}
+            transition={{ delay: index * 0.08, duration: 0.32, ease: "easeOut" }}
+          >
             <span className={styles.finalRank}>
               {RANK_MEDALS[index] ?? `${index + 1}.`}
             </span>
@@ -29,7 +36,7 @@ export default function RoomFinalScreen({ myPlayerId, scores }: Props) {
               {entry.playerId === myPlayerId ? " (you)" : ""}
             </span>
             <span className={styles.finalScore}>{entry.score}</span>
-          </div>
+          </motion.div>
         ))}
         <div className={styles.actions}>
           <Link

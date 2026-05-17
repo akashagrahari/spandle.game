@@ -15,6 +15,8 @@ interface PlayedItemListProps {
   hiddenCardId: string | null;
   isDragging: boolean;
   items: PlayedCard[];
+  justPlacedCardId?: string | null;
+  justPlacedCorrect?: boolean;
   layoutAnimationsEnabled?: boolean;
   onOpeningAnchorChange?: (node: HTMLDivElement | null) => void;
   openingAnchorRef: React.MutableRefObject<HTMLDivElement | null>;
@@ -26,6 +28,8 @@ export default function PlayedItemList(props: PlayedItemListProps) {
     hiddenCardId,
     isDragging,
     items,
+    justPlacedCardId,
+    justPlacedCorrect,
     layoutAnimationsEnabled = true,
     onOpeningAnchorChange,
     openingAnchorRef,
@@ -92,6 +96,13 @@ export default function PlayedItemList(props: PlayedItemListProps) {
             <div aria-hidden="true" className={styles.hiddenCardPlaceholder} />
           ) : (
             <ItemCard
+              flash={
+                item.id === justPlacedCardId
+                  ? justPlacedCorrect
+                    ? "correct"
+                    : "wrong"
+                  : null
+              }
               flippedId={flippedId}
               item={item}
               layout={false}
@@ -123,6 +134,8 @@ export default function PlayedItemList(props: PlayedItemListProps) {
     hiddenCardId,
     handleOpeningAnchorRef,
     items,
+    justPlacedCardId,
+    justPlacedCorrect,
     layoutAnimationsEnabled,
     previewIndex,
   ]);

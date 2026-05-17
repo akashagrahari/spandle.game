@@ -145,6 +145,20 @@ Then in Cloudflare dashboard → `outlast-game` → Settings → Environment var
 
 The free Cloudflare plan covers ~100,000 Worker requests/day and 1,000 concurrent WebSocket connections. For a friends game this is very generous (a 15-round game with 4 players uses ~200–300 messages total). If the app grows, upgrade to the **Workers Paid plan ($5/month)** — no code or config changes needed, just a billing upgrade in the Cloudflare dashboard. That raises limits to 10M requests/day with effectively unlimited concurrent rooms.
 
+## Sound effects
+
+Sound effects are synthesized at runtime using the Web Audio API — no audio files or external libraries. The `lib/sound.ts` module lazy-initialises a single `AudioContext` on first use (satisfying browser autoplay policy) and exposes five one-shot functions:
+
+| Event | Function | Sound |
+|---|---|---|
+| Card placed correctly | `playCorrect()` | Short ascending two-note ding (C5 → E5) |
+| Card placed incorrectly / skipped | `playWrong()` | Low descending buzz (triangle wave, 210 → 105 Hz) |
+| Game over (daily / free play) | `playGameOver()` | Three descending notes (C4 → A3 → F3) |
+| Game starts (all modes) | `playGameStart()` | Quick ascending three-note whoosh (G4 → C5 → E5) |
+| Room game ends (leaderboard appears) | `playRoomEnd()` | Four-note ascending fanfare (C5 → E5 → G5 → C6) |
+
+To change a sound, edit the corresponding function in `lib/sound.ts`. Each function creates an oscillator node, schedules a gain envelope (attack → decay → release), then disconnects automatically. If the `AudioContext` is suspended (e.g. browser hasn't received a user gesture yet) the call silently no-ops.
+
 ## Content
 
 Game content comes from Wikidata Query Service snapshots in `content/queries/` and is built into deck JSON under `public/decks/`.

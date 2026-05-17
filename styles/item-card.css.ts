@@ -1,4 +1,4 @@
-import { createVar, globalStyle, style } from "@vanilla-extract/css";
+import { createVar, globalStyle, keyframes, style } from "@vanilla-extract/css";
 import { vars } from "./theme.css";
 
 export const cardBorderVar = createVar();
@@ -280,6 +280,29 @@ export const description = style({
   fontSize: vars.fontSize.sm,
   lineHeight: "1.3",
   marginTop: vars.space.xxs,
+});
+
+const correctFlashKf = keyframes({
+  "0%": { boxShadow: "0 0 0 0px rgba(100, 136, 106, 0)" },
+  "25%": { boxShadow: "0 0 0 5px rgba(100, 136, 106, 0.5)" },
+  "100%": { boxShadow: "0 0 0 0px rgba(100, 136, 106, 0)" },
+});
+
+const wrongFlashKf = keyframes({
+  "0%": { transform: "translateX(0)", boxShadow: "0 0 0 0px rgba(159, 104, 97, 0)" },
+  "15%": { transform: "translateX(-5px)", boxShadow: "0 0 0 5px rgba(159, 104, 97, 0.5)" },
+  "35%": { transform: "translateX(4px)" },
+  "55%": { transform: "translateX(-3px)", boxShadow: "0 0 0 2px rgba(159, 104, 97, 0.25)" },
+  "75%": { transform: "translateX(2px)" },
+  "100%": { transform: "translateX(0)", boxShadow: "0 0 0 0px rgba(159, 104, 97, 0)" },
+});
+
+export const flashCorrect = style({
+  animation: `${correctFlashKf} 620ms ease-out forwards`,
+});
+
+export const flashWrong = style({
+  animation: `${wrongFlashKf} 620ms ease-out forwards`,
 });
 
 globalStyle(`${played} ${front}, ${played} ${back}`, {

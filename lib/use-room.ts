@@ -31,7 +31,7 @@ export interface UseRoomResult {
   status: RoomConnectionStatus;
 }
 
-export function useRoom(code: string | null): UseRoomResult {
+export function useRoom(code: string | null, savedPlayerId?: string | null): UseRoomResult {
   const [roomState, setRoomState] = React.useState<ClientRoomState | null>(
     null,
   );
@@ -45,6 +45,8 @@ export function useRoom(code: string | null): UseRoomResult {
   const mountedRef = React.useRef(true);
   const codeRef = React.useRef(code);
   codeRef.current = code;
+  const savedPlayerIdRef = React.useRef(savedPlayerId);
+  savedPlayerIdRef.current = savedPlayerId;
 
   const send = React.useCallback((msg: ClientMessage) => {
     if (wsRef.current?.readyState === WebSocket.OPEN) {
@@ -57,7 +59,9 @@ export function useRoom(code: string | null): UseRoomResult {
     if (!currentCode || !mountedRef.current) return;
 
     const wsUrl = ROOM_WORKER_URL.replace(/^http/, "ws").replace(/\/$/, "");
-    const ws = new WebSocket(`${wsUrl}/room/${currentCode}/ws`);
+    const pid = savedPlayerIdRef.current;
+    const wsPath = `${wsUrl}/room/${currentCode}/ws${pid ? `?playerId=${encodeURIComponent(pid)}` : ""}`;
+    const ws = new WebSocket(wsPath);
     wsRef.current = ws;
     setStatus("connecting");
 
