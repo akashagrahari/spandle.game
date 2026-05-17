@@ -11,5 +11,6 @@ tsconfig.tsbuildinfo
 .wrangler/
 game-prd.md
 path-to-production.md
+ARCHITECTURE.md
 content/cache/
 next-env.d.ts

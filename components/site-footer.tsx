@@ -38,8 +38,15 @@ export default function SiteFooter(props: Props) {
           rel="noopener noreferrer"
         >
           WikiTrivia
-        </a>{" "}
-        by Tom J. Watson.
+        </a>
+        {" · "}
+        <a
+          href="https://github.com/akashagrahari/outlast.game"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Source on GitHub
+        </a>
       </div>
       <div>
         <a

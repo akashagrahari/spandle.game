@@ -4,11 +4,20 @@ SPANDLE! is a daily timeline-placement puzzle game where players sort cards by h
 
 ## Basics
 
-- Use Bun for package management and scripts.
-- Do not use npm or yarn.
-- App framework: Next.js.
-- Lint/typecheck: `bun run lint`.
-- Format: `bun run format`.
+- Use **Bun** for package management and scripts. Do not use npm or yarn.
+- App framework: Next.js 16 (Turbopack), React 19, TypeScript strict mode.
+- CSS: vanilla-extract (`styles/*.css.ts`).
+- Typecheck: `bun run typecheck` (tsc --noEmit).
+- Lint: `bun run lint` (tsc + oxlint).
+- Format: `bun run format` (oxfmt).
+- Tests: `bun test`.
+- All checks at once: `bun run agent:check`.
+
+## Key areas
+
+- **Frontend** — Next.js pages in `pages/`, components in `components/`, game logic in `lib/`.
+- **Room / multiplayer** — Cloudflare Worker + Durable Object in `workers/room.ts`. Dev server: `bun run worker:dev`. Deploy: `bun run worker:deploy`.
+- **Content pipeline** — SPARQL queries in `content/queries/`, deck tree in `content/deck-tree.ts`, built artifacts in `public/decks/`.
 
 ## Content
 
