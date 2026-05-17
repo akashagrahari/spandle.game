@@ -10,4 +10,6 @@ tsconfig.tsbuildinfo
 .turbo/
 .wrangler/
 game-prd.md
+path-to-production.md
+content/cache/
 next-env.d.ts
