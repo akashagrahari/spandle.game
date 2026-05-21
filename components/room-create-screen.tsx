@@ -1,6 +1,7 @@
 import React from "react";
 import { createRoom } from "../lib/use-room";
 import type { DeckNode } from "../types/decks";
+import SiteHeader from "./site-header";
 import * as styles from "../styles/room.css";
 
 interface FlatDeck {
@@ -67,6 +68,7 @@ export default function RoomCreateScreen({ deckTree, onCreated }: Props) {
 
   return (
     <div className={styles.page}>
+      <SiteHeader />
       <form className={styles.card} onSubmit={(e) => void handleSubmit(e)}>
         <div className={styles.heading}>Create a room</div>
 

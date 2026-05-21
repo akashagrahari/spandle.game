@@ -1,14 +1,17 @@
 import React from "react";
+import Link from "next/link";
 import { checkCorrect, drawNextCard } from "../lib/game-selection";
 import { createSeededRandom } from "../lib/seeded-random";
 import { playCorrect, playWrong } from "../lib/sound";
 import { GameState } from "../types/game";
+import Button from "./button";
 import NextItemList from "./next-item-list";
 import PlayedItemList from "./played-item-list";
 import RoomLeaderboard from "./room-leaderboard";
 import type { ClientRoomState } from "../types/room";
 import * as roomStyles from "../styles/room.css";
 import * as boardStyles from "../styles/board.css";
+import * as siteHeaderStyles from "../styles/site-header.css";
 
 const EDGE_SCROLL_THRESHOLD = 36;
 const EDGE_SCROLL_MAX_STEP = 10;
@@ -45,16 +48,18 @@ function useRoundTimer(deadlineTs: number | null): number {
 interface Props {
   gameState: GameState;
   onEndGame: () => void;
-  onPlaceCard: (correct: boolean) => void;
   onGameStateChange: (state: GameState) => void;
+  onPlaceCard: (correct: boolean) => void;
+  onShowScores?: () => void;
   roomState: ClientRoomState;
 }
 
 export default function RoomBoard({
   gameState,
   onEndGame,
-  onPlaceCard,
   onGameStateChange,
+  onPlaceCard,
+  onShowScores,
   roomState,
 }: Props) {
   const { deadlineTs, scores, playerId, isHost, phase, currentRound } =
@@ -366,7 +371,11 @@ export default function RoomBoard({
     <div className={roomStyles.boardPage}>
       <div className={roomStyles.boardTopBar}>
         <span className={roomStyles.boardTitle}>{roundLabel}</span>
-        {deadlineTs !== null ? (
+        {phase === "ended" ? (
+          <Link className={siteHeaderStyles.wordmark} href="/">
+            SPANDLE!
+          </Link>
+        ) : deadlineTs !== null ? (
           <span
             className={roomStyles.timerChip}
             data-urgent={isUrgent ? "true" : "false"}
@@ -402,7 +411,11 @@ export default function RoomBoard({
         >
           <div className={boardStyles.top}>
             <div className={boardStyles.statusArea} />
-            {locked ? (
+            {phase === "ended" ? (
+              <div className={roomStyles.waitingCardSlot}>
+                <Button minimal onClick={onShowScores ?? (() => {})} text="Final scores" />
+              </div>
+            ) : locked ? (
               <div className={roomStyles.waitingCardSlot}>
                 <span className={roomStyles.lockedBadge}>
                   Waiting for next round...

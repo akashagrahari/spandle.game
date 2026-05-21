@@ -388,28 +388,6 @@ export const leaderboardScore = style({
 
 // ---- Final leaderboard ----
 
-export const finalPage = style({
-  alignItems: "center",
-  display: "flex",
-  flexDirection: "column",
-  justifyContent: "center",
-  minHeight: "100dvh",
-  padding: `${vars.space["3xl"]} ${vars.space.xl}`,
-  "@media": {
-    [media.compact]: {
-      padding: `${vars.space["2xl"]} ${vars.space.lg}`,
-    },
-  },
-});
-
-export const finalCard = style({
-  background: vars.color.surface,
-  border: `${vars.size.borderWidth} solid ${vars.color.border}`,
-  borderRadius: vars.radius.xl,
-  padding: vars.space["3xl"],
-  width: `min(100%, ${vars.size.contentWidth})`,
-});
-
 export const finalHeading = style({
   fontFamily: vars.font.display,
   fontSize: vars.fontSize["2xl"],

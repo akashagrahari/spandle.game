@@ -1,5 +1,6 @@
 import React from "react";
 import type { ClientRoomState } from "../types/room";
+import SiteHeader from "./site-header";
 import * as styles from "../styles/room.css";
 
 interface Props {
@@ -31,6 +32,7 @@ export default function RoomLobby({ onStart, roomState }: Props) {
 
   return (
     <div className={styles.page}>
+      <SiteHeader />
       <div className={styles.lobbyPage}>
         <div>
           <div className={styles.codeLabel}>Room code</div>
@@ -50,7 +52,7 @@ export default function RoomLobby({ onStart, roomState }: Props) {
               textAlign: "center",
             }}
           >
-            {copied ? "Link copied!" : "Share this code with friends"}
+            {copied ? "Link copied!" : "Click to copy invite link"}
           </div>
         </div>
 

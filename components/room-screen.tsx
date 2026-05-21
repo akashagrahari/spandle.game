@@ -15,7 +15,8 @@ import type { GameState } from "../types/game";
 import { useDecks } from "./deck-provider";
 import Loading from "./loading";
 import RoomBoard from "./room-board";
-import RoomFinalScreen from "./room-final-screen";
+import RoomFinalModal from "./room-final-modal";
+import SiteHeader from "./site-header";
 import RoomLobby from "./room-lobby";
 import * as styles from "../styles/room.css";
 
@@ -82,6 +83,7 @@ export default function RoomScreen({ code, hostId }: Props) {
   const [nameSubmitted, setNameSubmitted] = React.useState(savedSession !== null);
   const [gameState, setGameState] = React.useState<GameState | null>(null);
   const [gameReady, setGameReady] = React.useState(false);
+  const [finalModalOpen, setFinalModalOpen] = React.useState(false);
   const prevPhaseRef = React.useRef<string | null>(null);
 
   // once we have the authoritative playerId from the server, persist the full session
@@ -104,7 +106,10 @@ export default function RoomScreen({ code, hostId }: Props) {
     const prev = prevPhaseRef.current;
     prevPhaseRef.current = phase;
     if (prev === "lobby" && phase === "playing") playGameStart();
-    if (prev === "playing" && phase === "ended") playRoomEnd();
+    if (prev === "playing" && phase === "ended") {
+      playRoomEnd();
+      setFinalModalOpen(true);
+    }
   }, [roomState?.phase]);
 
   // join once we have a name and the WS is connected
@@ -219,6 +224,7 @@ export default function RoomScreen({ code, hostId }: Props) {
   if (!nameSubmitted) {
     return (
       <div className={styles.namePage}>
+        <SiteHeader />
         <form
           className={styles.card}
           onSubmit={(e) => {
@@ -300,16 +306,6 @@ export default function RoomScreen({ code, hostId }: Props) {
     );
   }
 
-  // ---- Game over ----
-  if (roomState.phase === "ended") {
-    return (
-      <RoomFinalScreen
-        myPlayerId={roomState.playerId}
-        scores={roomState.scores}
-      />
-    );
-  }
-
   // ---- Lobby ----
   if (roomState.phase === "lobby") {
     return (
@@ -337,12 +333,21 @@ export default function RoomScreen({ code, hostId }: Props) {
   }
 
   return (
-    <RoomBoard
-      gameState={gameState}
-      onEndGame={() => actions.endGame()}
-      onGameStateChange={setGameState}
-      onPlaceCard={handlePlaceCard}
-      roomState={roomState}
-    />
+    <>
+      <RoomBoard
+        gameState={gameState}
+        onEndGame={() => actions.endGame()}
+        onGameStateChange={setGameState}
+        onPlaceCard={handlePlaceCard}
+        onShowScores={() => setFinalModalOpen(true)}
+        roomState={roomState}
+      />
+      <RoomFinalModal
+        myPlayerId={roomState.playerId}
+        onClose={() => setFinalModalOpen(false)}
+        open={finalModalOpen}
+        scores={roomState.scores}
+      />
+    </>
   );
 }
