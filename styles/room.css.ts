@@ -42,8 +42,6 @@ export const subheading = style({
   color: vars.color.textMuted,
   fontSize: vars.fontSize.sm,
   marginBottom: vars.space.lg,
-  textTransform: "uppercase",
-  letterSpacing: "0.08em",
   fontWeight: vars.fontWeight.semibold,
 });
 

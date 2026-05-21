@@ -16,6 +16,7 @@ export type QueryDefinition<Row extends SourceRow = SourceRow> = {
   dirPath: string;
   id: string;
   minScore: number;
+  requireEndYear?: boolean;
   title: string;
 };
 
@@ -29,6 +30,7 @@ type QueryRegistrationInput<Row extends SourceRow = SourceRow> = {
   dirPath: string;
   id: string;
   minScore?: number;
+  requireEndYear?: boolean;
   title: string;
 };
 

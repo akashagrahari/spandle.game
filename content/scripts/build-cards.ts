@@ -90,6 +90,7 @@ type RejectionReason =
   | "empty-title"
   | "missing-english-wikipedia"
   | "missing-image"
+  | "missing-end-year"
   | "missing-start-year"
   | "missing-wikipedia-summary"
   | "nsfw-content"
@@ -289,6 +290,10 @@ function buildCard(
 
   if (startYear === null) {
     return addReject(rejectionReasons, "missing-start-year");
+  }
+
+  if (query.requireEndYear && endYear === null) {
+    return addReject(rejectionReasons, "missing-end-year");
   }
 
   const effectiveEndYear = endYear ?? CURRENT_YEAR;

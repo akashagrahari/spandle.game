@@ -8,5 +8,6 @@ export default defineQuery({
   dirPath: import.meta.dir,
   id: "famous-buildings-construction-duration",
   minScore: 25,
+  requireEndYear: true,
   title: "Famous Buildings Under Construction",
 });
