@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from "fs/promises";
+import { mkdir, readFile, writeFile } from "fs/promises";
 import path from "path";
 import { LoadedQueryDefinition } from "../query-definition";
 import { loadQueryDefinitions } from "../query-definitions";
@@ -115,6 +115,45 @@ async function writeJson(filePath: string, value: unknown) {
   await writeFile(filePath, `${JSON.stringify(value, null, 2)}\n`, "utf8");
 }
 
+// Merge freshRows into an existing rows.json:
+//   - New QIDs (not in existing file) → appended
+//   - Existing rows with endYear set → kept as-is (preserves manual fixes)
+//   - Existing rows with no endYear (ongoing) → updated from fresh Wikidata data
+//   - Existing rows absent from fresh results → kept as-is
+async function mergeRows(
+  filePath: string,
+  freshRows: Record<string, string>[],
+): Promise<void> {
+  let existing: Record<string, string>[] = [];
+  try {
+    const raw = await readFile(filePath, "utf8");
+    existing = JSON.parse(raw) as Record<string, string>[];
+  } catch { /* first run — no file yet */ }
+
+  const toQid = (item: string) => item.split("/").pop() ?? item;
+  const existingByQid = new Map(existing.map((r) => [toQid(r.item), r]));
+  const freshByQid = new Map(freshRows.map((r) => [toQid(r.item), r]));
+
+  const result: Record<string, string>[] = [];
+
+  for (const row of existing) {
+    const freshRow = freshByQid.get(toQid(row.item));
+    if (!freshRow || row.endYear) {
+      result.push(row);
+    } else {
+      result.push(freshRow);
+    }
+  }
+
+  for (const row of freshRows) {
+    if (!existingByQid.has(toQid(row.item))) {
+      result.push(row);
+    }
+  }
+
+  await writeJson(filePath, result);
+}
+
 async function snapshotQuery(
   query: LoadedQueryDefinition,
   timeoutMs: number,
@@ -130,7 +169,7 @@ async function snapshotQuery(
       flattenBinding(binding, result.head.vars),
     );
 
-    await writeJson(path.join(queryOutputDir, "rows.json"), rows);
+    await mergeRows(path.join(queryOutputDir, "rows.json"), rows);
 
     return {
       durationMs,

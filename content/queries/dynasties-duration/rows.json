@@ -302,7 +302,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q155616",
-    "itemLabel": "House of Glücksburg",
+    "itemLabel": "House of Gl\u00fccksburg",
     "startYear": "1825",
     "endYear": "",
     "sitelinks": "54"
@@ -416,7 +416,7 @@
     "item": "http://www.wikidata.org/entity/Q496922",
     "itemLabel": "Hasmonean dynasty",
     "startYear": "-166",
-    "endYear": "",
+    "endYear": "-37",
     "sitelinks": "48"
   },
   {
@@ -451,7 +451,7 @@
     "item": "http://www.wikidata.org/entity/Q496922",
     "itemLabel": "Hasmonean dynasty",
     "startYear": "-166",
-    "endYear": "",
+    "endYear": "-37",
     "sitelinks": "48"
   },
   {
@@ -505,7 +505,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q51153",
-    "itemLabel": "Árpád dynasty",
+    "itemLabel": "\u00c1rp\u00e1d dynasty",
     "startYear": "972",
     "endYear": "1301",
     "sitelinks": "45"
@@ -556,7 +556,7 @@
     "item": "http://www.wikidata.org/entity/Q737629",
     "itemLabel": "Twenty-second Dynasty of Egypt",
     "startYear": "-944",
-    "endYear": "715",
+    "endYear": "-715",
     "sitelinks": "44"
   },
   {
@@ -659,14 +659,14 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q287652",
-    "itemLabel": "Přemyslid dynasty",
+    "itemLabel": "P\u0159emyslid dynasty",
     "startYear": "872",
     "endYear": "1306",
     "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q287652",
-    "itemLabel": "Přemyslid dynasty",
+    "itemLabel": "P\u0159emyslid dynasty",
     "startYear": "872",
     "endYear": "1521",
     "sitelinks": "41"
@@ -1081,7 +1081,7 @@
     "item": "http://www.wikidata.org/entity/Q705904",
     "itemLabel": "Seleucid dynasty",
     "startYear": "-304",
-    "endYear": "",
+    "endYear": "-63",
     "sitelinks": "28"
   },
   {

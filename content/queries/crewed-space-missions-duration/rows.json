@@ -8,9 +8,9 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q165585",
-    "itemLabel": "Cassini−Huygens",
+    "itemLabel": "Cassini\u2212Huygens",
     "startYear": "1997",
-    "endYear": "",
+    "endYear": "2017",
     "sitelinks": "81"
   },
   {
@@ -59,7 +59,7 @@
     "item": "http://www.wikidata.org/entity/Q182008",
     "itemLabel": "Galileo mission",
     "startYear": "1989",
-    "endYear": "",
+    "endYear": "2003",
     "sitelinks": "62"
   },
   {
@@ -122,7 +122,7 @@
     "item": "http://www.wikidata.org/entity/Q210199",
     "itemLabel": "Viking 1",
     "startYear": "1975",
-    "endYear": "",
+    "endYear": "1982",
     "sitelinks": "48"
   },
   {
@@ -157,7 +157,7 @@
     "item": "http://www.wikidata.org/entity/Q212131",
     "itemLabel": "Viking 2",
     "startYear": "1975",
-    "endYear": "",
+    "endYear": "1980",
     "sitelinks": "44"
   },
   {
@@ -178,7 +178,7 @@
     "item": "http://www.wikidata.org/entity/Q47482008",
     "itemLabel": "Double Asteroid Redirection Test",
     "startYear": "2021",
-    "endYear": "",
+    "endYear": "2022",
     "sitelinks": "43"
   },
   {
@@ -234,7 +234,7 @@
     "item": "http://www.wikidata.org/entity/Q10944018",
     "itemLabel": "Chang'e 5",
     "startYear": "2020",
-    "endYear": "",
+    "endYear": "2020",
     "sitelinks": "41"
   },
   {
@@ -255,7 +255,7 @@
     "item": "http://www.wikidata.org/entity/Q205747",
     "itemLabel": "Stardust",
     "startYear": "1999",
-    "endYear": "",
+    "endYear": "2011",
     "sitelinks": "39"
   },
   {
@@ -451,7 +451,7 @@
     "item": "http://www.wikidata.org/entity/Q19050",
     "itemLabel": "STS-51-L",
     "startYear": "1986",
-    "endYear": "",
+    "endYear": "1986",
     "sitelinks": "34"
   },
   {
@@ -696,7 +696,7 @@
     "item": "http://www.wikidata.org/entity/Q18346001",
     "itemLabel": "Chang'e 6",
     "startYear": "2024",
-    "endYear": "",
+    "endYear": "2024",
     "sitelinks": "32"
   },
   {
@@ -724,7 +724,7 @@
     "item": "http://www.wikidata.org/entity/Q643872",
     "itemLabel": "Gemini 1",
     "startYear": "1964",
-    "endYear": "",
+    "endYear": "1964",
     "sitelinks": "31"
   },
   {
@@ -766,7 +766,7 @@
     "item": "http://www.wikidata.org/entity/Q74418",
     "itemLabel": "Genesis",
     "startYear": "2001",
-    "endYear": "",
+    "endYear": "2004",
     "sitelinks": "31"
   },
   {
@@ -1249,7 +1249,7 @@
     "item": "http://www.wikidata.org/entity/Q116681",
     "itemLabel": "Gravity Recovery and Interior Laboratory",
     "startYear": "2011",
-    "endYear": "",
+    "endYear": "2012",
     "sitelinks": "27"
   },
   {
@@ -1403,7 +1403,7 @@
     "item": "http://www.wikidata.org/entity/Q1052421",
     "itemLabel": "Skylab 3",
     "startYear": "1973",
-    "endYear": "",
+    "endYear": "1973",
     "sitelinks": "26"
   },
   {
@@ -2250,7 +2250,7 @@
     "item": "http://www.wikidata.org/entity/Q704319",
     "itemLabel": "Gravity Recovery and Climate Experiment",
     "startYear": "2002",
-    "endYear": "",
+    "endYear": "2017",
     "sitelinks": "23"
   },
   {
@@ -2285,7 +2285,7 @@
     "item": "http://www.wikidata.org/entity/Q1239477",
     "itemLabel": "Skylab 4",
     "startYear": "1973",
-    "endYear": "",
+    "endYear": "1974",
     "sitelinks": "23"
   },
   {
@@ -2397,7 +2397,7 @@
     "item": "http://www.wikidata.org/entity/Q18932",
     "itemLabel": "Korabl-Sputnik 4",
     "startYear": "1961",
-    "endYear": "",
+    "endYear": "1961",
     "sitelinks": "22"
   },
   {
@@ -2558,7 +2558,7 @@
     "item": "http://www.wikidata.org/entity/Q19266",
     "itemLabel": "Van Allen Probes",
     "startYear": "2012",
-    "endYear": "",
+    "endYear": "2019",
     "sitelinks": "21"
   },
   {
@@ -2873,14 +2873,14 @@
     "item": "http://www.wikidata.org/entity/Q979266",
     "itemLabel": "Saturn-Apollo 5",
     "startYear": "1964",
-    "endYear": "",
+    "endYear": "1964",
     "sitelinks": "18"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1206996",
     "itemLabel": "Saturn-Apollo 4",
     "startYear": "1963",
-    "endYear": "",
+    "endYear": "1963",
     "sitelinks": "18"
   },
   {
@@ -2936,7 +2936,7 @@
     "item": "http://www.wikidata.org/entity/Q1611466",
     "itemLabel": "Pioneer Venus Multiprobe",
     "startYear": "1978",
-    "endYear": "",
+    "endYear": "1992",
     "sitelinks": "18"
   },
   {
@@ -3216,7 +3216,7 @@
     "item": "http://www.wikidata.org/entity/Q109928905",
     "itemLabel": "Starship Flight Test 1",
     "startYear": "2023",
-    "endYear": "",
+    "endYear": "2023",
     "sitelinks": "16"
   },
   {

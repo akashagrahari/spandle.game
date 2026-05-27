@@ -1,8 +1,8 @@
 {
   "difficultyCounts": {
     "easy": 864,
-    "normal": 1394,
-    "hard": 2126
+    "normal": 1393,
+    "hard": 2116
   },
   "id": "all",
   "minScore": 1000,
@@ -40,7 +40,7 @@
       "difficultyCounts": {
         "easy": 238,
         "normal": 428,
-        "hard": 614
+        "hard": 613
       },
       "id": "all-monarchs",
       "minScore": 30,
@@ -65,8 +65,8 @@
     {
       "difficultyCounts": {
         "easy": 2,
-        "normal": 6,
-        "hard": 40
+        "normal": 5,
+        "hard": 31
       },
       "id": "all-space",
       "minScore": 15,

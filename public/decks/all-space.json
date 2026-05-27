@@ -24,8 +24,8 @@
     "wikipediaSlug": "Chandrayaan-3"
   },
   {
-    "durationYears": 29,
-    "endYear": null,
+    "durationYears": 20,
+    "endYear": 2017,
     "fact": "Cassini–Huygens, commonly called Cassini, was a space-research mission by NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a space probe to study the planet Saturn and its system, including its rings and natural satellites.",
     "image": "Cassini_Saturn_Orbit_Insertion.jpg",
     "pageViews": 20831,
@@ -36,8 +36,8 @@
     "wikipediaSlug": "Cassini%E2%80%93Huygens"
   },
   {
-    "durationYears": 5,
-    "endYear": null,
+    "durationYears": 1,
+    "endYear": 2022,
     "fact": "The Double Asteroid Redirection Test (DART) was a NASA space mission to test a method of planetary defense against near-Earth objects (NEOs).",
     "image": "Dart-poster3.jpg",
     "pageViews": 13135,
@@ -46,18 +46,6 @@
     "subtitle": "Space mission",
     "title": "Double Asteroid Redirection Test",
     "wikipediaSlug": "Double_Asteroid_Redirection_Test"
-  },
-  {
-    "durationYears": 40,
-    "endYear": null,
-    "fact": "STS-51-L was the disastrous 25th mission of NASA's Space Shuttle program and the final flight of Space Shuttle Challenger.",
-    "image": "STS-51-L.jpg",
-    "pageViews": 10358,
-    "qid": "Q19050",
-    "startYear": 1986,
-    "subtitle": "Space mission",
-    "title": "STS-51-L",
-    "wikipediaSlug": "STS-51-L"
   },
   {
     "durationYears": 8,
@@ -84,8 +72,8 @@
     "wikipediaSlug": "OSIRIS-REx"
   },
   {
-    "durationYears": 37,
-    "endYear": null,
+    "durationYears": 14,
+    "endYear": 2003,
     "fact": "Galileo was an American robotic space program that studied the planet Jupiter and its moons, as well as several other Solar System bodies.",
     "image": "Artwork_Galileo-Io-Jupiter.JPG",
     "pageViews": 7144,
@@ -96,8 +84,8 @@
     "wikipediaSlug": "Galileo_project"
   },
   {
-    "durationYears": 14,
-    "endYear": null,
+    "durationYears": 7,
+    "endYear": 2019,
     "fact": "The Van Allen Probes, formerly known as the Radiation Belt Storm Probes (RBSP), are two robotic spacecraft that were used to study the Van Allen radiation belts that surround Earth.",
     "image": "RBSP_ArrayDeployment.jpg",
     "pageViews": 6433,
@@ -108,8 +96,8 @@
     "wikipediaSlug": "Van_Allen_Probes"
   },
   {
-    "durationYears": 51,
-    "endYear": null,
+    "durationYears": 7,
+    "endYear": 1982,
     "fact": "Viking 1 was the first of two spacecraft, along with Viking 2, each consisting of an orbiter and a lander, sent to Mars as part of NASA's Viking program.",
     "image": "Viking_spacecraft.jpg",
     "pageViews": 6173,
@@ -132,18 +120,6 @@
     "wikipediaSlug": "Hayabusa2"
   },
   {
-    "durationYears": 2,
-    "endYear": null,
-    "fact": "Chang'e 6 was the sixth robotic lunar exploration mission by the China National Space Administration (CNSA) and the second CNSA lunar sample-return mission.",
-    "image": "Chang'e_6_lander_and_ascender.jpg",
-    "pageViews": 4631,
-    "qid": "Q18346001",
-    "startYear": 2024,
-    "subtitle": "Space mission",
-    "title": "Chang'e 6",
-    "wikipediaSlug": "Chang%27e_6"
-  },
-  {
     "durationYears": 1,
     "endYear": 2021,
     "fact": "Tianwen-1 is an interplanetary mission by the China National Space Administration (CNSA) which sent a robotic spacecraft to Mars, consisting of six spacecraft: an orbiter, two deployable cameras, lander, remote camera, and the Zhurong rover.",
@@ -156,20 +132,8 @@
     "wikipediaSlug": "Tianwen-1"
   },
   {
-    "durationYears": 62,
-    "endYear": null,
-    "fact": "Saturn-Apollo 5 (SA-5) was the first launch of the Block II Saturn I rocket and was part of the Apollo program.",
-    "image": "Seamans,_von_Braun_and_President_Kennedy_at_Cape_Canaveral_-_GPN-2000-001843.jpg",
-    "pageViews": 4449,
-    "qid": "Q979266",
-    "startYear": 1964,
-    "subtitle": "Space mission",
-    "title": "Saturn-Apollo 5",
-    "wikipediaSlug": "Saturn_I_SA-5"
-  },
-  {
-    "durationYears": 53,
-    "endYear": null,
+    "durationYears": 1,
+    "endYear": 1974,
     "fact": "Skylab 4 was the third crewed Skylab mission and placed the third and final crew aboard the first American space station.",
     "image": "Skylab_and_Earth_Limb_-_GPN-2000-001055.jpg",
     "pageViews": 4292,
@@ -216,8 +180,8 @@
     "wikipediaSlug": "Soyuz_MS-28"
   },
   {
-    "durationYears": 27,
-    "endYear": null,
+    "durationYears": 12,
+    "endYear": 2011,
     "fact": "Stardust was a 385-kilogram robotic space probe launched by NASA on 7 February 1999.",
     "image": "Stardust_-_Concepcao_artistica.jpg",
     "pageViews": 3822,
@@ -226,18 +190,6 @@
     "subtitle": "Space mission",
     "title": "Stardust",
     "wikipediaSlug": "Stardust_(spacecraft)"
-  },
-  {
-    "durationYears": 63,
-    "endYear": null,
-    "fact": "Saturn-Apollo 4 (SA-4) was the fourth launch of a Saturn I launch vehicle and the last of the initial test phase of the first stage.",
-    "image": "Saturn_SA4_on_launch_pad.jpg",
-    "pageViews": 3485,
-    "qid": "Q1206996",
-    "startYear": 1963,
-    "subtitle": "Space mission",
-    "title": "Saturn-Apollo 4",
-    "wikipediaSlug": "Saturn_I_SA-4"
   },
   {
     "durationYears": 1,
@@ -264,32 +216,8 @@
     "wikipediaSlug": "SpaceX_Crew-9"
   },
   {
-    "durationYears": 53,
-    "endYear": null,
-    "fact": "Skylab 3 was the second crewed mission to the first American space station, Skylab.",
-    "image": "Skylab_3_Close-Up_-_GPN-2000-001711.jpg",
-    "pageViews": 3193,
-    "qid": "Q1052421",
-    "startYear": 1973,
-    "subtitle": "Space mission",
-    "title": "Skylab 3",
-    "wikipediaSlug": "Skylab_3"
-  },
-  {
-    "durationYears": 6,
-    "endYear": null,
-    "fact": "Chang'e 5 was the fifth lunar exploration mission in the Chinese Lunar Exploration Program of CNSA, and China's first lunar sample-return mission.",
-    "image": "Chang-e-5-assembly-CG-1-Cropped.jpg",
-    "pageViews": 2998,
-    "qid": "Q10944018",
-    "startYear": 2020,
-    "subtitle": "Space mission",
-    "title": "Chang'e 5",
-    "wikipediaSlug": "Chang%27e_5"
-  },
-  {
-    "durationYears": 24,
-    "endYear": null,
+    "durationYears": 15,
+    "endYear": 2017,
     "fact": "The Gravity Recovery and Climate Experiment (GRACE) was a joint mission of NASA and the German Aerospace Center (DLR).",
     "image": "GRACE_spacecraft_model_2.png",
     "pageViews": 2787,
@@ -300,20 +228,8 @@
     "wikipediaSlug": "GRACE_and_GRACE-FO"
   },
   {
-    "durationYears": 3,
-    "endYear": null,
-    "fact": "Starship flight test 1 was the maiden flight of the integrated SpaceX Starship launch vehicle.",
-    "image": "StarshipLaunch_(crop_2-3).jpg",
-    "pageViews": 2701,
-    "qid": "Q109928905",
-    "startYear": 2023,
-    "subtitle": "Space mission",
-    "title": "Starship Flight Test 1",
-    "wikipediaSlug": "Starship_flight_test_1"
-  },
-  {
-    "durationYears": 51,
-    "endYear": null,
+    "durationYears": 5,
+    "endYear": 1980,
     "fact": "The Viking 2 mission was part of the American Viking program to Mars, and consisted of an orbiter and a lander essentially identical to that of the Viking 1 mission.",
     "image": "Viking_spacecraft.jpg",
     "pageViews": 2662,
@@ -334,30 +250,6 @@
     "subtitle": "Space mission",
     "title": "ExoMars",
     "wikipediaSlug": "ExoMars"
-  },
-  {
-    "durationYears": 62,
-    "endYear": null,
-    "fact": "Gemini 1 was the first mission in NASA's Gemini program.",
-    "image": "Gemini_1.jpg",
-    "pageViews": 2290,
-    "qid": "Q643872",
-    "startYear": 1964,
-    "subtitle": "Space mission",
-    "title": "Gemini 1",
-    "wikipediaSlug": "Gemini_1"
-  },
-  {
-    "durationYears": 65,
-    "endYear": null,
-    "fact": "Korabl-Sputnik 4 or Vostok-3KA No.1, also known as Sputnik 9 in the West, was a Soviet spacecraft which was launched on 9 March 1961.",
-    "image": "The_Soviet_Union_1961_CPA_2587_stamp_(Fourth_and_fifth_'Spacecraft'_flights._Dog_Chernushka_and_rocket)_cancelled.jpg",
-    "pageViews": 2123,
-    "qid": "Q18932",
-    "startYear": 1961,
-    "subtitle": "Space mission",
-    "title": "Korabl-Sputnik 4",
-    "wikipediaSlug": "Korabl-Sputnik_4"
   },
   {
     "durationYears": 1,
@@ -384,8 +276,8 @@
     "wikipediaSlug": "SpaceX_Crew-5"
   },
   {
-    "durationYears": 25,
-    "endYear": null,
+    "durationYears": 3,
+    "endYear": 2004,
     "fact": "Genesis was a NASA sample-return probe that collected a sample of solar wind particles and returned them to Earth for analysis.",
     "image": "GenSC_collection2_150dpi.jpg",
     "pageViews": 1962,
@@ -408,8 +300,8 @@
     "wikipediaSlug": "SpaceX_Crew-7"
   },
   {
-    "durationYears": 48,
-    "endYear": null,
+    "durationYears": 14,
+    "endYear": 1992,
     "fact": "The Pioneer Venus Multiprobe, also known as Pioneer Venus 2 or Pioneer 13, was a spacecraft launched in 1978 to explore Venus as part of NASA's Pioneer program.",
     "image": "Pioneer_Venus_Multiprobe_spacecraft.jpg",
     "pageViews": 1743,
@@ -420,8 +312,8 @@
     "wikipediaSlug": "Pioneer_Venus_Multiprobe"
   },
   {
-    "durationYears": 15,
-    "endYear": null,
+    "durationYears": 1,
+    "endYear": 2012,
     "fact": "The Gravity Recovery and Interior Laboratory (GRAIL) was an American lunar science mission in NASA's Discovery Program which used high-quality gravitational field mapping of the Moon to determine its interior structure.",
     "image": "GRAIL.jpg",
     "pageViews": 1720,
