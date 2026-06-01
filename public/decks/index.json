@@ -1,8 +1,8 @@
 {
   "difficultyCounts": {
-    "easy": 864,
-    "normal": 1393,
-    "hard": 2116
+    "easy": 838,
+    "normal": 1379,
+    "hard": 2126
   },
   "id": "all",
   "minScore": 1000,
@@ -12,9 +12,9 @@
   "children": [
     {
       "difficultyCounts": {
-        "easy": 74,
-        "normal": 158,
-        "hard": 290
+        "easy": 68,
+        "normal": 152,
+        "hard": 289
       },
       "id": "all-empires",
       "minScore": 25,
@@ -25,9 +25,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 113,
-        "normal": 212,
-        "hard": 362
+        "easy": 108,
+        "normal": 208,
+        "hard": 367
       },
       "id": "all-conflicts",
       "minScore": 22,
@@ -38,8 +38,8 @@
     },
     {
       "difficultyCounts": {
-        "easy": 238,
-        "normal": 428,
+        "easy": 223,
+        "normal": 426,
         "hard": 613
       },
       "id": "all-monarchs",
@@ -51,9 +51,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 15,
-        "normal": 38,
-        "hard": 195
+        "easy": 14,
+        "normal": 34,
+        "hard": 194
       },
       "id": "all-popes",
       "minScore": 20,
@@ -65,8 +65,8 @@
     {
       "difficultyCounts": {
         "easy": 2,
-        "normal": 5,
-        "hard": 31
+        "normal": 4,
+        "hard": 37
       },
       "id": "all-space",
       "minScore": 15,
@@ -77,9 +77,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 7,
-        "normal": 17,
-        "hard": 38
+        "easy": 8,
+        "normal": 19,
+        "hard": 36
       },
       "id": "all-construction",
       "minScore": 25,
@@ -90,9 +90,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 175,
-        "normal": 231,
-        "hard": 265
+        "easy": 178,
+        "normal": 234,
+        "hard": 266
       },
       "id": "all-companies",
       "minScore": 40,
@@ -103,9 +103,9 @@
     },
     {
       "difficultyCounts": {
-        "easy": 240,
-        "normal": 304,
-        "hard": 322
+        "easy": 237,
+        "normal": 302,
+        "hard": 324
       },
       "id": "all-tv",
       "minScore": 25,

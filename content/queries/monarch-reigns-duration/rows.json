@@ -123,7 +123,7 @@
     "sexLabel": "male",
     "startYear": "2022",
     "endYear": "",
-    "sitelinks": "174"
+    "sitelinks": "175"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9439",
@@ -564,7 +564,7 @@
     "sexLabel": "male",
     "startYear": "2013",
     "endYear": "",
-    "sitelinks": "107"
+    "sitelinks": "108"
   },
   {
     "item": "http://www.wikidata.org/entity/Q127318",
@@ -1041,7 +1041,7 @@
     "sexLabel": "male",
     "startYear": "2013",
     "endYear": "",
-    "sitelinks": "93"
+    "sitelinks": "94"
   },
   {
     "item": "http://www.wikidata.org/entity/Q129308",
@@ -1100,11 +1100,11 @@
   {
     "item": "http://www.wikidata.org/entity/Q130221",
     "itemLabel": "Frederick II, Holy Roman Emperor",
-    "positionLabel": "King of Sicily",
+    "positionLabel": "Holy Roman Emperor",
     "sexLabel": "male",
-    "startYear": "1198",
-    "endYear": "",
-    "sitelinks": "91"
+    "startYear": "1220",
+    "endYear": "1250",
+    "sitelinks": "92"
   },
   {
     "item": "http://www.wikidata.org/entity/Q130221",
@@ -2350,7 +2350,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q54049",
-    "itemLabel": "W\u0142adys\u0142aw II Jagie\u0142\u0142o",
+    "itemLabel": "Władysław II Jagiełło",
     "positionLabel": "King of Poland",
     "sexLabel": "male",
     "startYear": "1386",
@@ -2431,7 +2431,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q170017",
-    "itemLabel": "\u00c6thelstan",
+    "itemLabel": "Æthelstan",
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "startYear": "927",
@@ -2449,7 +2449,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q157052",
-    "itemLabel": "Emperor Taish\u014d",
+    "itemLabel": "Emperor Taishō",
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "startYear": "1912",
@@ -2458,7 +2458,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q151500",
-    "itemLabel": "Abd\u00fclaziz",
+    "itemLabel": "Abdülaziz",
     "positionLabel": "sultan of the Ottoman Empire",
     "sexLabel": "male",
     "startYear": "1861",
@@ -2548,7 +2548,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q174772",
-    "itemLabel": "Abd\u00fclmecid I",
+    "itemLabel": "Abdülmecid I",
     "positionLabel": "sultan of the Ottoman Empire",
     "sexLabel": "male",
     "startYear": "1839",
@@ -3358,7 +3358,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q53436",
-    "itemLabel": "Boles\u0142aw I the Brave",
+    "itemLabel": "Bolesław I the Brave",
     "positionLabel": "King of Poland",
     "sexLabel": "male",
     "startYear": "1025",
@@ -4042,7 +4042,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q54019",
-    "itemLabel": "Stanis\u0142aw August Poniatowski",
+    "itemLabel": "Stanisław August Poniatowski",
     "positionLabel": "King of Poland",
     "sexLabel": "male",
     "startYear": "1764",
@@ -4321,7 +4321,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q183499",
-    "itemLabel": "\u00c6thelred the Unready",
+    "itemLabel": "Æthelred the Unready",
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "startYear": "1014",
@@ -4330,7 +4330,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q183499",
-    "itemLabel": "\u00c6thelred the Unready",
+    "itemLabel": "Æthelred the Unready",
     "positionLabel": "monarch of England",
     "sexLabel": "male",
     "startYear": "978",
@@ -4420,7 +4420,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q61056",
-    "itemLabel": "al-Ma\u02bemun",
+    "itemLabel": "al-Maʾmun",
     "positionLabel": "Abbasid caliph",
     "sexLabel": "male",
     "startYear": "813",
@@ -4600,7 +4600,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q54030",
-    "itemLabel": "Stephen B\u00e1thory",
+    "itemLabel": "Stephen Báthory",
     "positionLabel": "King of Poland",
     "sexLabel": "male",
     "startYear": "1576",
@@ -4951,7 +4951,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q54022",
-    "itemLabel": "Stanis\u0142aw Leszczy\u0144ski",
+    "itemLabel": "Stanisław Leszczyński",
     "positionLabel": "King of Poland",
     "sexLabel": "male",
     "startYear": "1733",
@@ -4960,7 +4960,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q54022",
-    "itemLabel": "Stanis\u0142aw Leszczy\u0144ski",
+    "itemLabel": "Stanisław Leszczyński",
     "positionLabel": "King of Poland",
     "sexLabel": "male",
     "startYear": "1704",
@@ -5356,7 +5356,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q54054",
-    "itemLabel": "W\u0142adys\u0142aw IV Vasa",
+    "itemLabel": "Władysław IV Vasa",
     "positionLabel": "King of Poland",
     "sexLabel": "male",
     "startYear": "1632",
@@ -5968,7 +5968,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q54053",
-    "itemLabel": "W\u0142adys\u0142aw III of Poland",
+    "itemLabel": "Władysław III of Poland",
     "positionLabel": "King of Poland",
     "sexLabel": "male",
     "startYear": "1434",
@@ -5977,7 +5977,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q54053",
-    "itemLabel": "W\u0142adys\u0142aw III of Poland",
+    "itemLabel": "Władysław III of Poland",
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "startYear": "1440",
@@ -6166,7 +6166,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q299179",
-    "itemLabel": "Emperor K\u014dmei",
+    "itemLabel": "Emperor Kōmei",
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "startYear": "1846",
@@ -6220,7 +6220,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q152370",
-    "itemLabel": "B\u00e9la IV of Hungary",
+    "itemLabel": "Béla IV of Hungary",
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "startYear": "1235",
@@ -6283,7 +6283,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q54048",
-    "itemLabel": "W\u0142adys\u0142aw I the Elbow-high",
+    "itemLabel": "Władysław I the Elbow-high",
     "positionLabel": "King of Poland",
     "sexLabel": "male",
     "startYear": "1320",
@@ -6328,7 +6328,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q272233",
-    "itemLabel": "\u00c6thelred I",
+    "itemLabel": "Æthelred I",
     "positionLabel": "King of Wessex",
     "sexLabel": "male",
     "startYear": "865",
@@ -6463,7 +6463,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q32607",
-    "itemLabel": "John Z\u00e1polya",
+    "itemLabel": "John Zápolya",
     "positionLabel": "Apostolic King of Hungary",
     "sexLabel": "male",
     "startYear": "1526",
@@ -6562,7 +6562,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q272326",
-    "itemLabel": "\u00c6thelwulf",
+    "itemLabel": "Æthelwulf",
     "positionLabel": "King of Wessex",
     "sexLabel": "male",
     "startYear": "839",
@@ -6832,7 +6832,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q313806",
-    "itemLabel": "Emperor K\u014dkaku",
+    "itemLabel": "Emperor Kōkaku",
     "positionLabel": "Emperor of Japan",
     "sexLabel": "male",
     "startYear": "1779",
@@ -7039,7 +7039,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q305341",
-    "itemLabel": "\u00c1ed mac Cin\u00e1eda",
+    "itemLabel": "Áed mac Cináeda",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "startYear": "877",
@@ -7066,7 +7066,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q312589",
-    "itemLabel": "Domnall mac Ailp\u00edn",
+    "itemLabel": "Domnall mac Ailpín",
     "positionLabel": "monarch of Scotland",
     "sexLabel": "male",
     "startYear": "858",
@@ -7174,7 +7174,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q213758",
-    "itemLabel": "Pachac\u00fatec",
+    "itemLabel": "Pachacútec",
     "positionLabel": "Sapa Inca",
     "sexLabel": "male",
     "startYear": "1438",
@@ -7188,6 +7188,33 @@
     "sexLabel": "male",
     "startYear": "952",
     "endYear": "954",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q111079",
+    "itemLabel": "Anedjib",
+    "positionLabel": "pharaoh",
+    "sexLabel": "male",
+    "startYear": "-3000",
+    "endYear": "",
+    "sitelinks": "49"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q211928",
+    "itemLabel": "Shalmaneser III",
+    "positionLabel": "King of Assyria",
+    "sexLabel": "male",
+    "startYear": "-858",
+    "endYear": "-823",
+    "sitelinks": "46"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8666",
+    "itemLabel": "Toghon Temür",
+    "positionLabel": "Emperor of China",
+    "sexLabel": "male",
+    "startYear": "1333",
+    "endYear": "1368",
     "sitelinks": "46"
   }
 ]

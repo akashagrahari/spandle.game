@@ -284,7 +284,7 @@
     "itemLabel": "Peppa Pig",
     "startYear": "2004",
     "endYear": "",
-    "sitelinks": "72"
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q477916",
@@ -442,7 +442,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q202141",
-    "itemLabel": "Criminal Minds: Evolution",
+    "itemLabel": "Criminal Minds",
     "startYear": "2005",
     "endYear": "",
     "sitelinks": "62"
@@ -1243,7 +1243,7 @@
     "itemLabel": "The Boys",
     "startYear": "2019",
     "endYear": "",
-    "sitelinks": "49"
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q72100361",
@@ -1614,7 +1614,7 @@
     "itemLabel": "Skibidi Toilet",
     "startYear": "2023",
     "endYear": "",
-    "sitelinks": "44"
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2293",
@@ -1698,7 +1698,7 @@
     "itemLabel": "Euphoria",
     "startYear": "2019",
     "endYear": "",
-    "sitelinks": "44"
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q61981835",
@@ -3497,6 +3497,27 @@
     "itemLabel": "DuckTales",
     "startYear": "2017",
     "endYear": "2021",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q121665318",
+    "itemLabel": "The Amazing Digital Circus",
+    "startYear": "2023",
+    "endYear": "",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q23670",
+    "itemLabel": "It's Always Sunny in Philadelphia",
+    "startYear": "2005",
+    "endYear": "",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q13308931",
+    "itemLabel": "Star vs. the Forces of Evil",
+    "startYear": "2015",
+    "endYear": "2019",
     "sitelinks": "35"
   }
 ]

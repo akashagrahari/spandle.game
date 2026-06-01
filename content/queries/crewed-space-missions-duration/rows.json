@@ -8,7 +8,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q165585",
-    "itemLabel": "Cassini\u2212Huygens",
+    "itemLabel": "Cassini−Huygens",
     "startYear": "1997",
     "endYear": "2017",
     "sitelinks": "81"
@@ -2818,7 +2818,7 @@
     "itemLabel": "Tianwen-2",
     "startYear": "2025",
     "endYear": "",
-    "sitelinks": "19"
+    "sitelinks": "20"
   },
   {
     "item": "http://www.wikidata.org/entity/Q748738",
@@ -2930,7 +2930,7 @@
     "itemLabel": "SpaceX Crew-12",
     "startYear": "2026",
     "endYear": "",
-    "sitelinks": "18"
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1611466",
@@ -3330,5 +3330,12 @@
     "startYear": "2023",
     "endYear": "2024",
     "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40610",
+    "itemLabel": "Tyazhely Sputnik",
+    "startYear": "1961",
+    "endYear": "",
+    "sitelinks": "27"
   }
 ]
