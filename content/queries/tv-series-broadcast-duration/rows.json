@@ -4,7 +4,7 @@
     "itemLabel": "The Simpsons",
     "startYear": "1989",
     "endYear": "",
-    "sitelinks": "185"
+    "sitelinks": "186"
   },
   {
     "item": "http://www.wikidata.org/entity/Q104750296",
@@ -18,14 +18,14 @@
     "itemLabel": "SpongeBob SquarePants",
     "startYear": "1999",
     "endYear": "",
-    "sitelinks": "158"
+    "sitelinks": "160"
   },
   {
     "item": "http://www.wikidata.org/entity/Q276",
     "itemLabel": "Eurovision Song Contest",
     "startYear": "1956",
     "endYear": "",
-    "sitelinks": "143"
+    "sitelinks": "142"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23572",
@@ -88,7 +88,7 @@
     "itemLabel": "Doctor Who",
     "startYear": "1963",
     "endYear": "",
-    "sitelinks": "98"
+    "sitelinks": "99"
   },
   {
     "item": "http://www.wikidata.org/entity/Q5930",
@@ -270,7 +270,7 @@
     "itemLabel": "Rick and Morty",
     "startYear": "2013",
     "endYear": "",
-    "sitelinks": "73"
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q28537",
@@ -284,7 +284,7 @@
     "itemLabel": "Peppa Pig",
     "startYear": "2004",
     "endYear": "",
-    "sitelinks": "72"
+    "sitelinks": "74"
   },
   {
     "item": "http://www.wikidata.org/entity/Q477916",
@@ -375,7 +375,7 @@
     "itemLabel": "Black Mirror",
     "startYear": "2011",
     "endYear": "",
-    "sitelinks": "64"
+    "sitelinks": "65"
   },
   {
     "item": "http://www.wikidata.org/entity/Q53922",
@@ -389,7 +389,7 @@
     "itemLabel": "Black Mirror",
     "startYear": "2011",
     "endYear": "",
-    "sitelinks": "64"
+    "sitelinks": "65"
   },
   {
     "item": "http://www.wikidata.org/entity/Q217679",
@@ -442,10 +442,10 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q202141",
-    "itemLabel": "Criminal Minds: Evolution",
+    "itemLabel": "Criminal Minds",
     "startYear": "2005",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q87131973",
@@ -536,7 +536,7 @@
     "itemLabel": "Bluey",
     "startYear": "2018",
     "endYear": "",
-    "sitelinks": "60"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4525",
@@ -557,7 +557,7 @@
     "itemLabel": "House of the Dragon",
     "startYear": "2022",
     "endYear": "",
-    "sitelinks": "59"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q82617",
@@ -682,7 +682,7 @@
     "item": "http://www.wikidata.org/entity/Q906186",
     "itemLabel": "The Amazing World of Gumball",
     "startYear": "2011",
-    "endYear": "",
+    "endYear": "2019",
     "sitelinks": "57"
   },
   {
@@ -886,14 +886,14 @@
     "itemLabel": "The Mandalorian",
     "startYear": "2019",
     "endYear": "",
-    "sitelinks": "54"
+    "sitelinks": "55"
   },
   {
     "item": "http://www.wikidata.org/entity/Q15106029",
     "itemLabel": "Paw Patrol",
     "startYear": "2013",
     "endYear": "",
-    "sitelinks": "54"
+    "sitelinks": "57"
   },
   {
     "item": "http://www.wikidata.org/entity/Q32450",
@@ -1192,9 +1192,9 @@
   {
     "item": "http://www.wikidata.org/entity/Q201052",
     "itemLabel": "American Idol",
-    "startYear": "2002",
-    "endYear": "",
-    "sitelinks": "49"
+    "startYear": "2018",
+    "endYear": "2016",
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q192259",
@@ -1262,9 +1262,9 @@
   {
     "item": "http://www.wikidata.org/entity/Q201052",
     "itemLabel": "American Idol",
-    "startYear": "2002",
-    "endYear": "",
-    "sitelinks": "49"
+    "startYear": "2018",
+    "endYear": "2016",
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q694101",
@@ -1446,7 +1446,7 @@
     "itemLabel": "Pokémon",
     "startYear": "1997",
     "endYear": "",
-    "sitelinks": "47"
+    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q537911",
@@ -1614,7 +1614,7 @@
     "itemLabel": "Skibidi Toilet",
     "startYear": "2023",
     "endYear": "",
-    "sitelinks": "44"
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2293",
@@ -1698,7 +1698,7 @@
     "itemLabel": "Euphoria",
     "startYear": "2019",
     "endYear": "",
-    "sitelinks": "44"
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q61981835",
@@ -1739,8 +1739,8 @@
     "item": "http://www.wikidata.org/entity/Q85518571",
     "itemLabel": "Arcane",
     "startYear": "2021",
-    "endYear": "",
-    "sitelinks": "44"
+    "endYear": "2024",
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q32488",
@@ -1852,7 +1852,7 @@
     "itemLabel": "The Lord of the Rings: The Rings of Power",
     "startYear": "2022",
     "endYear": "",
-    "sitelinks": "43"
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q79997161",
@@ -2349,7 +2349,7 @@
     "itemLabel": "Peacemaker",
     "startYear": "2022",
     "endYear": "",
-    "sitelinks": "40"
+    "sitelinks": "39"
   },
   {
     "item": "http://www.wikidata.org/entity/Q108441863",
@@ -2930,7 +2930,7 @@
     "itemLabel": "Fallout",
     "startYear": "2024",
     "endYear": "",
-    "sitelinks": "37"
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q249056",
@@ -2993,7 +2993,7 @@
     "itemLabel": "Mr. Bean: The Animated Series",
     "startYear": "2002",
     "endYear": "",
-    "sitelinks": "37"
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q75020770",
@@ -3167,7 +3167,7 @@
     "item": "http://www.wikidata.org/entity/Q106623586",
     "itemLabel": "Heartstopper",
     "startYear": "2022",
-    "endYear": "",
+    "endYear": "2026",
     "sitelinks": "36"
   },
   {
@@ -3308,7 +3308,7 @@
     "itemLabel": "Chicago Fire",
     "startYear": "2012",
     "endYear": "",
-    "sitelinks": "35"
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q607514",
@@ -3497,6 +3497,69 @@
     "itemLabel": "DuckTales",
     "startYear": "2017",
     "endYear": "2021",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q15072906",
+    "itemLabel": "Outlander",
+    "startYear": "2014",
+    "endYear": "",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q121665318",
+    "itemLabel": "The Amazing Digital Circus",
+    "startYear": "2023",
+    "endYear": "2026",
+    "sitelinks": "36"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17080059",
+    "itemLabel": "Sense8",
+    "startYear": "2015",
+    "endYear": "2018",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4529",
+    "itemLabel": "Veronica Mars",
+    "startYear": "2004",
+    "endYear": "2019",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q23670",
+    "itemLabel": "It's Always Sunny in Philadelphia",
+    "startYear": "2005",
+    "endYear": "",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q127774333",
+    "itemLabel": "Adolescence",
+    "startYear": "2025",
+    "endYear": "",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q17080059",
+    "itemLabel": "Sense8",
+    "startYear": "2015",
+    "endYear": "2018",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q51661554",
+    "itemLabel": "What's Wrong with Secretary Kim",
+    "startYear": "2018",
+    "endYear": "",
+    "sitelinks": "35"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q120277524",
+    "itemLabel": "A Knight of the Seven Kingdoms",
+    "startYear": "2026",
+    "endYear": "",
     "sitelinks": "35"
   }
 ]

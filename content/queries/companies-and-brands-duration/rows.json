@@ -4,13 +4,20 @@
     "itemLabel": "Google",
     "startYear": "1998",
     "endYear": "",
-    "sitelinks": "209"
+    "sitelinks": "211"
   },
   {
     "item": "http://www.wikidata.org/entity/Q95",
     "itemLabel": "Google",
     "startYear": "1998",
     "endYear": "",
+    "sitelinks": "211"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q7817",
+    "itemLabel": "World Health Organization",
+    "startYear": "1948",
+    "endYear": "",
     "sitelinks": "209"
   },
   {
@@ -18,105 +25,98 @@
     "itemLabel": "World Health Organization",
     "startYear": "1948",
     "endYear": "",
-    "sitelinks": "208"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q7817",
-    "itemLabel": "World Health Organization",
-    "startYear": "1948",
-    "endYear": "",
-    "sitelinks": "208"
+    "sitelinks": "209"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312",
     "itemLabel": "Apple Inc.",
     "startYear": "1976",
     "endYear": "",
-    "sitelinks": "182"
+    "sitelinks": "184"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312",
     "itemLabel": "Apple Inc.",
     "startYear": "1976",
     "endYear": "",
-    "sitelinks": "182"
+    "sitelinks": "184"
   },
   {
     "item": "http://www.wikidata.org/entity/Q312",
     "itemLabel": "Apple Inc.",
     "startYear": "1976",
     "endYear": "",
-    "sitelinks": "182"
+    "sitelinks": "184"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2283",
     "itemLabel": "Microsoft",
     "startYear": "1975",
     "endYear": "",
-    "sitelinks": "175"
+    "sitelinks": "177"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2283",
     "itemLabel": "Microsoft",
     "startYear": "1975",
     "endYear": "",
-    "sitelinks": "175"
+    "sitelinks": "177"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2283",
     "itemLabel": "Microsoft",
     "startYear": "1975",
     "endYear": "",
-    "sitelinks": "175"
+    "sitelinks": "177"
   },
   {
     "item": "http://www.wikidata.org/entity/Q53268",
     "itemLabel": "Toyota",
     "startYear": "1937",
     "endYear": "",
-    "sitelinks": "151"
+    "sitelinks": "149"
   },
   {
     "item": "http://www.wikidata.org/entity/Q53268",
     "itemLabel": "Toyota",
     "startYear": "1937",
     "endYear": "",
-    "sitelinks": "151"
+    "sitelinks": "149"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7164",
     "itemLabel": "World Bank",
     "startYear": "1945",
     "endYear": "",
-    "sitelinks": "146"
+    "sitelinks": "145"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7414",
     "itemLabel": "The Walt Disney Company",
     "startYear": "1923",
     "endYear": "",
-    "sitelinks": "141"
+    "sitelinks": "142"
   },
   {
     "item": "http://www.wikidata.org/entity/Q38076",
     "itemLabel": "McDonald's",
     "startYear": "1940",
     "endYear": "",
-    "sitelinks": "137"
+    "sitelinks": "136"
   },
   {
     "item": "http://www.wikidata.org/entity/Q38076",
     "itemLabel": "McDonald's",
     "startYear": "1940",
     "endYear": "",
-    "sitelinks": "137"
+    "sitelinks": "136"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1422",
     "itemLabel": "Juventus FC",
     "startYear": "1897",
     "endYear": "",
-    "sitelinks": "130"
+    "sitelinks": "131"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3884",
@@ -144,42 +144,42 @@
     "itemLabel": "Baskin-Robbins",
     "startYear": "1945",
     "endYear": "",
-    "sitelinks": "117"
+    "sitelinks": "116"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26678",
-    "itemLabel": "BMW",
+    "itemLabel": "BMW Group",
     "startYear": "1916",
     "endYear": "",
-    "sitelinks": "117"
+    "sitelinks": "118"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26678",
-    "itemLabel": "BMW",
+    "itemLabel": "BMW Group",
     "startYear": "1916",
     "endYear": "",
-    "sitelinks": "117"
+    "sitelinks": "118"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26678",
-    "itemLabel": "BMW",
+    "itemLabel": "BMW Group",
     "startYear": "1916",
     "endYear": "",
-    "sitelinks": "117"
+    "sitelinks": "118"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26678",
-    "itemLabel": "BMW",
+    "itemLabel": "BMW Group",
     "startYear": "1916",
     "endYear": "",
-    "sitelinks": "117"
+    "sitelinks": "118"
   },
   {
     "item": "http://www.wikidata.org/entity/Q584601",
     "itemLabel": "Baskin-Robbins",
     "startYear": "1945",
     "endYear": "",
-    "sitelinks": "117"
+    "sitelinks": "116"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23317",
@@ -200,7 +200,7 @@
     "itemLabel": "International Union for Conservation of Nature",
     "startYear": "1948",
     "endYear": "",
-    "sitelinks": "114"
+    "sitelinks": "118"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41187",
@@ -219,16 +219,16 @@
   {
     "item": "http://www.wikidata.org/entity/Q177054",
     "itemLabel": "Burger King",
-    "startYear": "1954",
+    "startYear": "1956",
     "endYear": "",
-    "sitelinks": "113"
+    "sitelinks": "112"
   },
   {
     "item": "http://www.wikidata.org/entity/Q177054",
     "itemLabel": "Burger King",
     "startYear": "1956",
     "endYear": "",
-    "sitelinks": "113"
+    "sitelinks": "112"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37156",
@@ -263,28 +263,28 @@
     "itemLabel": "Premier League",
     "startYear": "1992",
     "endYear": "",
-    "sitelinks": "112"
+    "sitelinks": "113"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44294",
     "itemLabel": "Ford Motor Company",
     "startYear": "1903",
     "endYear": "",
-    "sitelinks": "112"
+    "sitelinks": "113"
   },
   {
     "item": "http://www.wikidata.org/entity/Q44294",
     "itemLabel": "Ford Motor Company",
     "startYear": "1903",
     "endYear": "",
-    "sitelinks": "112"
+    "sitelinks": "113"
   },
   {
     "item": "http://www.wikidata.org/entity/Q193701",
     "itemLabel": "SpaceX",
     "startYear": "2002",
     "endYear": "",
-    "sitelinks": "111"
+    "sitelinks": "115"
   },
   {
     "item": "http://www.wikidata.org/entity/Q41506",
@@ -298,21 +298,21 @@
     "itemLabel": "Renault",
     "startYear": "1898",
     "endYear": "",
-    "sitelinks": "109"
+    "sitelinks": "110"
   },
   {
     "item": "http://www.wikidata.org/entity/Q9584",
     "itemLabel": "Honda",
     "startYear": "1948",
     "endYear": "",
-    "sitelinks": "106"
+    "sitelinks": "105"
   },
   {
     "item": "http://www.wikidata.org/entity/Q132140",
     "itemLabel": "Federal University of Minas Gerais",
     "startYear": "1927",
     "endYear": "",
-    "sitelinks": "106"
+    "sitelinks": "105"
   },
   {
     "item": "http://www.wikidata.org/entity/Q49112",
@@ -326,7 +326,7 @@
     "itemLabel": "Honda",
     "startYear": "1948",
     "endYear": "",
-    "sitelinks": "106"
+    "sitelinks": "105"
   },
   {
     "item": "http://www.wikidata.org/entity/Q81888",
@@ -340,14 +340,14 @@
     "itemLabel": "Honda",
     "startYear": "1948",
     "endYear": "",
-    "sitelinks": "106"
+    "sitelinks": "105"
   },
   {
     "item": "http://www.wikidata.org/entity/Q478214",
     "itemLabel": "Tesla",
     "startYear": "2003",
     "endYear": "",
-    "sitelinks": "106"
+    "sitelinks": "107"
   },
   {
     "item": "http://www.wikidata.org/entity/Q47099",
@@ -375,14 +375,14 @@
     "itemLabel": "Boeing",
     "startYear": "1916",
     "endYear": "",
-    "sitelinks": "104"
+    "sitelinks": "106"
   },
   {
     "item": "http://www.wikidata.org/entity/Q66",
     "itemLabel": "Boeing",
     "startYear": "1916",
     "endYear": "",
-    "sitelinks": "104"
+    "sitelinks": "106"
   },
   {
     "item": "http://www.wikidata.org/entity/Q159102",
@@ -396,21 +396,21 @@
     "itemLabel": "Boeing",
     "startYear": "1916",
     "endYear": "",
-    "sitelinks": "104"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q3895",
-    "itemLabel": "Adidas AG",
-    "startYear": "1924",
-    "endYear": "",
-    "sitelinks": "104"
+    "sitelinks": "106"
   },
   {
     "item": "http://www.wikidata.org/entity/Q3895",
     "itemLabel": "Adidas AG",
     "startYear": "1949",
     "endYear": "",
-    "sitelinks": "104"
+    "sitelinks": "105"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q3895",
+    "itemLabel": "Adidas AG",
+    "startYear": "1949",
+    "endYear": "",
+    "sitelinks": "105"
   },
   {
     "item": "http://www.wikidata.org/entity/Q156406",
@@ -450,7 +450,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q9325",
     "itemLabel": "Lufthansa",
-    "startYear": "1926",
+    "startYear": "1953",
     "endYear": "",
     "sitelinks": "101"
   },
@@ -464,7 +464,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q9325",
     "itemLabel": "Lufthansa",
-    "startYear": "1926",
+    "startYear": "1953",
     "endYear": "",
     "sitelinks": "101"
   },
@@ -480,7 +480,7 @@
     "itemLabel": "Intel",
     "startYear": "1968",
     "endYear": "",
-    "sitelinks": "100"
+    "sitelinks": "101"
   },
   {
     "item": "http://www.wikidata.org/entity/Q21578",
@@ -501,7 +501,7 @@
     "itemLabel": "Ferrari",
     "startYear": "1947",
     "endYear": "",
-    "sitelinks": "98"
+    "sitelinks": "97"
   },
   {
     "item": "http://www.wikidata.org/entity/Q524757",
@@ -515,47 +515,47 @@
     "itemLabel": "Ferrari",
     "startYear": "1947",
     "endYear": "",
-    "sitelinks": "98"
+    "sitelinks": "97"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191615",
     "itemLabel": "Pizza Hut",
-    "startYear": "1958",
+    "startYear": "2002",
     "endYear": "",
     "sitelinks": "96"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191615",
     "itemLabel": "Pizza Hut",
-    "startYear": "1958",
+    "startYear": "2002",
     "endYear": "",
     "sitelinks": "96"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191615",
     "itemLabel": "Pizza Hut",
-    "startYear": "1958",
+    "startYear": "2002",
     "endYear": "",
     "sitelinks": "96"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191615",
     "itemLabel": "Pizza Hut",
-    "startYear": "1958",
+    "startYear": "2002",
     "endYear": "",
     "sitelinks": "96"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191615",
     "itemLabel": "Pizza Hut",
-    "startYear": "1958",
+    "startYear": "2002",
     "endYear": "",
     "sitelinks": "96"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191615",
     "itemLabel": "Pizza Hut",
-    "startYear": "1958",
+    "startYear": "2002",
     "endYear": "",
     "sitelinks": "96"
   },
@@ -599,7 +599,7 @@
     "itemLabel": "OpenAI",
     "startYear": "2015",
     "endYear": "",
-    "sitelinks": "93"
+    "sitelinks": "96"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37158",
@@ -613,35 +613,35 @@
     "itemLabel": "Porsche",
     "startYear": "1931",
     "endYear": "",
-    "sitelinks": "92"
+    "sitelinks": "91"
   },
   {
     "item": "http://www.wikidata.org/entity/Q158888",
     "itemLabel": "Yamaha Motor Company",
     "startYear": "1955",
     "endYear": "",
-    "sitelinks": "92"
+    "sitelinks": "93"
   },
   {
     "item": "http://www.wikidata.org/entity/Q158888",
     "itemLabel": "Yamaha Motor Company",
     "startYear": "1955",
     "endYear": "",
-    "sitelinks": "92"
+    "sitelinks": "93"
   },
   {
     "item": "http://www.wikidata.org/entity/Q40993",
     "itemLabel": "Porsche",
     "startYear": "1931",
     "endYear": "",
-    "sitelinks": "92"
+    "sitelinks": "91"
   },
   {
     "item": "http://www.wikidata.org/entity/Q40993",
     "itemLabel": "Porsche",
     "startYear": "1931",
     "endYear": "",
-    "sitelinks": "92"
+    "sitelinks": "91"
   },
   {
     "item": "http://www.wikidata.org/entity/Q160746",
@@ -662,7 +662,7 @@
     "itemLabel": "Marvel Comics",
     "startYear": "1961",
     "endYear": "",
-    "sitelinks": "90"
+    "sitelinks": "92"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131262",
@@ -695,7 +695,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q193563",
     "itemLabel": "Bibliothèque nationale de France",
-    "startYear": "1537",
+    "startYear": "1994",
     "endYear": "",
     "sitelinks": "90"
   },
@@ -704,7 +704,7 @@
     "itemLabel": "Marvel Comics",
     "startYear": "1961",
     "endYear": "",
-    "sitelinks": "90"
+    "sitelinks": "92"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8901",
@@ -732,7 +732,7 @@
     "itemLabel": "General Motors",
     "startYear": "1908",
     "endYear": "",
-    "sitelinks": "89"
+    "sitelinks": "90"
   },
   {
     "item": "http://www.wikidata.org/entity/Q58024",
@@ -753,7 +753,7 @@
     "itemLabel": "General Motors",
     "startYear": "1908",
     "endYear": "",
-    "sitelinks": "89"
+    "sitelinks": "90"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4548",
@@ -795,21 +795,21 @@
     "itemLabel": "WWE",
     "startYear": "1952",
     "endYear": "",
-    "sitelinks": "88"
+    "sitelinks": "90"
   },
   {
     "item": "http://www.wikidata.org/entity/Q483915",
     "itemLabel": "Nike",
     "startYear": "1964",
     "endYear": "",
-    "sitelinks": "88"
+    "sitelinks": "89"
   },
   {
     "item": "http://www.wikidata.org/entity/Q483915",
     "itemLabel": "Nike",
     "startYear": "1964",
     "endYear": "",
-    "sitelinks": "88"
+    "sitelinks": "89"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11463",
@@ -870,7 +870,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q131005",
     "itemLabel": "Air France",
-    "startYear": "1932",
+    "startYear": "1933",
     "endYear": "",
     "sitelinks": "86"
   },
@@ -911,7 +911,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q380",
-    "itemLabel": "Meta",
+    "itemLabel": "Meta Platforms",
     "startYear": "2004",
     "endYear": "",
     "sitelinks": "85"
@@ -921,7 +921,7 @@
     "itemLabel": "Metropolitan Museum of Art",
     "startYear": "1870",
     "endYear": "",
-    "sitelinks": "85"
+    "sitelinks": "87"
   },
   {
     "item": "http://www.wikidata.org/entity/Q80978",
@@ -939,7 +939,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q380",
-    "itemLabel": "Meta",
+    "itemLabel": "Meta Platforms",
     "startYear": "2004",
     "endYear": "",
     "sitelinks": "85"
@@ -949,14 +949,14 @@
     "itemLabel": "DC Comics",
     "startYear": "1977",
     "endYear": "",
-    "sitelinks": "84"
+    "sitelinks": "85"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2924461",
     "itemLabel": "DC Comics",
     "startYear": "1977",
     "endYear": "",
-    "sitelinks": "84"
+    "sitelinks": "85"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151510",
@@ -977,7 +977,7 @@
     "itemLabel": "Lamborghini",
     "startYear": "1948",
     "endYear": "",
-    "sitelinks": "84"
+    "sitelinks": "86"
   },
   {
     "item": "http://www.wikidata.org/entity/Q14799",
@@ -998,7 +998,7 @@
     "itemLabel": "International Civil Aviation Organization",
     "startYear": "1944",
     "endYear": "",
-    "sitelinks": "83"
+    "sitelinks": "84"
   },
   {
     "item": "http://www.wikidata.org/entity/Q14799",
@@ -1012,7 +1012,7 @@
     "itemLabel": "British Airways",
     "startYear": "1919",
     "endYear": "",
-    "sitelinks": "82"
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q853878",
@@ -1026,7 +1026,7 @@
     "itemLabel": "Suzuki Motor Corporation",
     "startYear": "1909",
     "endYear": "",
-    "sitelinks": "82"
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q7894375",
@@ -1047,7 +1047,7 @@
     "itemLabel": "Suzuki Motor Corporation",
     "startYear": "1909",
     "endYear": "",
-    "sitelinks": "82"
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35996",
@@ -1061,14 +1061,14 @@
     "itemLabel": "Suzuki Motor Corporation",
     "startYear": "1909",
     "endYear": "",
-    "sitelinks": "82"
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q8766",
     "itemLabel": "British Airways",
     "startYear": "1919",
     "endYear": "",
-    "sitelinks": "82"
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q36989",
@@ -1080,7 +1080,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q101859",
     "itemLabel": "VfL Wolfsburg",
-    "startYear": "1945",
+    "startYear": "2001",
     "endYear": "",
     "sitelinks": "81"
   },
@@ -1096,19 +1096,19 @@
     "itemLabel": "DeepSeek",
     "startYear": "2023",
     "endYear": "",
-    "sitelinks": "81"
+    "sitelinks": "82"
   },
   {
     "item": "http://www.wikidata.org/entity/Q152087",
     "itemLabel": "Humboldt-Universität zu Berlin",
     "startYear": "1809",
     "endYear": "",
-    "sitelinks": "80"
+    "sitelinks": "81"
   },
   {
     "item": "http://www.wikidata.org/entity/Q29637",
     "itemLabel": "Škoda Auto",
-    "startYear": "1895",
+    "startYear": "1990",
     "endYear": "",
     "sitelinks": "80"
   },
@@ -1124,7 +1124,7 @@
     "itemLabel": "Dell",
     "startYear": "1984",
     "endYear": "",
-    "sitelinks": "80"
+    "sitelinks": "81"
   },
   {
     "item": "http://www.wikidata.org/entity/Q182477",
@@ -1138,12 +1138,12 @@
     "itemLabel": "Dell",
     "startYear": "1984",
     "endYear": "",
-    "sitelinks": "80"
+    "sitelinks": "81"
   },
   {
     "item": "http://www.wikidata.org/entity/Q29637",
     "itemLabel": "Škoda Auto",
-    "startYear": "1895",
+    "startYear": "1990",
     "endYear": "",
     "sitelinks": "80"
   },
@@ -1173,21 +1173,21 @@
     "itemLabel": "Johns Hopkins University",
     "startYear": "1876",
     "endYear": "",
-    "sitelinks": "79"
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35349",
     "itemLabel": "Kia",
     "startYear": "1944",
     "endYear": "",
-    "sitelinks": "79"
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35349",
     "itemLabel": "Kia",
     "startYear": "1944",
     "endYear": "",
-    "sitelinks": "79"
+    "sitelinks": "80"
   },
   {
     "item": "http://www.wikidata.org/entity/Q174769",
@@ -1243,7 +1243,7 @@
     "itemLabel": "Billboard",
     "startYear": "1894",
     "endYear": "",
-    "sitelinks": "78"
+    "sitelinks": "79"
   },
   {
     "item": "http://www.wikidata.org/entity/Q102673",
@@ -1257,7 +1257,7 @@
     "itemLabel": "Burj al-Arab",
     "startYear": "1999",
     "endYear": "",
-    "sitelinks": "77"
+    "sitelinks": "78"
   },
   {
     "item": "http://www.wikidata.org/entity/Q102673",
@@ -1299,7 +1299,7 @@
     "itemLabel": "Citroën",
     "startYear": "1919",
     "endYear": "",
-    "sitelinks": "76"
+    "sitelinks": "77"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26921",
@@ -1320,7 +1320,7 @@
     "itemLabel": "Shell",
     "startYear": "1890",
     "endYear": "",
-    "sitelinks": "76"
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q55931",
@@ -1348,21 +1348,21 @@
     "itemLabel": "Shell",
     "startYear": "1890",
     "endYear": "",
-    "sitelinks": "76"
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q128896",
     "itemLabel": "AMD",
     "startYear": "1969",
     "endYear": "",
-    "sitelinks": "76"
+    "sitelinks": "78"
   },
   {
     "item": "http://www.wikidata.org/entity/Q128896",
     "itemLabel": "AMD",
     "startYear": "1969",
     "endYear": "",
-    "sitelinks": "76"
+    "sitelinks": "78"
   },
   {
     "item": "http://www.wikidata.org/entity/Q58707",
@@ -1411,7 +1411,7 @@
     "itemLabel": "Koninklijke Philips NV",
     "startYear": "1891",
     "endYear": "",
-    "sitelinks": "75"
+    "sitelinks": "77"
   },
   {
     "item": "http://www.wikidata.org/entity/Q49125",
@@ -1425,7 +1425,7 @@
     "itemLabel": "Koninklijke Philips NV",
     "startYear": "1891",
     "endYear": "",
-    "sitelinks": "75"
+    "sitelinks": "77"
   },
   {
     "item": "http://www.wikidata.org/entity/Q183231",
@@ -1439,7 +1439,7 @@
     "itemLabel": "Korean Broadcasting System",
     "startYear": "1973",
     "endYear": "",
-    "sitelinks": "74"
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q193559",
@@ -1502,7 +1502,7 @@
     "itemLabel": "Mercedes-Benz Group",
     "startYear": "1998",
     "endYear": "",
-    "sitelinks": "74"
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q14647",
@@ -1516,28 +1516,28 @@
     "itemLabel": "Mercedes-Benz Group",
     "startYear": "1998",
     "endYear": "",
-    "sitelinks": "74"
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q178516",
     "itemLabel": "Gucci",
     "startYear": "1921",
     "endYear": "",
-    "sitelinks": "74"
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q27530",
     "itemLabel": "Mercedes-Benz Group",
     "startYear": "1998",
     "endYear": "",
-    "sitelinks": "74"
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q178516",
     "itemLabel": "Gucci",
     "startYear": "1921",
     "endYear": "",
-    "sitelinks": "74"
+    "sitelinks": "75"
   },
   {
     "item": "http://www.wikidata.org/entity/Q780442",
@@ -1551,7 +1551,7 @@
     "itemLabel": "Emirates",
     "startYear": "1985",
     "endYear": "",
-    "sitelinks": "73"
+    "sitelinks": "74"
   },
   {
     "item": "http://www.wikidata.org/entity/Q215392",
@@ -1579,7 +1579,7 @@
     "itemLabel": "Alphabet Inc.",
     "startYear": "2015",
     "endYear": "",
-    "sitelinks": "73"
+    "sitelinks": "74"
   },
   {
     "item": "http://www.wikidata.org/entity/Q230051",
@@ -1600,14 +1600,14 @@
     "itemLabel": "Roscosmos State Corporation",
     "startYear": "1992",
     "endYear": "",
-    "sitelinks": "72"
+    "sitelinks": "74"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188920",
     "itemLabel": "Delta Air Lines",
     "startYear": "1925",
     "endYear": "",
-    "sitelinks": "72"
+    "sitelinks": "74"
   },
   {
     "item": "http://www.wikidata.org/entity/Q163810",
@@ -1621,7 +1621,7 @@
     "itemLabel": "Saint Petersburg State University",
     "startYear": "1724",
     "endYear": "",
-    "sitelinks": "72"
+    "sitelinks": "73"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11942",
@@ -1656,7 +1656,7 @@
     "itemLabel": "Delta Air Lines",
     "startYear": "1925",
     "endYear": "",
-    "sitelinks": "72"
+    "sitelinks": "74"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188822",
@@ -1696,7 +1696,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q32396",
     "itemLabel": "American Airlines",
-    "startYear": "1926",
+    "startYear": "1936",
     "endYear": "",
     "sitelinks": "71"
   },
@@ -1712,12 +1712,12 @@
     "itemLabel": "University of Glasgow",
     "startYear": "1451",
     "endYear": "",
-    "sitelinks": "71"
+    "sitelinks": "72"
   },
   {
     "item": "http://www.wikidata.org/entity/Q32396",
     "itemLabel": "American Airlines",
-    "startYear": "1926",
+    "startYear": "1936",
     "endYear": "",
     "sitelinks": "71"
   },
@@ -1754,7 +1754,7 @@
     "itemLabel": "Yandex",
     "startYear": "2000",
     "endYear": "",
-    "sitelinks": "71"
+    "sitelinks": "72"
   },
   {
     "item": "http://www.wikidata.org/entity/Q156238",
@@ -1780,7 +1780,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q183275",
     "itemLabel": "Mitsubishi",
-    "startYear": "1870",
+    "startYear": "1950",
     "endYear": "",
     "sitelinks": "70"
   },
@@ -1796,7 +1796,7 @@
     "itemLabel": "Electronic Arts",
     "startYear": "1982",
     "endYear": "",
-    "sitelinks": "70"
+    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188326",
@@ -1824,7 +1824,7 @@
     "itemLabel": "Electronic Arts",
     "startYear": "1982",
     "endYear": "",
-    "sitelinks": "70"
+    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q37033",
@@ -1838,7 +1838,7 @@
     "itemLabel": "Japan Aerospace Exploration Agency",
     "startYear": "2003",
     "endYear": "",
-    "sitelinks": "70"
+    "sitelinks": "72"
   },
   {
     "item": "http://www.wikidata.org/entity/Q32491",
@@ -1894,7 +1894,7 @@
     "itemLabel": "Electronic Arts",
     "startYear": "1982",
     "endYear": "",
-    "sitelinks": "70"
+    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q66048",
@@ -1936,7 +1936,7 @@
     "itemLabel": "Boston University",
     "startYear": "1869",
     "endYear": "",
-    "sitelinks": "69"
+    "sitelinks": "70"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131566",
@@ -1985,14 +1985,14 @@
     "itemLabel": "Lockheed Martin",
     "startYear": "1995",
     "endYear": "",
-    "sitelinks": "69"
+    "sitelinks": "70"
   },
   {
     "item": "http://www.wikidata.org/entity/Q14772",
     "itemLabel": "Baidu",
     "startYear": "2000",
     "endYear": "",
-    "sitelinks": "69"
+    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q131566",
@@ -2006,7 +2006,7 @@
     "itemLabel": "Baidu",
     "startYear": "2000",
     "endYear": "",
-    "sitelinks": "69"
+    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q152864",
@@ -2027,14 +2027,14 @@
     "itemLabel": "Air Canada",
     "startYear": "1937",
     "endYear": "",
-    "sitelinks": "68"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q185339",
     "itemLabel": "Air Canada",
     "startYear": "1937",
     "endYear": "",
-    "sitelinks": "68"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q308952",
@@ -2048,11 +2048,11 @@
     "itemLabel": "University of Oslo",
     "startYear": "1811",
     "endYear": "",
-    "sitelinks": "68"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q859363",
-    "itemLabel": "Sciences Po",
+    "itemLabel": "Paris Institute of Political Studies",
     "startYear": "1872",
     "endYear": "",
     "sitelinks": "68"
@@ -2062,7 +2062,7 @@
     "itemLabel": "Puma",
     "startYear": "1948",
     "endYear": "",
-    "sitelinks": "68"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q308952",
@@ -2076,21 +2076,21 @@
     "itemLabel": "Air Canada",
     "startYear": "1937",
     "endYear": "",
-    "sitelinks": "68"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157064",
     "itemLabel": "Puma",
     "startYear": "1948",
     "endYear": "",
-    "sitelinks": "68"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q157064",
     "itemLabel": "Puma",
     "startYear": "1948",
     "endYear": "",
-    "sitelinks": "68"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q757391",
@@ -2125,7 +2125,7 @@
     "itemLabel": "Cisco",
     "startYear": "1984",
     "endYear": "",
-    "sitelinks": "67"
+    "sitelinks": "68"
   },
   {
     "item": "http://www.wikidata.org/entity/Q499962",
@@ -2137,16 +2137,16 @@
   {
     "item": "http://www.wikidata.org/entity/Q191485",
     "itemLabel": "Louis Vuitton",
-    "startYear": "1854",
+    "startYear": "1980",
     "endYear": "",
-    "sitelinks": "67"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191485",
     "itemLabel": "Louis Vuitton",
     "startYear": "1980",
     "endYear": "",
-    "sitelinks": "67"
+    "sitelinks": "69"
   },
   {
     "item": "http://www.wikidata.org/entity/Q167186",
@@ -2167,7 +2167,7 @@
     "itemLabel": "Cisco",
     "startYear": "1984",
     "endYear": "",
-    "sitelinks": "67"
+    "sitelinks": "68"
   },
   {
     "item": "http://www.wikidata.org/entity/Q499962",
@@ -2209,7 +2209,7 @@
     "itemLabel": "GMM Grammy",
     "startYear": "1983",
     "endYear": "",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q308963",
@@ -2244,7 +2244,7 @@
     "itemLabel": "Land Rover",
     "startYear": "1978",
     "endYear": "",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q152051",
@@ -2272,21 +2272,21 @@
     "itemLabel": "Prada",
     "startYear": "1913",
     "endYear": "",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1218180",
     "itemLabel": "Nikon",
     "startYear": "1917",
     "endYear": "",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q193136",
     "itemLabel": "Prada",
     "startYear": "1913",
     "endYear": "",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83172",
@@ -2321,12 +2321,12 @@
     "itemLabel": "GMM Grammy",
     "startYear": "1983",
     "endYear": "",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q69906",
     "itemLabel": "Air India",
-    "startYear": "1932",
+    "startYear": "1946",
     "endYear": "",
     "sitelinks": "65"
   },
@@ -2349,7 +2349,7 @@
     "itemLabel": "Leipzig University",
     "startYear": "1409",
     "endYear": "",
-    "sitelinks": "65"
+    "sitelinks": "66"
   },
   {
     "item": "http://www.wikidata.org/entity/Q94912",
@@ -2375,14 +2375,14 @@
   {
     "item": "http://www.wikidata.org/entity/Q679322",
     "itemLabel": "Saudi Aramco",
-    "startYear": "1932",
+    "startYear": "1988",
     "endYear": "",
     "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q679322",
     "itemLabel": "Saudi Aramco",
-    "startYear": "1933",
+    "startYear": "1988",
     "endYear": "",
     "sitelinks": "64"
   },
@@ -2419,7 +2419,7 @@
     "itemLabel": "Etihad Airways",
     "startYear": "2003",
     "endYear": "",
-    "sitelinks": "64"
+    "sitelinks": "65"
   },
   {
     "item": "http://www.wikidata.org/entity/Q38903",
@@ -2445,14 +2445,14 @@
   {
     "item": "http://www.wikidata.org/entity/Q679322",
     "itemLabel": "Saudi Aramco",
-    "startYear": "1932",
+    "startYear": "1988",
     "endYear": "",
     "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q679322",
     "itemLabel": "Saudi Aramco",
-    "startYear": "1933",
+    "startYear": "1988",
     "endYear": "",
     "sitelinks": "64"
   },
@@ -2473,7 +2473,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q486269",
     "itemLabel": "Kodak",
-    "startYear": "1880",
+    "startYear": "1882",
     "endYear": "",
     "sitelinks": "64"
   },
@@ -2489,19 +2489,19 @@
     "itemLabel": "Yad Vashem",
     "startYear": "1953",
     "endYear": "",
-    "sitelinks": "64"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q679322",
     "itemLabel": "Saudi Aramco",
-    "startYear": "1932",
+    "startYear": "1988",
     "endYear": "",
     "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q679322",
     "itemLabel": "Saudi Aramco",
-    "startYear": "1933",
+    "startYear": "1988",
     "endYear": "",
     "sitelinks": "64"
   },
@@ -2522,7 +2522,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q486269",
     "itemLabel": "Kodak",
-    "startYear": "1880",
+    "startYear": "1882",
     "endYear": "",
     "sitelinks": "64"
   },
@@ -2559,7 +2559,7 @@
     "itemLabel": "University of Buenos Aires",
     "startYear": "1821",
     "endYear": "",
-    "sitelinks": "63"
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q178824",
@@ -2580,12 +2580,12 @@
     "itemLabel": "University of St Andrews",
     "startYear": "1413",
     "endYear": "",
-    "sitelinks": "63"
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q181114",
     "itemLabel": "Stellantis North America",
-    "startYear": "1925",
+    "startYear": "2009",
     "endYear": "",
     "sitelinks": "63"
   },
@@ -2594,19 +2594,19 @@
     "itemLabel": "Visa Inc.",
     "startYear": "1958",
     "endYear": "",
-    "sitelinks": "63"
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q328840",
     "itemLabel": "Visa Inc.",
     "startYear": "1958",
     "endYear": "",
-    "sitelinks": "63"
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q181114",
     "itemLabel": "Stellantis North America",
-    "startYear": "1925",
+    "startYear": "2009",
     "endYear": "",
     "sitelinks": "63"
   },
@@ -2622,7 +2622,7 @@
     "itemLabel": "SAP",
     "startYear": "1972",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q207936",
@@ -2636,14 +2636,14 @@
     "itemLabel": "Jack in the Box",
     "startYear": "1951",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26070",
-    "itemLabel": "UNIQLO",
-    "startYear": "1949",
+    "itemLabel": "Uniqlo",
+    "startYear": "1984",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q207936",
@@ -2664,28 +2664,28 @@
     "itemLabel": "Oxford University Press",
     "startYear": "1586",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q217595",
     "itemLabel": "Oxford University Press",
     "startYear": "1586",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q217595",
     "itemLabel": "Oxford University Press",
     "startYear": "1586",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26070",
-    "itemLabel": "UNIQLO",
-    "startYear": "1949",
+    "itemLabel": "Uniqlo",
+    "startYear": "1984",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35962",
@@ -2706,42 +2706,42 @@
     "itemLabel": "Jack in the Box",
     "startYear": "1951",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q552581",
     "itemLabel": "SAP",
     "startYear": "1972",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q212405",
     "itemLabel": "Procter & Gamble",
     "startYear": "1837",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q217595",
     "itemLabel": "Oxford University Press",
     "startYear": "1586",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q212405",
     "itemLabel": "Procter & Gamble",
     "startYear": "1837",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q26070",
-    "itemLabel": "UNIQLO",
-    "startYear": "1949",
+    "itemLabel": "Uniqlo",
+    "startYear": "1984",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q35962",
@@ -2755,21 +2755,21 @@
     "itemLabel": "Ultimate Fighting Championship",
     "startYear": "1993",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q552581",
     "itemLabel": "SAP",
     "startYear": "1972",
     "endYear": "",
-    "sitelinks": "62"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q190464",
     "itemLabel": "HSBC",
     "startYear": "1865",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q481778",
@@ -2783,7 +2783,7 @@
     "itemLabel": "Zara",
     "startYear": "1975",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q156776",
@@ -2809,14 +2809,14 @@
   {
     "item": "http://www.wikidata.org/entity/Q192964",
     "itemLabel": "Istanbul University",
-    "startYear": "1453",
+    "startYear": "1933",
     "endYear": "",
     "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q192964",
     "itemLabel": "Istanbul University",
-    "startYear": "1846",
+    "startYear": "1933",
     "endYear": "",
     "sitelinks": "61"
   },
@@ -2839,21 +2839,21 @@
     "itemLabel": "Zara",
     "startYear": "1975",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "63"
   },
   {
     "item": "http://www.wikidata.org/entity/Q234803",
     "itemLabel": "Rolls-Royce Motor Cars",
     "startYear": "1998",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q27224",
     "itemLabel": "Bentley",
     "startYear": "1919",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q36033",
@@ -2874,14 +2874,14 @@
     "itemLabel": "Rolls-Royce Motor Cars",
     "startYear": "1998",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q190464",
     "itemLabel": "HSBC",
     "startYear": "1865",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191551",
@@ -2895,28 +2895,28 @@
     "itemLabel": "Bentley",
     "startYear": "1919",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151107",
     "itemLabel": "Michelin",
     "startYear": "1889",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q152171",
     "itemLabel": "University of Bonn",
     "startYear": "1818",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q234803",
     "itemLabel": "Rolls-Royce Motor Cars",
     "startYear": "1998",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q122141",
@@ -2937,7 +2937,7 @@
     "itemLabel": "HSBC",
     "startYear": "1865",
     "endYear": "",
-    "sitelinks": "61"
+    "sitelinks": "62"
   },
   {
     "item": "http://www.wikidata.org/entity/Q481778",
@@ -2956,7 +2956,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q9322",
     "itemLabel": "Deutsche Bahn",
-    "startYear": "1988",
+    "startYear": "1994",
     "endYear": "",
     "sitelinks": "60"
   },
@@ -2984,7 +2984,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q9322",
     "itemLabel": "Deutsche Bahn",
-    "startYear": "1988",
+    "startYear": "1994",
     "endYear": "",
     "sitelinks": "60"
   },
@@ -3000,7 +3000,7 @@
     "itemLabel": "Japan Airlines",
     "startYear": "1951",
     "endYear": "",
-    "sitelinks": "60"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q174386",
@@ -3035,7 +3035,7 @@
     "itemLabel": "Ericsson",
     "startYear": "1876",
     "endYear": "",
-    "sitelinks": "60"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q53238",
@@ -3054,23 +3054,23 @@
   {
     "item": "http://www.wikidata.org/entity/Q489921",
     "itemLabel": "Mastercard",
-    "startYear": "1966",
+    "startYear": "1979",
     "endYear": "",
-    "sitelinks": "60"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q489921",
     "itemLabel": "Mastercard",
     "startYear": "1979",
     "endYear": "",
-    "sitelinks": "60"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q213140",
     "itemLabel": "Japan Airlines",
     "startYear": "1951",
     "endYear": "",
-    "sitelinks": "60"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q696376",
@@ -3089,16 +3089,16 @@
   {
     "item": "http://www.wikidata.org/entity/Q489921",
     "itemLabel": "Mastercard",
-    "startYear": "1966",
+    "startYear": "1979",
     "endYear": "",
-    "sitelinks": "60"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q489921",
     "itemLabel": "Mastercard",
     "startYear": "1979",
     "endYear": "",
-    "sitelinks": "60"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q485593",
@@ -3147,7 +3147,7 @@
     "itemLabel": "Integrated Taxonomic Information System",
     "startYear": "1996",
     "endYear": "",
-    "sitelinks": "59"
+    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q738236",
@@ -3180,23 +3180,23 @@
   {
     "item": "http://www.wikidata.org/entity/Q191384",
     "itemLabel": "International Bank for Reconstruction and Development",
-    "startYear": "1944",
+    "startYear": "1946",
     "endYear": "",
-    "sitelinks": "59"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q191384",
-    "itemLabel": "International Bank for Reconstruction and Development",
-    "startYear": "1945",
-    "endYear": "",
-    "sitelinks": "59"
+    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q191384",
     "itemLabel": "International Bank for Reconstruction and Development",
     "startYear": "1946",
     "endYear": "",
-    "sitelinks": "59"
+    "sitelinks": "60"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q191384",
+    "itemLabel": "International Bank for Reconstruction and Development",
+    "startYear": "1946",
+    "endYear": "",
+    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q332477",
@@ -3273,14 +3273,14 @@
     "itemLabel": "Goldman Sachs",
     "startYear": "1869",
     "endYear": "",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q193326",
     "itemLabel": "Goldman Sachs",
     "startYear": "1869",
     "endYear": "",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q151954",
@@ -3294,7 +3294,7 @@
     "itemLabel": "Kyiv Metro",
     "startYear": "1960",
     "endYear": "",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q244457",
@@ -3320,7 +3320,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q192653",
     "itemLabel": "Czech Airlines",
-    "startYear": "1923",
+    "startYear": "1992",
     "endYear": "",
     "sitelinks": "58"
   },
@@ -3333,10 +3333,10 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q309031",
-    "itemLabel": "Lacoste S.A.",
+    "itemLabel": "Lacoste",
     "startYear": "1933",
     "endYear": "",
-    "sitelinks": "58"
+    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q238101",
@@ -3368,10 +3368,10 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q309031",
-    "itemLabel": "Lacoste S.A.",
+    "itemLabel": "Lacoste",
     "startYear": "1933",
     "endYear": "",
-    "sitelinks": "58"
+    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188217",
@@ -3385,7 +3385,7 @@
     "itemLabel": "Lexus",
     "startYear": "1989",
     "endYear": "",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q188217",
@@ -3413,7 +3413,7 @@
     "itemLabel": "Goldman Sachs",
     "startYear": "1869",
     "endYear": "",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q500088",
@@ -3427,14 +3427,14 @@
     "itemLabel": "BASF",
     "startYear": "1865",
     "endYear": "",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q843887",
     "itemLabel": "Hermès",
     "startYear": "1837",
     "endYear": "",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q214867",
@@ -3446,7 +3446,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q192653",
     "itemLabel": "Czech Airlines",
-    "startYear": "1923",
+    "startYear": "1992",
     "endYear": "",
     "sitelinks": "58"
   },
@@ -3469,7 +3469,7 @@
     "itemLabel": "BASF",
     "startYear": "1865",
     "endYear": "",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q53227",
@@ -3495,8 +3495,148 @@
   {
     "item": "http://www.wikidata.org/entity/Q192314",
     "itemLabel": "JPMorgan Chase",
-    "startYear": "1968",
+    "startYear": "2000",
     "endYear": "",
-    "sitelinks": "57"
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8093",
+    "itemLabel": "Nintendo",
+    "startYear": "1889",
+    "endYear": "",
+    "sitelinks": "131"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8093",
+    "itemLabel": "Nintendo",
+    "startYear": "1947",
+    "endYear": "",
+    "sitelinks": "131"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8093",
+    "itemLabel": "Nintendo",
+    "startYear": "1889",
+    "endYear": "",
+    "sitelinks": "131"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8093",
+    "itemLabel": "Nintendo",
+    "startYear": "1947",
+    "endYear": "",
+    "sitelinks": "131"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8093",
+    "itemLabel": "Nintendo",
+    "startYear": "1889",
+    "endYear": "",
+    "sitelinks": "131"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8093",
+    "itemLabel": "Nintendo",
+    "startYear": "1947",
+    "endYear": "",
+    "sitelinks": "131"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8093",
+    "itemLabel": "Nintendo",
+    "startYear": "1889",
+    "endYear": "",
+    "sitelinks": "131"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q8093",
+    "itemLabel": "Nintendo",
+    "startYear": "1947",
+    "endYear": "",
+    "sitelinks": "131"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1418",
+    "itemLabel": "Nokia",
+    "startYear": "1865",
+    "endYear": "",
+    "sitelinks": "111"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q721064",
+    "itemLabel": "Nanyang Technological University",
+    "startYear": "1991",
+    "endYear": "",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q29043471",
+    "itemLabel": "Neuralink",
+    "startYear": "2016",
+    "endYear": "",
+    "sitelinks": "59"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q201815",
+    "itemLabel": "McDonnell Douglas",
+    "startYear": "1967",
+    "endYear": "1996",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q45700",
+    "itemLabel": "Konami",
+    "startYear": "1969",
+    "endYear": "",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q951305",
+    "itemLabel": "University of Cape Town",
+    "startYear": "1829",
+    "endYear": "",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q54096",
+    "itemLabel": "University of Cologne",
+    "startYear": "1388",
+    "endYear": "",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q178848",
+    "itemLabel": "University of Notre Dame",
+    "startYear": "1842",
+    "endYear": "",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q219615",
+    "itemLabel": "University of Barcelona",
+    "startYear": "1842",
+    "endYear": "",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q45700",
+    "itemLabel": "Konami",
+    "startYear": "1969",
+    "endYear": "",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q178848",
+    "itemLabel": "University of Notre Dame",
+    "startYear": "1842",
+    "endYear": "",
+    "sitelinks": "58"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q45700",
+    "itemLabel": "Konami",
+    "startYear": "1969",
+    "endYear": "",
+    "sitelinks": "58"
   }
 ]

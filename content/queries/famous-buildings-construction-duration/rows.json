@@ -9,7 +9,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q39671",
     "itemLabel": "Stonehenge",
-    "startYear": "-3000",
+    "startYear": "-1848",
     "endYear": "",
     "sitelinks": "135"
   },
@@ -81,6 +81,13 @@
     "itemLabel": "Alhambra",
     "startYear": "1239",
     "endYear": "",
+    "sitelinks": "96"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q4152",
+    "itemLabel": "Neuschwanstein Castle",
+    "startYear": "1869",
+    "endYear": "",
     "sitelinks": "92"
   },
   {
@@ -88,14 +95,7 @@
     "itemLabel": "Neuschwanstein Castle",
     "startYear": "1869",
     "endYear": "",
-    "sitelinks": "91"
-  },
-  {
-    "item": "http://www.wikidata.org/entity/Q4152",
-    "itemLabel": "Neuschwanstein Castle",
-    "startYear": "1869",
-    "endYear": "",
-    "sitelinks": "91"
+    "sitelinks": "92"
   },
   {
     "item": "http://www.wikidata.org/entity/Q83063",
@@ -151,26 +151,26 @@
     "itemLabel": "Potala Palace",
     "startYear": "637",
     "endYear": "",
-    "sitelinks": "82"
+    "sitelinks": "84"
   },
   {
     "item": "http://www.wikidata.org/entity/Q184427",
     "itemLabel": "Ajanta Caves",
     "startYear": "-200",
     "endYear": "",
-    "sitelinks": "82"
+    "sitelinks": "83"
   },
   {
     "item": "http://www.wikidata.org/entity/Q170495",
     "itemLabel": "Topkapı Palace",
     "startYear": "1460",
     "endYear": "",
-    "sitelinks": "78"
+    "sitelinks": "79"
   },
   {
     "item": "http://www.wikidata.org/entity/Q187702",
     "itemLabel": "Church of the Holy Sepulchre",
-    "startYear": "1400",
+    "startYear": "335",
     "endYear": "",
     "sitelinks": "76"
   },
@@ -190,10 +190,10 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q133575",
-    "itemLabel": "Cave of Altacosa",
+    "itemLabel": "Cave of Altamira",
     "startYear": "-13000",
     "endYear": "",
-    "sitelinks": "75"
+    "sitelinks": "76"
   },
   {
     "item": "http://www.wikidata.org/entity/Q11274",
@@ -228,7 +228,7 @@
     "itemLabel": "Florence Cathedral",
     "startYear": "1296",
     "endYear": "",
-    "sitelinks": "70"
+    "sitelinks": "71"
   },
   {
     "item": "http://www.wikidata.org/entity/Q16318627",
@@ -242,21 +242,21 @@
     "itemLabel": "St Mark's Basilica",
     "startYear": "828",
     "endYear": "",
-    "sitelinks": "64"
+    "sitelinks": "65"
   },
   {
     "item": "http://www.wikidata.org/entity/Q522862",
     "itemLabel": "Karnak Temple Complex",
     "startYear": "-1899",
     "endYear": "",
-    "sitelinks": "64"
+    "sitelinks": "66"
   },
   {
     "item": "http://www.wikidata.org/entity/Q193369",
     "itemLabel": "Prague Castle",
     "startYear": "900",
     "endYear": "",
-    "sitelinks": "63"
+    "sitelinks": "64"
   },
   {
     "item": "http://www.wikidata.org/entity/Q33200",
@@ -291,7 +291,7 @@
     "itemLabel": "Belvedere",
     "startYear": "1714",
     "endYear": "",
-    "sitelinks": "59"
+    "sitelinks": "61"
   },
   {
     "item": "http://www.wikidata.org/entity/Q234364",
@@ -312,7 +312,7 @@
     "itemLabel": "Doge's Palace",
     "startYear": "1340",
     "endYear": "",
-    "sitelinks": "59"
+    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q18201640",
@@ -326,21 +326,21 @@
     "itemLabel": "Wartburg",
     "startYear": "1067",
     "endYear": "",
-    "sitelinks": "57"
+    "sitelinks": "58"
   },
   {
     "item": "http://www.wikidata.org/entity/Q212065",
     "itemLabel": "Edinburgh Castle",
     "startYear": "1200",
     "endYear": "",
-    "sitelinks": "57"
+    "sitelinks": "58"
   },
   {
     "item": "http://www.wikidata.org/entity/Q319841",
     "itemLabel": "Luxor Temple",
     "startYear": "-1399",
     "endYear": "",
-    "sitelinks": "57"
+    "sitelinks": "58"
   },
   {
     "item": "http://www.wikidata.org/entity/Q18547",
@@ -354,7 +354,7 @@
     "itemLabel": "Malbork Castle",
     "startYear": "1270",
     "endYear": "",
-    "sitelinks": "56"
+    "sitelinks": "57"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2854543",
@@ -445,7 +445,7 @@
     "itemLabel": "Tower of Hercules",
     "startYear": "100",
     "endYear": "",
-    "sitelinks": "52"
+    "sitelinks": "53"
   },
   {
     "item": "http://www.wikidata.org/entity/Q167566",
@@ -471,7 +471,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q220301",
     "itemLabel": "Cluny Abbey",
-    "startYear": "909",
+    "startYear": "910",
     "endYear": "",
     "sitelinks": "51"
   },
@@ -550,7 +550,7 @@
     "itemLabel": "Karlštejn Castle",
     "startYear": "1348",
     "endYear": "",
-    "sitelinks": "49"
+    "sitelinks": "50"
   },
   {
     "item": "http://www.wikidata.org/entity/Q242741",
@@ -641,14 +641,14 @@
     "itemLabel": "Nesvizh Castle",
     "startYear": "1583",
     "endYear": "",
-    "sitelinks": "46"
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q719422",
     "itemLabel": "Nesvizh Castle",
     "startYear": "1583",
     "endYear": "",
-    "sitelinks": "46"
+    "sitelinks": "47"
   },
   {
     "item": "http://www.wikidata.org/entity/Q729370",
@@ -718,14 +718,14 @@
     "itemLabel": "Mariinskyi Palace",
     "startYear": "1752",
     "endYear": "",
-    "sitelinks": "45"
+    "sitelinks": "51"
   },
   {
     "item": "http://www.wikidata.org/entity/Q752266",
     "itemLabel": "Durham Castle",
     "startYear": "1072",
     "endYear": "",
-    "sitelinks": "45"
+    "sitelinks": "46"
   },
   {
     "item": "http://www.wikidata.org/entity/Q460889",
@@ -753,14 +753,14 @@
     "itemLabel": "Commerzbank Tower",
     "startYear": "1997",
     "endYear": "",
-    "sitelinks": "44"
+    "sitelinks": "43"
   },
   {
     "item": "http://www.wikidata.org/entity/Q482485",
     "itemLabel": "Gyeongbokgung",
     "startYear": "1395",
     "endYear": "",
-    "sitelinks": "44"
+    "sitelinks": "45"
   },
   {
     "item": "http://www.wikidata.org/entity/Q23354",
@@ -802,7 +802,7 @@
     "itemLabel": "Amber Fort",
     "startYear": "1592",
     "endYear": "",
-    "sitelinks": "43"
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q756098",
@@ -977,7 +977,7 @@
     "itemLabel": "Nidaros Cathedral",
     "startYear": "1201",
     "endYear": "",
-    "sitelinks": "40"
+    "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q336246",
@@ -998,7 +998,7 @@
     "itemLabel": "Linderhof Palace",
     "startYear": "1870",
     "endYear": "",
-    "sitelinks": "40"
+    "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q940733",
@@ -1012,7 +1012,7 @@
     "itemLabel": "Khotyn Fortress",
     "startYear": "1325",
     "endYear": "",
-    "sitelinks": "40"
+    "sitelinks": "43"
   },
   {
     "item": "http://www.wikidata.org/entity/Q322183",
@@ -1026,7 +1026,7 @@
     "itemLabel": "Château de Vincennes",
     "startYear": "1340",
     "endYear": "",
-    "sitelinks": "40"
+    "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q679292",
@@ -1040,7 +1040,7 @@
     "itemLabel": "Garni Temple",
     "startYear": "50",
     "endYear": "",
-    "sitelinks": "40"
+    "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q936285",
@@ -1187,7 +1187,7 @@
     "itemLabel": "Eggenberg Castle, Graz",
     "startYear": "1635",
     "endYear": "",
-    "sitelinks": "38"
+    "sitelinks": "39"
   },
   {
     "item": "http://www.wikidata.org/entity/Q206101",
@@ -1208,7 +1208,7 @@
     "itemLabel": "Dublin Castle",
     "startYear": "1204",
     "endYear": "",
-    "sitelinks": "38"
+    "sitelinks": "39"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2389195",
@@ -1264,7 +1264,7 @@
     "itemLabel": "Livadia Palace",
     "startYear": "1910",
     "endYear": "",
-    "sitelinks": "37"
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q622438",
@@ -1285,7 +1285,7 @@
     "itemLabel": "Miramare Castle",
     "startYear": "1860",
     "endYear": "",
-    "sitelinks": "37"
+    "sitelinks": "38"
   },
   {
     "item": "http://www.wikidata.org/entity/Q756815",
@@ -1381,7 +1381,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q644464",
     "itemLabel": "Akershus Fortress",
-    "startYear": "1290",
+    "startYear": "1300",
     "endYear": "",
     "sitelinks": "36"
   },
@@ -1523,7 +1523,7 @@
     "itemLabel": "Dresden Cathedral",
     "startYear": "1800",
     "endYear": "",
-    "sitelinks": "34"
+    "sitelinks": "35"
   },
   {
     "item": "http://www.wikidata.org/entity/Q233940",
@@ -1572,7 +1572,7 @@
     "itemLabel": "Corvin Castle",
     "startYear": "1440",
     "endYear": "",
-    "sitelinks": "34"
+    "sitelinks": "35"
   },
   {
     "item": "http://www.wikidata.org/entity/Q738109",
@@ -1586,7 +1586,7 @@
     "itemLabel": "Castel Nuovo",
     "startYear": "1282",
     "endYear": "",
-    "sitelinks": "34"
+    "sitelinks": "35"
   },
   {
     "item": "http://www.wikidata.org/entity/Q943873",
@@ -1598,7 +1598,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q239560",
     "itemLabel": "St. Martin's Cathedral, Bratislava",
-    "startYear": "1221",
+    "startYear": "1401",
     "endYear": "",
     "sitelinks": "33"
   },
@@ -1642,7 +1642,7 @@
     "itemLabel": "Cattedrale di Monreale",
     "startYear": "1172",
     "endYear": "",
-    "sitelinks": "33"
+    "sitelinks": "34"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1370087",
@@ -1731,7 +1731,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q540237",
     "itemLabel": "Fountains Abbey",
-    "startYear": "1101",
+    "startYear": "1132",
     "endYear": "",
     "sitelinks": "33"
   },
@@ -1845,7 +1845,7 @@
     "itemLabel": "Jumeirah Emirates Towers Hotel",
     "startYear": "2000",
     "endYear": "",
-    "sitelinks": "32"
+    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q844324",
@@ -1880,7 +1880,7 @@
     "itemLabel": "Rundāle Palace",
     "startYear": "1736",
     "endYear": "",
-    "sitelinks": "32"
+    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q699474",
@@ -1922,7 +1922,7 @@
     "itemLabel": "Lubart's Castle",
     "startYear": "1340",
     "endYear": "",
-    "sitelinks": "32"
+    "sitelinks": "37"
   },
   {
     "item": "http://www.wikidata.org/entity/Q197019",
@@ -1957,7 +1957,7 @@
     "itemLabel": "Chiang Kai-shek Memorial Hall",
     "startYear": "1980",
     "endYear": "",
-    "sitelinks": "32"
+    "sitelinks": "33"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1352282",
@@ -2006,7 +2006,7 @@
     "itemLabel": "Saint George's Cathedral",
     "startYear": "1760",
     "endYear": "",
-    "sitelinks": "31"
+    "sitelinks": "36"
   },
   {
     "item": "http://www.wikidata.org/entity/Q632566",
@@ -2067,7 +2067,7 @@
   {
     "item": "http://www.wikidata.org/entity/Q1517884",
     "itemLabel": "National Palace",
-    "startYear": "1522",
+    "startYear": "1951",
     "endYear": "",
     "sitelinks": "31"
   },
@@ -2153,7 +2153,7 @@
     "itemLabel": "S.A.I. Catedral Metropolitana de la Encarnación",
     "startYear": "1600",
     "endYear": "",
-    "sitelinks": "31"
+    "sitelinks": "32"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1354756",
@@ -2251,14 +2251,14 @@
     "itemLabel": "Margat",
     "startYear": "1062",
     "endYear": "",
-    "sitelinks": "30"
+    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q2075156",
     "itemLabel": "Ljubljana Castle",
     "startYear": "900",
     "endYear": "",
-    "sitelinks": "30"
+    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q430792",
@@ -2272,14 +2272,14 @@
     "itemLabel": "Baphuon",
     "startYear": "1060",
     "endYear": "",
-    "sitelinks": "30"
+    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1133288",
     "itemLabel": "Temple of Caesar",
     "startYear": "-28",
     "endYear": "",
-    "sitelinks": "30"
+    "sitelinks": "31"
   },
   {
     "item": "http://www.wikidata.org/entity/Q389210",
@@ -2292,6 +2292,90 @@
     "item": "http://www.wikidata.org/entity/Q958391",
     "itemLabel": "Georgia Guidestones",
     "startYear": "1980",
+    "endYear": "",
+    "sitelinks": "31"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q743881",
+    "itemLabel": "Khan's Palace",
+    "startYear": "1501",
+    "endYear": "",
+    "sitelinks": "41"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2027162",
+    "itemLabel": "Gateway Arch",
+    "startYear": "1965",
+    "endYear": "1967",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2027162",
+    "itemLabel": "Gateway Arch",
+    "startYear": "1968",
+    "endYear": "1967",
+    "sitelinks": "40"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1353643",
+    "itemLabel": "Swallow's Nest",
+    "startYear": "1912",
+    "endYear": "1912",
+    "sitelinks": "39"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2628708",
+    "itemLabel": "Vorontsov Palace",
+    "startYear": "1801",
+    "endYear": "",
+    "sitelinks": "32"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q2299324",
+    "itemLabel": "Transfiguration Cathedral",
+    "startYear": "1795",
+    "endYear": "",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1547466",
+    "itemLabel": "St Giles' Cathedral",
+    "startYear": "1400",
+    "endYear": "",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1115637",
+    "itemLabel": "Cathedral of Saint Mother Teresa in Pristina",
+    "startYear": "2007",
+    "endYear": "",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q908703",
+    "itemLabel": "Columbia Center",
+    "startYear": "1985",
+    "endYear": "1985",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q247595",
+    "itemLabel": "Leinster House",
+    "startYear": "1748",
+    "endYear": "",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1132683",
+    "itemLabel": "Hever Castle",
+    "startYear": "1271",
+    "endYear": "",
+    "sitelinks": "30"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q1582758",
+    "itemLabel": "Cathedral Basilica of the Virgin of Incarnation",
+    "startYear": "1528",
     "endYear": "",
     "sitelinks": "30"
   }

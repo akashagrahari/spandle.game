@@ -235,14 +235,14 @@
     "itemLabel": "Ottoman dynasty",
     "startYear": "1299",
     "endYear": "",
-    "sitelinks": "59"
+    "sitelinks": "60"
   },
   {
     "item": "http://www.wikidata.org/entity/Q31711",
     "itemLabel": "House of Saud",
     "startYear": "1744",
     "endYear": "",
-    "sitelinks": "58"
+    "sitelinks": "59"
   },
   {
     "item": "http://www.wikidata.org/entity/Q4958",
@@ -302,7 +302,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q155616",
-    "itemLabel": "House of Gl\u00fccksburg",
+    "itemLabel": "House of Glücksburg",
     "startYear": "1825",
     "endYear": "",
     "sitelinks": "54"
@@ -505,7 +505,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q51153",
-    "itemLabel": "\u00c1rp\u00e1d dynasty",
+    "itemLabel": "Árpád dynasty",
     "startYear": "972",
     "endYear": "1301",
     "sitelinks": "45"
@@ -522,7 +522,7 @@
     "itemLabel": "Ghaznavids",
     "startYear": "962",
     "endYear": "",
-    "sitelinks": "45"
+    "sitelinks": "44"
   },
   {
     "item": "http://www.wikidata.org/entity/Q748151",
@@ -634,7 +634,7 @@
     "itemLabel": "'Alawi dynasty",
     "startYear": "1666",
     "endYear": "",
-    "sitelinks": "41"
+    "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q486918",
@@ -648,7 +648,7 @@
     "itemLabel": "House of Braganza",
     "startYear": "1442",
     "endYear": "",
-    "sitelinks": "41"
+    "sitelinks": "42"
   },
   {
     "item": "http://www.wikidata.org/entity/Q909452",
@@ -659,14 +659,14 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q287652",
-    "itemLabel": "P\u0159emyslid dynasty",
+    "itemLabel": "Přemyslid dynasty",
     "startYear": "872",
     "endYear": "1306",
     "sitelinks": "41"
   },
   {
     "item": "http://www.wikidata.org/entity/Q287652",
-    "itemLabel": "P\u0159emyslid dynasty",
+    "itemLabel": "Přemyslid dynasty",
     "startYear": "872",
     "endYear": "1521",
     "sitelinks": "41"
@@ -767,7 +767,7 @@
     "itemLabel": "Bagrationi dynasty",
     "startYear": "813",
     "endYear": "",
-    "sitelinks": "39"
+    "sitelinks": "40"
   },
   {
     "item": "http://www.wikidata.org/entity/Q321029",
@@ -1187,6 +1187,13 @@
     "itemLabel": "Southern Ming dynasty",
     "startYear": "1644",
     "endYear": "1661",
+    "sitelinks": "25"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q895180",
+    "itemLabel": "Spanish House of Bourbon",
+    "startYear": "1701",
+    "endYear": "",
     "sitelinks": "25"
   }
 ]
