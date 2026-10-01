@@ -8,7 +8,7 @@
   },
   {
     "item": "http://www.wikidata.org/entity/Q165585",
-    "itemLabel": "Cassini\u2212Huygens",
+    "itemLabel": "Cassini−Huygens",
     "startYear": "1997",
     "endYear": "2017",
     "sitelinks": "81"
@@ -39,7 +39,7 @@
     "itemLabel": "Chandrayaan-3",
     "startYear": "2023",
     "endYear": "",
-    "sitelinks": "66"
+    "sitelinks": "67"
   },
   {
     "item": "http://www.wikidata.org/entity/Q180971",
@@ -1278,7 +1278,7 @@
     "itemLabel": "Zond 2",
     "startYear": "1964",
     "endYear": "",
-    "sitelinks": "27"
+    "sitelinks": "28"
   },
   {
     "item": "http://www.wikidata.org/entity/Q684467",
@@ -2818,7 +2818,7 @@
     "itemLabel": "Tianwen-2",
     "startYear": "2025",
     "endYear": "",
-    "sitelinks": "19"
+    "sitelinks": "21"
   },
   {
     "item": "http://www.wikidata.org/entity/Q748738",
@@ -2916,7 +2916,7 @@
     "itemLabel": "Artemis V",
     "startYear": "2029",
     "endYear": "",
-    "sitelinks": "18"
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q116178269",
@@ -2930,7 +2930,7 @@
     "itemLabel": "SpaceX Crew-12",
     "startYear": "2026",
     "endYear": "",
-    "sitelinks": "18"
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q1611466",
@@ -2972,7 +2972,7 @@
     "itemLabel": "Artemis V",
     "startYear": "2029",
     "endYear": "",
-    "sitelinks": "18"
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q110156739",
@@ -2993,7 +2993,7 @@
     "itemLabel": "Shenzhou 18",
     "startYear": "2024",
     "endYear": "",
-    "sitelinks": "18"
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q114257376",
@@ -3014,7 +3014,7 @@
     "itemLabel": "Shenzhou 18",
     "startYear": "2024",
     "endYear": "",
-    "sitelinks": "18"
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q277726",
@@ -3119,7 +3119,7 @@
     "itemLabel": "Shenzhou 19",
     "startYear": "2024",
     "endYear": "",
-    "sitelinks": "17"
+    "sitelinks": "19"
   },
   {
     "item": "http://www.wikidata.org/entity/Q89785666",
@@ -3230,14 +3230,14 @@
     "item": "http://www.wikidata.org/entity/Q116178289",
     "itemLabel": "Soyuz MS-28",
     "startYear": "2025",
-    "endYear": "",
+    "endYear": "2026",
     "sitelinks": "16"
   },
   {
     "item": "http://www.wikidata.org/entity/Q116178289",
     "itemLabel": "Soyuz MS-28",
     "startYear": "2025",
-    "endYear": "",
+    "endYear": "2026",
     "sitelinks": "16"
   },
   {
@@ -3322,7 +3322,7 @@
     "itemLabel": "Double Star mission",
     "startYear": "2003",
     "endYear": "",
-    "sitelinks": "15"
+    "sitelinks": "16"
   },
   {
     "item": "http://www.wikidata.org/entity/Q118864589",
@@ -3330,5 +3330,12 @@
     "startYear": "2023",
     "endYear": "2024",
     "sitelinks": "15"
+  },
+  {
+    "item": "http://www.wikidata.org/entity/Q40610",
+    "itemLabel": "Tyazhely Sputnik",
+    "startYear": "1961",
+    "endYear": "",
+    "sitelinks": "27"
   }
 ]
